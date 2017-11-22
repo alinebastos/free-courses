@@ -1,2 +1,5 @@
-# free-courses
-Free IT courses
+# Free IT Courses
+
+## Frontend courses
+
+## Backend courses
