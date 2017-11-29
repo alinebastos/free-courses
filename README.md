@@ -1,7 +1,12 @@
 # Free IT Courses
 More than just a bunch lf links, this is a selection of what we judge to be some of the best learning opportunities you will find online for free.
 
+## Git and Github Corurses
+- [Git e Github para iniciantes](https://www.udemy.com/git-e-github-para-iniciantes/) :brazil:
+
 ## Frontend courses
+- [Angular 2](https://loiane.training/course/angular-2/) :brazil:
+- [Criando sites estáticos com Jekyll](https://www.udemy.com/criando-sites-estaticos-com-jekyll/) :brazil:
 - [Responsive Web Design Fundamentals](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893) :us:
 - [Responsive Images](https://www.udacity.com/course/responsive-images--ud882) :us:
 - [Web tooling automation](https://www.udacity.com/course/web-tooling-automation--ud892) :us:
