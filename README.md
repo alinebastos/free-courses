@@ -1,7 +1,7 @@
 # Free IT Courses
 More than just a bunch lf links, this is a selection of what we judge to be some of the best learning opportunities you will find online for free.
 
-## Git and Github Corurses
+## Git and Github Courses
 - [Git e Github para iniciantes](https://www.udemy.com/git-e-github-para-iniciantes/) :brazil:
 
 ## Frontend courses
