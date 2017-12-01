@@ -11,6 +11,8 @@ More than just a bunch lf links, this is a selection of what we judge to be some
 - [Responsive Images](https://www.udacity.com/course/responsive-images--ud882) :us:
 - [Web tooling automation](https://www.udacity.com/course/web-tooling-automation--ud892) :us:
 - [Website Performance Optimization](https://www.udacity.com/course/website-performance-optimization--ud884) :us:
+- [Introdução ao Quasar Framework](https://codecasts.com.br/series/introducao-quasar) :brazil:
+
 
 ## Backend courses
 
@@ -21,3 +23,6 @@ More than just a bunch lf links, this is a selection of what we judge to be some
 #### Python
 - [Python para Zumbis](https://www.pycursos.com/python-para-zumbis/) :brazil:
 - [Python for Everybody](https://py4e.com) :us:
+
+#### Node
+- [RESTful com Node.js e Restify](https://codecasts.com.br/series/restful-com-nodejs-e-restify) :brazil:
