@@ -27,6 +27,7 @@ More than just a bunch lf links, this is a selection of what we judge to be some
 - [JS avançado: Simulações Naturais](https://pt.khanacademy.org/computing/computer-programming/programming-natural-simulations) :brazil:
 - [JavaScript Funcional](https://www.youtube.com/playlist?list=PL77JVjKTJT2iAlBJX3buyljqzfoR9nV_R) :brazil:
 - [Desvendando a linguagem JavaScript](https://www.youtube.com/playlist?list=PLQCmSnNFVYnT1-oeDOSBnt164802rkegc) :brazil:
+- [JavaScript Design Patterns](https://br.udacity.com/course/javascript-design-patterns--ud989) :us:
 
 ## Backend courses
 
