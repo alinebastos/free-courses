@@ -19,6 +19,8 @@ More than just a bunch of links, this is a selection of what we judge to be some
 - [Design de interfaces com CSS3](https://cursos.timtec.com.br/course/css3/intro) :brazil:
 - [CSS Flexbox](https://www.origamid.com/cursos/css-flexbox/) :brazil:
 - [Gulp- Guia Definitivo - Mão na Massa](https://www.youtube.com/playlist?list=PLtluGZbI5EShPPQh7TxfxMaFwDsktHi4V) :brazil:
+- [Curso de Lógica de Programação - Gustavo Guanabara](https://www.youtube.com/watch?v=8mei6uVttho&list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV) :brazil:
+
 
 #### JavaScript
 - [JavaScript Básico](https://www.codecademy.com/pt-BR/tracks/javascript) :brazil:
