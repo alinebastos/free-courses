@@ -18,9 +18,9 @@ More than just a bunch of links, this is a selection of what we judge to be some
 - [UX e UI Design](https://cursos.timtec.com.br/course/ux-e-ui-design/intro) :brazil:
 - [Design de interfaces com CSS3](https://cursos.timtec.com.br/course/css3/intro) :brazil:
 - [CSS Flexbox](https://www.origamid.com/cursos/css-flexbox/) :brazil:
+- [CSS Grid Layout](https://www.youtube.com/watch?v=hKXOVD2Yrj8) :brazil:
 - [Gulp - Guia Definitivo - Mão na Massa](https://www.youtube.com/playlist?list=PLtluGZbI5EShPPQh7TxfxMaFwDsktHi4V) :brazil:
 - [Curso de Lógica de Programação - Gustavo Guanabara](https://www.youtube.com/watch?v=8mei6uVttho&list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV) :brazil:
-
 
 #### JavaScript
 - [JavaScript Básico](https://www.codecademy.com/pt-BR/tracks/javascript) :brazil:
@@ -42,3 +42,7 @@ More than just a bunch of links, this is a selection of what we judge to be some
 
 #### Node
 - [RESTful com Node.js e Restify](https://codecasts.com.br/series/restful-com-nodejs-e-restify) :brazil:
+- [Construindo uma API com Typescript, Jest, TDD e muito mais ](https://www.youtube.com/watch?v=W2ld5xRS3cY&list=PLz_YTBuxtxt6_Zf1h-qzNsvVt46H8ziKh) :brazil:
+
+#### Golang
+- [Aprenda Go](https://www.youtube.com/watch?v=WiGU_ZB-u0w&list=PLCKpcjBB_VlBsxJ9IseNxFllf-UFEXOdg) :brazil:
