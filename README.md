@@ -3,6 +3,7 @@ More than just a bunch of links, this is a selection of what we judge to be some
 
 ## Git and Github Courses
 - [Git e Github para iniciantes](https://www.udemy.com/git-e-github-para-iniciantes/) :brazil:
+- [Git e Github](https://www.schoolofnet.com/curso/git/controle-de-versao/git-e-github/) :brazil:
 
 ## Frontend courses
 
@@ -21,10 +22,12 @@ More than just a bunch of links, this is a selection of what we judge to be some
 - [UX e UI Design](https://cursos.timtec.com.br/course/ux-e-ui-design/intro) :brazil:
 - [Web tooling automation](https://www.udacity.com/course/web-tooling-automation--ud892) :us:
 - [Website Performance Optimization](https://www.udacity.com/course/website-performance-optimization--ud884) :us:
+- [JavaScript, NodeJS, ReactJS, React Native](https://app.rocketseat.com.br/starter) :brazil:
 
 #### JavaScript
 - [Desvendando a linguagem JavaScript](https://www.youtube.com/playlist?list=PLQCmSnNFVYnT1-oeDOSBnt164802rkegc) :brazil:
 - [Introdução a JavaScript: Desenho & Animação](https://pt.khanacademy.org/computing/computer-programming/programming) :brazil:
+- [Iniciando com JavaScript](https://www.schoolofnet.com/curso/frontend/javascript/iniciando-com-javascript-rev3/) :brazil:
 - [JavaScript Avançado: Jogos & Visualizações](https://pt.khanacademy.org/computing/computer-programming/programming-games-visualizations) :brazil:
 - [JavaScript Básico](https://www.codecademy.com/pt-BR/tracks/javascript) :brazil:
 - [JavaScript Funcional](https://www.youtube.com/playlist?list=PL77JVjKTJT2iAlBJX3buyljqzfoR9nV_R) :brazil:
@@ -41,8 +44,10 @@ More than just a bunch of links, this is a selection of what we judge to be some
 - [Python para Zumbis](https://www.pycursos.com/python-para-zumbis/) :brazil:
 
 #### Node
+- [Iniciando com NodeJS](https://www.schoolofnet.com/aula-ao-vivo/iniciando-com-nodejs-live/)
 - [Construindo uma API com Typescript, Jest, TDD e muito mais ](https://www.youtube.com/watch?v=W2ld5xRS3cY&list=PLz_YTBuxtxt6_Zf1h-qzNsvVt46H8ziKh) :brazil:
 - [RESTful com Node.js e Restify](https://codecasts.com.br/series/restful-com-nodejs-e-restify) :brazil:
+- [API dos Correios com NodeJS](https://www.schoolofnet.com/canal-direto-ao-ponto/api-dos-correios-com-nodejs/)
 
 #### Golang
 - [Aprenda Go](https://www.youtube.com/watch?v=WiGU_ZB-u0w&list=PLCKpcjBB_VlBsxJ9IseNxFllf-UFEXOdg) :brazil:
