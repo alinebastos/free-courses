@@ -32,6 +32,7 @@ More than just a bunch of links, this is a selection of what we judge to be some
 - [JavaScript Básico](https://www.codecademy.com/pt-BR/tracks/javascript) :brazil:
 - [JavaScript Funcional](https://www.youtube.com/playlist?list=PL77JVjKTJT2iAlBJX3buyljqzfoR9nV_R) :brazil:
 - [JS avançado: Simulações Naturais](https://pt.khanacademy.org/computing/computer-programming/programming-natural-simulations) :brazil:
+- [Curso de JavaScript e ECMAScript para Iniciantes - Gustavo Guanabara](https://www.youtube.com/playlist?list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1) :brazil:
 
 ## Backend courses
 
