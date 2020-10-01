@@ -20,24 +20,20 @@ More than just a bunch of links, this is a selection of what we judge to be some
 #### Various
 
 - [Angular 2](https://loiane.training/course/angular-2/) :brazil:
-- [React Redux Tutorial](https://www.youtube.com/playlist?list=PLC3y8-rFHvwheJHvseC3I0HuYI2f46oAK) :us:
 - [Criando sites estáticos com Jekyll](https://www.udemy.com/criando-sites-estaticos-com-jekyll/) :brazil:
-- [Gatsby Build a Blog](https://www.youtube.com/playlist?list=PLW0RabRDhwwzVNhlOgQQgw6HJzXdM1MnT) :us:
 - [CSS Flexbox](https://www.origamid.com/cursos/css-flexbox/) :brazil:
 - [CSS Grid Layout](https://www.youtube.com/watch?v=hKXOVD2Yrj8) :brazil:
 - [CSS Animation](https://www.youtube.com/playlist?list=PL4cUxeGkcC9iGYgmEd2dm3zAKzyCGDtM5) :us:
-  <<<<<<< HEAD
-  =======
-- [Gulp - Guia Definitivo - Mão na Massa](https://www.youtube.com/playlist?list=PLtluGZbI5EShPPQh7TxfxMaFwDsktHi4V) :brazil:
-  > > > > > > > 5033b32
 - [Curso de Lógica de Programação - Gustavo Guanabara](https://www.youtube.com/watch?v=8mei6uVttho&list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV) :brazil:
 - [Desenvolvimento de front-end](https://cursos.timtec.com.br/course/desenvolvimento-de-front-end/intro) :brazil:
 - [Design de interfaces com CSS3](https://cursos.timtec.com.br/course/css3/intro) :brazil:
 - [Gulp - Guia Definitivo - Mão na Massa](https://www.youtube.com/playlist?list=PLtluGZbI5EShPPQh7TxfxMaFwDsktHi4V) :brazil:
+- [Gatsby Build a Blog](https://www.youtube.com/playlist?list=PLW0RabRDhwwzVNhlOgQQgw6HJzXdM1MnT) :us:
 - [Introdução ao Quasar Framework](https://codecasts.com.br/series/introducao-quasar) :brazil:
 - [JavaScript, NodeJS, ReactJS, React Native](https://app.rocketseat.com.br/starter) :brazil:
 - [Responsive Images](https://www.udacity.com/course/responsive-images--ud882) :us:
 - [Responsive Web Design Fundamentals](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893) :us:
+- [React Redux Tutorial](https://www.youtube.com/playlist?list=PLC3y8-rFHvwheJHvseC3I0HuYI2f46oAK) :us:
 - [UX e UI Design](https://cursos.timtec.com.br/course/ux-e-ui-design/intro) :brazil:
 - [Web tooling automation](https://www.udacity.com/course/web-tooling-automation--ud892) :us:
 - [Website Performance Optimization](https://www.udacity.com/course/website-performance-optimization--ud884) :us:
