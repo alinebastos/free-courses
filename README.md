@@ -26,6 +26,10 @@ More than just a bunch of links, this is a selection of what we judge to be some
 - [CSS Flexbox](https://www.origamid.com/cursos/css-flexbox/) :brazil:
 - [CSS Grid Layout](https://www.youtube.com/watch?v=hKXOVD2Yrj8) :brazil:
 - [CSS Animation](https://www.youtube.com/playlist?list=PL4cUxeGkcC9iGYgmEd2dm3zAKzyCGDtM5) :us:
+  <<<<<<< HEAD
+  =======
+- [Gulp - Guia Definitivo - Mão na Massa](https://www.youtube.com/playlist?list=PLtluGZbI5EShPPQh7TxfxMaFwDsktHi4V) :brazil:
+  > > > > > > > 5033b32
 - [Curso de Lógica de Programação - Gustavo Guanabara](https://www.youtube.com/watch?v=8mei6uVttho&list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV) :brazil:
 - [Desenvolvimento de front-end](https://cursos.timtec.com.br/course/desenvolvimento-de-front-end/intro) :brazil:
 - [Design de interfaces com CSS3](https://cursos.timtec.com.br/course/css3/intro) :brazil:
