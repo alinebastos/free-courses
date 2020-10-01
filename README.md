@@ -41,9 +41,9 @@ More than just a bunch of links, this is a selection of what we judge to be some
 - [Estrutura de Dados e Algoritmos com Java](https://loiane.training/course/estrutura-de-dados-e-algoritmos-com-java/) :brazil:
 
 #### Python
+- [Python Curso em Vídeo](https://www.youtube.com/watch?v=S9uPNppGsGo&list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0) :brazil:
 - [Python for Everybody](https://py4e.com) :us:
 - [Python para Zumbis](https://www.pycursos.com/python-para-zumbis/) :brazil:
-- [Python Curso em Vídeo](https://www.youtube.com/watch?v=S9uPNppGsGo&list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0) :brazil:
 
 #### Node
 - [API dos Correios com NodeJS](https://www.schoolofnet.com/canal-direto-ao-ponto/api-dos-correios-com-nodejs/)
