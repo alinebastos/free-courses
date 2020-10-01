@@ -53,3 +53,6 @@ More than just a bunch of links, this is a selection of what we judge to be some
 
 #### Golang
 - [Aprenda Go](https://www.youtube.com/watch?v=WiGU_ZB-u0w&list=PLCKpcjBB_VlBsxJ9IseNxFllf-UFEXOdg) :brazil:
+
+#### Kotlin
+- [Kotlin Course for Beginners and Java Devs](https://www.youtube.com/playlist?list=PLrnPJCHvNZuAIbejjZA1kGfLeA8ZpICB2) :us:
