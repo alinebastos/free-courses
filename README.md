@@ -20,6 +20,7 @@ More than just a bunch of links, this is a selection of what we judge to be some
 #### Various
 
 - [Angular 2](https://loiane.training/course/angular-2/) :brazil:
+- [Angular 9 ](https://www.cod3r.com.br/courses/angular-9-essencial) :brazil:
 - [Criando sites estáticos com Jekyll](https://www.udemy.com/criando-sites-estaticos-com-jekyll/) :brazil:
 - [CSS Flexbox](https://www.origamid.com/cursos/css-flexbox/) :brazil:
 - [CSS Grid Layout](https://www.youtube.com/watch?v=hKXOVD2Yrj8) :brazil:
@@ -37,7 +38,6 @@ More than just a bunch of links, this is a selection of what we judge to be some
 - [UX e UI Design](https://cursos.timtec.com.br/course/ux-e-ui-design/intro) :brazil:
 - [Web tooling automation](https://www.udacity.com/course/web-tooling-automation--ud892) :us:
 - [Website Performance Optimization](https://www.udacity.com/course/website-performance-optimization--ud884) :us:
-- [Angular 9 ](https://www.cod3r.com.br/courses/angular-9-essencial) :brazil:
 
 #### JavaScript
 
@@ -70,9 +70,10 @@ More than just a bunch of links, this is a selection of what we judge to be some
 
 - [API dos Correios com NodeJS](https://www.schoolofnet.com/canal-direto-ao-ponto/api-dos-correios-com-nodejs/)
 - [Construindo uma API com Typescript, Jest, TDD e muito mais ](https://www.youtube.com/watch?v=W2ld5xRS3cY&list=PLz_YTBuxtxt6_Zf1h-qzNsvVt46H8ziKh) :brazil:
+- [Imersão em desenvolvimento de APIs com Node.js By #NodeBR!](https://erickwendel.teachable.com/p/node-js-para-iniciantes-nodebr?origin=CursoErickWendel) :brazil:
 - [Iniciando com NodeJS](https://www.schoolofnet.com/aula-ao-vivo/iniciando-com-nodejs-live/)
 - [RESTful com Node.js e Restify](https://codecasts.com.br/series/restful-com-nodejs-e-restify) :brazil:
-- [Imersão em desenvolvimento de APIs com Node.js By #NodeBR!](https://erickwendel.teachable.com/p/node-js-para-iniciantes-nodebr?origin=CursoErickWendel) :brazil:
+
 
 #### Golang
 
