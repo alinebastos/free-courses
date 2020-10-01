@@ -37,6 +37,7 @@ More than just a bunch of links, this is a selection of what we judge to be some
 - [UX e UI Design](https://cursos.timtec.com.br/course/ux-e-ui-design/intro) :brazil:
 - [Web tooling automation](https://www.udacity.com/course/web-tooling-automation--ud892) :us:
 - [Website Performance Optimization](https://www.udacity.com/course/website-performance-optimization--ud884) :us:
+- [Angular 9 ](https://www.cod3r.com.br/courses/angular-9-essencial) :brazil:
 
 #### JavaScript
 
@@ -71,6 +72,7 @@ More than just a bunch of links, this is a selection of what we judge to be some
 - [Construindo uma API com Typescript, Jest, TDD e muito mais ](https://www.youtube.com/watch?v=W2ld5xRS3cY&list=PLz_YTBuxtxt6_Zf1h-qzNsvVt46H8ziKh) :brazil:
 - [Iniciando com NodeJS](https://www.schoolofnet.com/aula-ao-vivo/iniciando-com-nodejs-live/)
 - [RESTful com Node.js e Restify](https://codecasts.com.br/series/restful-com-nodejs-e-restify) :brazil:
+- [Imersão em desenvolvimento de APIs com Node.js By #NodeBR!](https://erickwendel.teachable.com/p/node-js-para-iniciantes-nodebr?origin=CursoErickWendel) :brazil:
 
 #### Golang
 
