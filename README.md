@@ -67,4 +67,4 @@ More than just a bunch of links, this is a selection of what we judge to be some
 ## FullStack courses
 
 #### Diversos cursos em renomadas instituições 
--[700 Free Online Programming & Computer Science Courses You Can Start This September](https://www.freecodecamp.org/news/free-online-programming-cs-courses/) :us:
+- [700 Free Online Programming & Computer Science Courses You Can Start This September](https://www.freecodecamp.org/news/free-online-programming-cs-courses/) :us:
