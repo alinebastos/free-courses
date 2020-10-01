@@ -47,6 +47,9 @@ More than just a bunch of links, this is a selection of what we judge to be some
 - [Curso de Java e Orientação a Objetos](https://loiane.training/course/java-basico/) :brazil:
 - [Estrutura de Dados e Algoritmos com Java](https://loiane.training/course/estrutura-de-dados-e-algoritmos-com-java/) :brazil:
 
+#### PHP
+- [Curso Laravel 6.x](https://www.youtube.com/playlist?list=PLVSNL1PHDWvQBtcH_4VR82Dg-aFiVOZBY) :brazil:
+
 #### Python
 - [Python Curso em Vídeo](https://www.youtube.com/watch?v=S9uPNppGsGo&list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0) :brazil:
 - [Python for Everybody](https://py4e.com) :us:
