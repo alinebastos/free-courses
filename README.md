@@ -6,7 +6,13 @@ More than just a bunch of links, this is a selection of what we judge to be some
 - [Git e Github](https://www.schoolofnet.com/curso/git/controle-de-versao/git-e-github/) :brazil:
 - [Git e Github](https://www.youtube.com/watch?v=xEKo29OWILE&list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA/) :brazil:
 
-## Frontend courses
+## Mobile Courses
+
+#### Flutter
+- [Flutter - 45 Cursos Grátis na UDEMY](https://www.udemy.com/courses/search/?price=price-free&q=flutter&sort=relevance&src=sac) :brazil: :us:
+- [Flutter Básico Online Grátis](https://www.primecursos.com.br/flutter-basico/) :brazil:
+
+## Frontend Courses
 
 #### Various
 - [Angular 2](https://loiane.training/course/angular-2/) :brazil:
