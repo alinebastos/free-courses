@@ -84,6 +84,9 @@ More than just a bunch of links, this is a selection of what we judge to be some
 
 - [Kotlin Course for Beginners and Java Devs](https://www.youtube.com/playlist?list=PLrnPJCHvNZuAIbejjZA1kGfLeA8ZpICB2) :us:
 
+#### Haskell   
+
+- [Introduction to Haskell](https://www.seas.upenn.edu/~cis194/fall16/):us:
 ## FullStack courses
 
 #### Diversos cursos em renomadas instituições 
