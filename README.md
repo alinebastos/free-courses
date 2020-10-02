@@ -23,8 +23,10 @@ More than just a bunch of links, this is a selection of what we judge to be some
 - [Angular 9 ](https://www.cod3r.com.br/courses/angular-9-essencial) :brazil:
 - [Criando sites estáticos com Jekyll](https://www.udemy.com/criando-sites-estaticos-com-jekyll/) :brazil:
 - [CSS Flexbox](https://www.origamid.com/cursos/css-flexbox/) :brazil:
+- [CSS Grid](https://cssgrid.io/) :us:
 - [CSS Grid Layout](https://www.youtube.com/watch?v=hKXOVD2Yrj8) :brazil:
 - [CSS Animation](https://www.youtube.com/playlist?list=PL4cUxeGkcC9iGYgmEd2dm3zAKzyCGDtM5) :us:
+- [CSS Animations Series](https://www.youtube.com/playlist?list=PLqGj3iMvMa4LvJ8VctoXnPI0dtE40wfid) :us:
 - [CSS para Iniciantes](https://www.nodestudio.com.br/curso/curso-de-css3) :brazil:
 - [Curso de Lógica de Programação - Gustavo Guanabara](https://www.youtube.com/watch?v=8mei6uVttho&list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV) :brazil:
 - [Desenvolvimento de front-end](https://cursos.timtec.com.br/course/desenvolvimento-de-front-end/intro) :brazil:
@@ -57,6 +59,7 @@ More than just a bunch of links, this is a selection of what we judge to be some
 
 - [Curso de Java e Orientação a Objetos](https://loiane.training/course/java-basico/) :brazil:
 - [Estrutura de Dados e Algoritmos com Java](https://loiane.training/course/estrutura-de-dados-e-algoritmos-com-java/) :brazil:
+- [TDD – Desenvolvimento de software guiado por testes](https://pt.coursera.org/learn/tdd-desenvolvimento-de-software-guiado-por-testes) :brazil:
 
 #### PHP
 - [Curso Laravel 6.x](https://www.youtube.com/playlist?list=PLVSNL1PHDWvQBtcH_4VR82Dg-aFiVOZBY) :brazil:
