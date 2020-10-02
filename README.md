@@ -41,6 +41,7 @@ More than just a bunch of links, this is a selection of what we judge to be some
 - [UX e UI Design](https://cursos.timtec.com.br/course/ux-e-ui-design/intro) :brazil:
 - [Web tooling automation](https://www.udacity.com/course/web-tooling-automation--ud892) :us:
 - [Website Performance Optimization](https://www.udacity.com/course/website-performance-optimization--ud884) :us:
+- [Mini Curso gratuito de TypeScript](https://willianjusten.com.br/mini-curso-gratuito-de-typescript/) :brazil:
 
 #### JavaScript
 
