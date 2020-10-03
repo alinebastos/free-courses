@@ -32,7 +32,9 @@ More than just a bunch of links, this is a selection of what we judge to be some
 - [CSS Grid](https://cssgrid.io/) :us:
 - [CSS Grid Layout](https://www.youtube.com/watch?v=hKXOVD2Yrj8) :brazil:
 - [CSS para Iniciantes](https://www.nodestudio.com.br/curso/curso-de-css3) :brazil:
+- [Curso de Linux - Primeiros Passos](https://www.youtube.com/playlist?list=PLHz_AreHm4dlIXleu20uwPWFOSswqLYbV) :brazil:
 - [Curso de Lógica de Programação - Gustavo Guanabara](https://www.youtube.com/watch?v=8mei6uVttho&list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV) :brazil:
+- [Curso Redes de Computadores](https://www.youtube.com/playlist?list=PLHz_AreHm4dkd4lr9G0Up-W-YaHYdTDuP) :brazil:
 - [Desenvolvimento de front-end](https://cursos.timtec.com.br/course/desenvolvimento-de-front-end/intro) :brazil:
 - [Design de interfaces com CSS3](https://cursos.timtec.com.br/course/css3/intro) :brazil:
 - [Gulp - Guia Definitivo - Mão na Massa](https://www.youtube.com/playlist?list=PLtluGZbI5EShPPQh7TxfxMaFwDsktHi4V) :brazil:
@@ -62,11 +64,15 @@ More than just a bunch of links, this is a selection of what we judge to be some
 #### Java
 
 - [Curso de Java e Orientação a Objetos](https://loiane.training/course/java-basico/) :brazil:
+- [Curso de Java para Iniciantes](https://www.youtube.com/playlist?list=PLHz_AreHm4dkI2ZdjTwZA4mPMxWTfNSpR) :brazil:
+- [Curso de POO Java](https://www.youtube.com/playlist?list=PLHz_AreHm4dkqe2aR0tQK74m8SFe-aGsY) :brazil:
 - [Estrutura de Dados e Algoritmos com Java](https://loiane.training/course/estrutura-de-dados-e-algoritmos-com-java/) :brazil:
 - [TDD – Desenvolvimento de software guiado por testes](https://pt.coursera.org/learn/tdd-desenvolvimento-de-software-guiado-por-testes) :brazil:
 
 #### PHP
 - [Curso Laravel 6.x](https://www.youtube.com/playlist?list=PLVSNL1PHDWvQBtcH_4VR82Dg-aFiVOZBY) :brazil:
+- [Curso de PHP para Iniciantes](https://www.youtube.com/playlist?list=PLHz_AreHm4dm4beCCCmW4xwpmLf6EHY9k) :brazil:
+- [Curso de POO PHP](https://www.youtube.com/playlist?list=PLHz_AreHm4dmGuLII3tsvryMMD7VgcT7x) :brazil:
 
 #### Python
 
@@ -83,7 +89,6 @@ More than just a bunch of links, this is a selection of what we judge to be some
 - [Iniciando com NodeJS](https://www.schoolofnet.com/aula-ao-vivo/iniciando-com-nodejs-live/)
 - [RESTful com Node.js e Restify](https://codecasts.com.br/series/restful-com-nodejs-e-restify) :brazil:
 
-
 #### Golang
 
 - [Aprenda Go](https://www.youtube.com/watch?v=WiGU_ZB-u0w&list=PLCKpcjBB_VlBsxJ9IseNxFllf-UFEXOdg) :brazil:
@@ -95,6 +100,7 @@ More than just a bunch of links, this is a selection of what we judge to be some
 #### Haskell   
 
 - [Introduction to Haskell](https://www.seas.upenn.edu/~cis194/fall16/):us:
+
 ## FullStack courses
 
 #### Diversos cursos em renomadas instituições 
