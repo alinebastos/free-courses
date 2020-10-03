@@ -11,7 +11,6 @@ More than just a bunch of links, this is a selection of what we judge to be some
 ## Lógica de programação
 
 - [Curso completo de lógica de programação - Buildlab](https://buildlab.com.br/aprenda-a-programar/) :brazil:
-- [Curso de Lógica de Programação](https://www.youtube.com/playlist?list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV) :brazil:
 
 ## Mobile Courses
 
@@ -33,7 +32,9 @@ More than just a bunch of links, this is a selection of what we judge to be some
 - [CSS Grid](https://cssgrid.io/) :us:
 - [CSS Grid Layout](https://www.youtube.com/watch?v=hKXOVD2Yrj8) :brazil:
 - [CSS para Iniciantes](https://www.nodestudio.com.br/curso/curso-de-css3) :brazil:
+- [Curso de Linux - Primeiros Passos](https://www.youtube.com/playlist?list=PLHz_AreHm4dlIXleu20uwPWFOSswqLYbV) :brazil:
 - [Curso de Lógica de Programação - Gustavo Guanabara](https://www.youtube.com/watch?v=8mei6uVttho&list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV) :brazil:
+- [Curso Redes de Computadores](https://www.youtube.com/playlist?list=PLHz_AreHm4dkd4lr9G0Up-W-YaHYdTDuP) :brazil:
 - [Desenvolvimento de front-end](https://cursos.timtec.com.br/course/desenvolvimento-de-front-end/intro) :brazil:
 - [Design de interfaces com CSS3](https://cursos.timtec.com.br/course/css3/intro) :brazil:
 - [Gulp - Guia Definitivo - Mão na Massa](https://www.youtube.com/playlist?list=PLtluGZbI5EShPPQh7TxfxMaFwDsktHi4V) :brazil:
@@ -46,8 +47,6 @@ More than just a bunch of links, this is a selection of what we judge to be some
 - [UX e UI Design](https://cursos.timtec.com.br/course/ux-e-ui-design/intro) :brazil:
 - [Web tooling automation](https://www.udacity.com/course/web-tooling-automation--ud892) :us:
 - [Website Performance Optimization](https://www.udacity.com/course/website-performance-optimization--ud884) :us:
-- - [Curso de Linux - Primeiros Passos](https://www.youtube.com/playlist?list=PLHz_AreHm4dlIXleu20uwPWFOSswqLYbV) :brazil:
-- [Curso Redes de Computadores](https://www.youtube.com/playlist?list=PLHz_AreHm4dkd4lr9G0Up-W-YaHYdTDuP) :brazil:
 
 #### JavaScript
 
@@ -65,10 +64,10 @@ More than just a bunch of links, this is a selection of what we judge to be some
 #### Java
 
 - [Curso de Java e Orientação a Objetos](https://loiane.training/course/java-basico/) :brazil:
-- [Estrutura de Dados e Algoritmos com Java](https://loiane.training/course/estrutura-de-dados-e-algoritmos-com-java/) :brazil:
-- [TDD – Desenvolvimento de software guiado por testes](https://pt.coursera.org/learn/tdd-desenvolvimento-de-software-guiado-por-testes) :brazil:
 - [Curso de Java para Iniciantes](https://www.youtube.com/playlist?list=PLHz_AreHm4dkI2ZdjTwZA4mPMxWTfNSpR) :brazil:
 - [Curso de POO Java](https://www.youtube.com/playlist?list=PLHz_AreHm4dkqe2aR0tQK74m8SFe-aGsY) :brazil:
+- [Estrutura de Dados e Algoritmos com Java](https://loiane.training/course/estrutura-de-dados-e-algoritmos-com-java/) :brazil:
+- [TDD – Desenvolvimento de software guiado por testes](https://pt.coursera.org/learn/tdd-desenvolvimento-de-software-guiado-por-testes) :brazil:
 
 #### PHP
 - [Curso Laravel 6.x](https://www.youtube.com/playlist?list=PLVSNL1PHDWvQBtcH_4VR82Dg-aFiVOZBY) :brazil:
