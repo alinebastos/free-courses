@@ -8,6 +8,10 @@ More than just a bunch of links, this is a selection of what we judge to be some
 - [Git e Github](https://www.schoolofnet.com/curso/git/controle-de-versao/git-e-github/) :brazil:
 - [Git e Github](https://www.youtube.com/watch?v=xEKo29OWILE&list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA/) :brazil:
 
+## Lógica de programação
+
+- [Curso completo de lógica de programação - Buildlab](https://buildlab.com.br/aprenda-a-programar/) :brazil:
+
 ## Mobile Courses
 
 #### Flutter
@@ -69,6 +73,7 @@ More than just a bunch of links, this is a selection of what we judge to be some
 - [Python Curso em Vídeo](https://www.youtube.com/watch?v=S9uPNppGsGo&list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0) :brazil:
 - [Python for Everybody](https://py4e.com) :us:
 - [Python para Zumbis](https://www.pycursos.com/python-para-zumbis/) :brazil:
+- [Análise de dados em Python - Câmara dos Deputados - LabHacker](https://www.youtube.com/playlist?list=PLqiFjCF_dtcymXtdjwAP4s7tRoW4CYwnH) :brazil:
 
 #### Node
 
