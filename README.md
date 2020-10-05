@@ -11,11 +11,13 @@ More than just a bunch of links, this is a selection of what we judge to be some
 ## Lógica de programação
 
 - [Curso completo de lógica de programação - Buildlab](https://buildlab.com.br/aprenda-a-programar/) :brazil:
+- [Introdução a Algoritmos - Gustavo Guanabara](https://www.youtube.com/watch?v=8mei6uVttho&list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV) :brazil:
 
 ## Mobile Courses
 
 #### Flutter
 
+- [Flutter - André Baltieri](https://www.youtube.com/playlist?list=PLHlHvK2lnJndc8qCqmQdHr-cLoOb2-q61) :brazil:
 - [Flutter - 45 Cursos Grátis na UDEMY](https://www.udemy.com/courses/search/?price=price-free&q=flutter&sort=relevance&src=sac) :brazil: :us:
 - [Flutter Básico Online Grátis](https://www.primecursos.com.br/flutter-basico/) :brazil:
 
@@ -26,6 +28,7 @@ More than just a bunch of links, this is a selection of what we judge to be some
 
 #### Various
 
+- [AngularJS - Rodrigo Branas](https://www.youtube.com/watch?v=_y7rKxqPoyg&list=PLQCmSnNFVYnTD5p2fR4EXmtlR6jQJMbPb) :brazil:
 - [Angular 2](https://loiane.training/course/angular-2/) :brazil:
 - [Angular 9 ](https://www.cod3r.com.br/courses/angular-9-essencial) :brazil:
 - [Criando sites estáticos com Jekyll](https://www.udemy.com/criando-sites-estaticos-com-jekyll/) :brazil:
@@ -43,6 +46,7 @@ More than just a bunch of links, this is a selection of what we judge to be some
 - [Gulp - Guia Definitivo - Mão na Massa](https://www.youtube.com/playlist?list=PLtluGZbI5EShPPQh7TxfxMaFwDsktHi4V) :brazil:
 - [Gatsby Build a Blog](https://www.youtube.com/playlist?list=PLW0RabRDhwwzVNhlOgQQgw6HJzXdM1MnT) :us:
 - [Introdução ao Quasar Framework](https://codecasts.com.br/series/introducao-quasar) :brazil:
+- [Mini Curso gratuito de TypeScript](https://willianjusten.com.br/mini-curso-gratuito-de-typescript/) :brazil:
 - [ReactJS - By Rocketseat](https://app.rocketseat.com.br/node/curso-react-js) :brazil:
 - [Responsive Images](https://www.udacity.com/course/responsive-images--ud882) :us:
 - [Responsive Web Design Fundamentals](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893) :us:
@@ -50,6 +54,7 @@ More than just a bunch of links, this is a selection of what we judge to be some
 - [UX e UI Design](https://cursos.timtec.com.br/course/ux-e-ui-design/intro) :brazil:
 - [Web tooling automation](https://www.udacity.com/course/web-tooling-automation--ud892) :us:
 - [Website Performance Optimization](https://www.udacity.com/course/website-performance-optimization--ud884) :us:
+- [React, Redux e integração de APIs](https://www.udemy.com/course/react-redux-e-integracao-de-apis/) :brazil:
 
 #### JavaScript
 
@@ -97,9 +102,12 @@ More than just a bunch of links, this is a selection of what we judge to be some
 
 - [API dos Correios com NodeJS](https://www.schoolofnet.com/canal-direto-ao-ponto/api-dos-correios-com-nodejs/)
 - [Construindo uma API com Typescript, Jest, TDD e muito mais ](https://www.youtube.com/watch?v=W2ld5xRS3cY&list=PLz_YTBuxtxt6_Zf1h-qzNsvVt46H8ziKh) :brazil:
+- [Criando APIs com NodeJs - André Baltieri](https://www.youtube.com/playlist?list=PLHlHvK2lnJndvvycjBqQAbgEDqXxKLoqn) :brazil:
 - [Imersão em desenvolvimento de APIs com Node.js By #NodeBR!](https://erickwendel.teachable.com/p/node-js-para-iniciantes-nodebr?origin=CursoErickWendel) :brazil:
 - [Iniciando com NodeJS](https://www.schoolofnet.com/aula-ao-vivo/iniciando-com-nodejs-live/)
 - [NodeJS - By Rocketseat](https://app.rocketseat.com.br/node/curso-node-js) :brazil:
+- [Node.js - Rodrigo Branas](https://www.youtube.com/playlist?list=PLQCmSnNFVYnTFo60Bt972f8HA4Td7WKwq) :brazil:
+- [NodeJs, TDD e CLean Architecture - Rodrigo Manguinho](https://www.youtube.com/playlist?list=PL9aKtVrF05DyEwK5kdvzrYXFdpZfj1dsG&fbclid=IwAR1PogboGrrX6v0WcKAhjzTGqG0rxUsEDcLfQO1dB7FB6xl6Z0dqCojjtI4) :brazil:
 - [RESTful com Node.js e Restify](https://codecasts.com.br/series/restful-com-nodejs-e-restify) :brazil:
 
 #### Golang
