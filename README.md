@@ -41,12 +41,17 @@ More than just a bunch of links, this is a selection of what we judge to be some
 - [Curso de Linux - Primeiros Passos](https://www.youtube.com/playlist?list=PLHz_AreHm4dlIXleu20uwPWFOSswqLYbV) :brazil:
 - [Curso de Lógica de Programação - Gustavo Guanabara](https://www.youtube.com/watch?v=8mei6uVttho&list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV) :brazil:
 - [Curso Redes de Computadores](https://www.youtube.com/playlist?list=PLHz_AreHm4dkd4lr9G0Up-W-YaHYdTDuP) :brazil:
+- [Criando Sites Profissionais](https://www.nodestudio.com.br/curso/curso-carreira-web-sites-profissionais) :brazil:
 - [Desenvolvimento de front-end](https://cursos.timtec.com.br/course/desenvolvimento-de-front-end/intro) :brazil:
 - [Design de interfaces com CSS3](https://cursos.timtec.com.br/course/css3/intro) :brazil:
+- [Design Responsivo](https://www.nodestudio.com.br/curso/curso-de-design-responsivo) :brazil:
 - [Gulp - Guia Definitivo - Mão na Massa](https://www.youtube.com/playlist?list=PLtluGZbI5EShPPQh7TxfxMaFwDsktHi4V) :brazil:
 - [Gatsby Build a Blog](https://www.youtube.com/playlist?list=PLW0RabRDhwwzVNhlOgQQgw6HJzXdM1MnT) :us:
+- [HTML5 para iniciantes](https://www.nodestudio.com.br/curso/curso-de-html5) :brazil:
+- [HTML5 & CSS3 na Prática](https://www.nodestudio.com.br/curso/curso-html5-e-css3-na-pratica) :brazil:
 - [Introdução ao Quasar Framework](https://codecasts.com.br/series/introducao-quasar) :brazil:
 - [Mini Curso gratuito de TypeScript](https://willianjusten.com.br/mini-curso-gratuito-de-typescript/) :brazil:
+- [Materialize CSS para iniciantes](https://www.nodestudio.com.br/curso/curso-de-materialize-css) :brazil:
 - [ReactJS - By Rocketseat](https://app.rocketseat.com.br/node/curso-react-js) :brazil:
 - [Responsive Images](https://www.udacity.com/course/responsive-images--ud882) :us:
 - [Responsive Web Design Fundamentals](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893) :us:
@@ -58,6 +63,7 @@ More than just a bunch of links, this is a selection of what we judge to be some
 
 #### JavaScript
 
+- [Curso de Javascript](https://www.nodestudio.com.br/curso/curso-de-javascript) :brazil:
 - [Desvendando a linguagem JavaScript](https://www.youtube.com/playlist?list=PLQCmSnNFVYnT1-oeDOSBnt164802rkegc) :brazil:
 - [Iniciando com JavaScript](https://www.schoolofnet.com/curso/frontend/javascript/iniciando-com-javascript-rev3/) :brazil:
 - [Introdução a JavaScript: Desenho & Animação](https://pt.khanacademy.org/computing/computer-programming/programming) :brazil:
@@ -84,6 +90,7 @@ More than just a bunch of links, this is a selection of what we judge to be some
 - [Curso de PHP 7](https://www.youtube.com/playlist?list=PLwXQLZ3FdTVEITn849NlfI9BGY-hk1wkq) :brazil:
 - [Curso de PHP para Iniciantes](https://www.youtube.com/playlist?list=PLHz_AreHm4dm4beCCCmW4xwpmLf6EHY9k) :brazil:
 - [Curso de POO PHP](https://www.youtube.com/playlist?list=PLHz_AreHm4dmGuLII3tsvryMMD7VgcT7x) :brazil:
+= [Curso de PHP Orientado a Objetos](https://www.youtube.com/playlist?list=PLwXQLZ3FdTVEau55kNj_zLgpXL4JZUg8I) :brazil:
 
 #### Python
 
@@ -121,6 +128,13 @@ More than just a bunch of links, this is a selection of what we judge to be some
 #### Haskell   
 
 - [Introduction to Haskell](https://www.seas.upenn.edu/~cis194/fall16/):us:
+
+## Infrastructure courses
+
+#### Docker
+
+- [Descomplicando o Docker](https://www.youtube.com/watch?v=0xxHiOSJVe8&list=PLf-O3X2-mxDkiUH0r_BadgtELJ_qyrFJ_) :brazil:
+
 
 ## FullStack courses
 
