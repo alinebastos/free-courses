@@ -21,6 +21,9 @@ More than just a bunch of links, this is a selection of what we judge to be some
 - [Flutter - 45 Cursos Grátis na UDEMY](https://www.udemy.com/courses/search/?price=price-free&q=flutter&sort=relevance&src=sac) :brazil: :us:
 - [Flutter Básico Online Grátis](https://www.primecursos.com.br/flutter-basico/) :brazil:
 
+#### React Native
+- [React Native - By Rocketseat](https://app.rocketseat.com.br/node/curso-react-native) :brazil:
+
 ## Frontend Courses
 
 #### Various
@@ -47,9 +50,9 @@ More than just a bunch of links, this is a selection of what we judge to be some
 - [HTML5 para iniciantes](https://www.nodestudio.com.br/curso/curso-de-html5) :brazil:
 - [HTML5 & CSS3 na Prática](https://www.nodestudio.com.br/curso/curso-html5-e-css3-na-pratica) :brazil:
 - [Introdução ao Quasar Framework](https://codecasts.com.br/series/introducao-quasar) :brazil:
-- [JavaScript, NodeJS, ReactJS, React Native](https://app.rocketseat.com.br/starter) :brazil:
 - [Mini Curso gratuito de TypeScript](https://willianjusten.com.br/mini-curso-gratuito-de-typescript/) :brazil:
 - [Materialize CSS para iniciantes](https://www.nodestudio.com.br/curso/curso-de-materialize-css) :brazil:
+- [ReactJS - By Rocketseat](https://app.rocketseat.com.br/node/curso-react-js) :brazil:
 - [Responsive Images](https://www.udacity.com/course/responsive-images--ud882) :us:
 - [Responsive Web Design Fundamentals](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893) :us:
 - [React Redux Tutorial](https://www.youtube.com/playlist?list=PLC3y8-rFHvwheJHvseC3I0HuYI2f46oAK) :us:
@@ -66,6 +69,7 @@ More than just a bunch of links, this is a selection of what we judge to be some
 - [Introdução a JavaScript: Desenho & Animação](https://pt.khanacademy.org/computing/computer-programming/programming) :brazil:
 - [JavaScript Avançado: Jogos & Visualizações](https://pt.khanacademy.org/computing/computer-programming/programming-games-visualizations) :brazil:
 - [JavaScript Básico](https://www.codecademy.com/pt-BR/tracks/javascript) :brazil:
+- [JavaScript - By Rocketseat](https://app.rocketseat.com.br/node/curso-java-script) :brazil:
 - [JavaScript Funcional](https://www.youtube.com/playlist?list=PL77JVjKTJT2iAlBJX3buyljqzfoR9nV_R) :brazil:
 - [JS avançado: Simulações Naturais](https://pt.khanacademy.org/computing/computer-programming/programming-natural-simulations) :brazil:
 - [JavaScript e ECMAScript para Iniciantes - Gustavo Guanabara](https://www.youtube.com/playlist?list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1) :brazil:
@@ -108,6 +112,7 @@ More than just a bunch of links, this is a selection of what we judge to be some
 - [Criando APIs com NodeJs - André Baltieri](https://www.youtube.com/playlist?list=PLHlHvK2lnJndvvycjBqQAbgEDqXxKLoqn) :brazil:
 - [Imersão em desenvolvimento de APIs com Node.js By #NodeBR!](https://erickwendel.teachable.com/p/node-js-para-iniciantes-nodebr?origin=CursoErickWendel) :brazil:
 - [Iniciando com NodeJS](https://www.schoolofnet.com/aula-ao-vivo/iniciando-com-nodejs-live/)
+- [NodeJS - By Rocketseat](https://app.rocketseat.com.br/node/curso-node-js) :brazil:
 - [Node.js - Rodrigo Branas](https://www.youtube.com/playlist?list=PLQCmSnNFVYnTFo60Bt972f8HA4Td7WKwq) :brazil:
 - [NodeJs, TDD e CLean Architecture - Rodrigo Manguinho](https://www.youtube.com/playlist?list=PL9aKtVrF05DyEwK5kdvzrYXFdpZfj1dsG&fbclid=IwAR1PogboGrrX6v0WcKAhjzTGqG0rxUsEDcLfQO1dB7FB6xl6Z0dqCojjtI4) :brazil:
 - [RESTful com Node.js e Restify](https://codecasts.com.br/series/restful-com-nodejs-e-restify) :brazil:
