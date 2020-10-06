@@ -7,6 +7,7 @@ More than just a bunch of links, this is a selection of what we judge to be some
 - [Git e Github para iniciantes](https://www.udemy.com/git-e-github-para-iniciantes/) :brazil:
 - [Git e Github](https://www.schoolofnet.com/curso/git/controle-de-versao/git-e-github/) :brazil:
 - [Git e Github](https://www.youtube.com/watch?v=xEKo29OWILE&list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA/) :brazil:
+- [Introduction to Git and GitHub](https://web.digitalinnovation.one/course/introducao-ao-git-e-ao-github/learning/75b9fe49-6ed4-4480-83a7-7e37fc356aa9/) :brazil:
 
 ## Lógica de programação
 
