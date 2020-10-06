@@ -116,20 +116,28 @@ More than just a bunch of links, this is a selection of what we judge to be some
 
 - [Introduction to Haskell](https://www.seas.upenn.edu/~cis194/fall16/):us:
 ### LINKS FOR FREE COURSES
-   <br>Automate the Boring Stuff with Python Programming: https://bit.ly/3jqnJHk<br>
-Network Ethical Hacking for Beginners (Kali 2020, Hands-on): https://bit.ly/33jlpfA<br>
-Create Awesome WatchOS Apps Using SwiftUI: https://bit.ly/30r25uY<br>
+
+### PYTHON
 Python Bootcamp 2020 Build 15 working Applications and Games: https://bit.ly/3nevH8O<br>
-Milestones in Python 3.8 with exciting new features: https://bit.ly/33kQqj1<br>
-Fundamentals of Data Analysis Expression DAX: https://bit.ly/2Gh6z0c<br>
-Data Visualization in Python with Covid-19 Analysis Project: https://bit.ly/3jnLJul<br>
-Complete Google Certified Educator Level 1 Masterclass: https://bit.ly/36p8lHm<br>
-Microsoft Power BI: Latest 2020 Beginner to Expert Modules: https://bit.ly/3l7QEAo<br>
-Get Started With NodeJS : For Beginners 2020: https://bit.ly/3jpxF3N<br>
 Python And Flask Framework Complete Course For Beginners: https://bit.ly/3ijPPlX<br>
+<br>Automate the Boring Stuff with Python Programming: https://bit.ly/3jqnJHk<br>
+Milestones in Python 3.8 with exciting new features: https://bit.ly/33kQqj1<br>
+Data Visualization in Python with Covid-19 Analysis Project: https://bit.ly/3jnLJul<br>
+### CYBER SECURITY AND ETHICAL HACKING
+Network Ethical Hacking for Beginners (Kali 2020, Hands-on): https://bit.ly/33jlpfA<br>
 Free Cybersecurity Essentials Certification Course: https://bit.ly/3iwISOR<br>
+### GOOGLE CERTIFICATE COURSES
+Complete Google Certified Educator Level 1 Masterclass: https://bit.ly/36p8lHm<br>
+### MICROSOFT COURSES
+Microsoft Power BI: Latest 2020 Beginner to Expert Modules: https://bit.ly/3l7QEAo<br>
+### NODE JS
+Get Started With NodeJS : For Beginners 2020: https://bit.ly/3jpxF3N<br>
+### DATA STRUCTURES
+Fundamentals of Data Analysis Expression DAX: https://bit.ly/2Gh6z0c<br>
+### OHTERS COOL COURSES
 Whatsapp stock market bot with Python, Twilio & MarketStack: https://bit.ly/3l58ync<br>
-(All courses are from udemy. so enroll fast)<br>
+
+ (All courses are from udemy. so enroll fast)<br>
 
 ## FullStack courses
 
