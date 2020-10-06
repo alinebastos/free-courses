@@ -59,6 +59,8 @@ More than just a bunch of links, this is a selection of what we judge to be some
 - [Responsive Images](https://www.udacity.com/course/responsive-images--ud882) :us:
 - [Responsive Web Design Fundamentals](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893) :us:
 - [React Redux Tutorial](https://www.youtube.com/playlist?list=PLC3y8-rFHvwheJHvseC3I0HuYI2f46oAK) :us:
+- [Sass Curso](https://www.youtube.com/playlist?list=PL97KElaimHeGRtfkksKwxg6IGVZi_cR7J) :brazil:
+- [Styled Components Crash Course](https://www.youtube.com/watch?v=c5-Vex3ufFU&t=1s) :us:
 - [UX e UI Design](https://cursos.timtec.com.br/course/ux-e-ui-design/intro) :brazil:
 - [Web tooling automation](https://www.udacity.com/course/web-tooling-automation--ud892) :us:
 - [Website Performance Optimization](https://www.udacity.com/course/website-performance-optimization--ud884) :us:
