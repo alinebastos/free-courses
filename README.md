@@ -8,6 +8,7 @@ More than just a bunch of links, this is a selection of what we judge to be some
 - [Git e Github](https://www.schoolofnet.com/curso/git/controle-de-versao/git-e-github/) :brazil:
 - [Git e Github](https://www.youtube.com/watch?v=xEKo29OWILE&list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA/) :brazil:
 - [Introduction to Git and GitHub](https://web.digitalinnovation.one/course/introducao-ao-git-e-ao-github/learning/75b9fe49-6ed4-4480-83a7-7e37fc356aa9/) :brazil:
+- [Git e Github para iniciantes (Loiane)](https://www.youtube.com/watch?v=UMhskLXJuq4/) :brazil:
 
 ## Lógica de programação
 
@@ -30,6 +31,7 @@ More than just a bunch of links, this is a selection of what we judge to be some
 #### Various
 
 - [AngularJS - Rodrigo Branas](https://www.youtube.com/watch?v=_y7rKxqPoyg&list=PLQCmSnNFVYnTD5p2fR4EXmtlR6jQJMbPb) :brazil:
+- [Angular + ASP.NET Core API + EF Core](https://www.youtube.com/playlist?list=PLWNaqtzH6CWSbIYlgMDQZNrwDG3gHw7wa) :brazil:
 - [Angular 2](https://loiane.training/course/angular-2/) :brazil:
 - [Angular 9 ](https://www.cod3r.com.br/courses/angular-9-essencial) :brazil:
 - [Criando sites estáticos com Jekyll](https://www.udemy.com/criando-sites-estaticos-com-jekyll/) :brazil:
