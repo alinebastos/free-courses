@@ -23,6 +23,10 @@ More than just a bunch of links, this is a selection of what we judge to be some
 - [Flutter - 45 Cursos Grátis na UDEMY](https://www.udemy.com/courses/search/?price=price-free&q=flutter&sort=relevance&src=sac) :brazil: :us:
 - [Flutter Básico Online Grátis](https://www.primecursos.com.br/flutter-basico/) :brazil:
 
+#### Ionic
+
+- [Ionic 3 para iniciantes](https://www.udemy.com/course/ionic-3-para-iniciantes/) :brazil:
+
 #### React Native
 - [React Native - By Rocketseat](https://app.rocketseat.com.br/node/curso-react-native) :brazil:
 
