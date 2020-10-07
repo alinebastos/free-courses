@@ -51,9 +51,9 @@ More than just a bunch of links, this is a selection of what we judge to be some
 - [Design Responsivo](https://www.nodestudio.com.br/curso/curso-de-design-responsivo) :brazil:
 - [Gulp - Guia Definitivo - Mão na Massa](https://www.youtube.com/playlist?list=PLtluGZbI5EShPPQh7TxfxMaFwDsktHi4V) :brazil:
 - [Gatsby Build a Blog](https://www.youtube.com/playlist?list=PLW0RabRDhwwzVNhlOgQQgw6HJzXdM1MnT) :us:
+- [HTML Básico](https://www.schoolofnet.com/curso/frontend/html/html-basico-v2/) :brazil:
 - [HTML5 para iniciantes](https://www.nodestudio.com.br/curso/curso-de-html5) :brazil:
 - [HTML5 & CSS3 na Prática](https://www.nodestudio.com.br/curso/curso-html5-e-css3-na-pratica) :brazil:
-- [HTML Básico](https://www.schoolofnet.com/curso/frontend/html/html-basico-v2/) :brazil:
 - [Introdução ao Quasar Framework](https://codecasts.com.br/series/introducao-quasar) :brazil:
 - [Mini Curso gratuito de TypeScript](https://willianjusten.com.br/mini-curso-gratuito-de-typescript/) :brazil:
 - [Materialize CSS para iniciantes](https://www.nodestudio.com.br/curso/curso-de-materialize-css) :brazil:
@@ -91,13 +91,13 @@ More than just a bunch of links, this is a selection of what we judge to be some
 
 #### PHP
 - [Curso Completo de PHP](https://www.youtube.com/playlist?list=PL7ScB28KYHhFJ0t3FNgVixx8uVOiS8bbD) :brazil:
-- [Iniciando com Laravel 5.5](https://www.schoolofnet.com/curso/php/laravel/iniciando-com-laravel-55/) :brazil:
 - [Curso Laravel 6.x](https://www.youtube.com/playlist?list=PLVSNL1PHDWvQBtcH_4VR82Dg-aFiVOZBY) :brazil:
 - [Curso de PHP 7](https://www.youtube.com/playlist?list=PLwXQLZ3FdTVEITn849NlfI9BGY-hk1wkq) :brazil:
+- [Curso de PHP Básico](https://www.schoolofnet.com/curso/php/linguagem-php/iniciando-com-php/) :brazil:
 - [Curso de PHP para Iniciantes](https://www.youtube.com/playlist?list=PLHz_AreHm4dm4beCCCmW4xwpmLf6EHY9k) :brazil:
 - [Curso de POO PHP](https://www.youtube.com/playlist?list=PLHz_AreHm4dmGuLII3tsvryMMD7VgcT7x) :brazil:
 = [Curso de PHP Orientado a Objetos](https://www.youtube.com/playlist?list=PLwXQLZ3FdTVEau55kNj_zLgpXL4JZUg8I) :brazil:
-- [Curso de PHP Básico](https://www.schoolofnet.com/curso/php/linguagem-php/iniciando-com-php/) :brazil:
+- [Iniciando com Laravel 5.5](https://www.schoolofnet.com/curso/php/laravel/iniciando-com-laravel-55/) :brazil:
 - [Novidades do php 7.1](https://www.schoolofnet.com/curso/php/linguagem-php/novidades-do-php71/) :brazil:
 
 #### Python
@@ -131,8 +131,8 @@ More than just a bunch of links, this is a selection of what we judge to be some
 
 #### Kotlin
 
-- [Kotlin Course for Beginners and Java Devs](https://www.youtube.com/playlist?list=PLrnPJCHvNZuAIbejjZA1kGfLeA8ZpICB2) :us:
 - [Desenvolvedor Kotlin Iniciante](https://www.udemy.com/course/desenvolvedor-kotlin-iniciante/) :brazil:
+- [Kotlin Course for Beginners and Java Devs](https://www.youtube.com/playlist?list=PLrnPJCHvNZuAIbejjZA1kGfLeA8ZpICB2) :us:
 
 
 #### Haskell   
