@@ -86,6 +86,11 @@ More than just a bunch of links, this is a selection of what we judge to be some
 - [Python for Everybody](https://py4e.com) :us:
 - [Python para Zumbis](https://www.pycursos.com/python-para-zumbis/) :brazil:
 - [Análise de dados em Python - Câmara dos Deputados - LabHacker](https://www.youtube.com/playlist?list=PLqiFjCF_dtcymXtdjwAP4s7tRoW4CYwnH) :brazil:
+- [Python Bootcamp 2020 Build 15 working Applications and Games:] https://bit.ly/3nevH8O<br>
+- [Python And Flask Framework Complete Course For Beginners:] https://bit.ly/3ijPPlX<br>
+- [<br>Automate the Boring Stuff with Python Programming:] https://bit.ly/3jqnJHk<br>
+- [Milestones in Python 3.8 with exciting new features:] https://bit.ly/33kQqj1<br>
+- [Data Visualization in Python with Covid-19 Analysis Project:] https://bit.ly/3jnLJul<br> 
 
 #### Ruby
 
@@ -103,6 +108,7 @@ More than just a bunch of links, this is a selection of what we judge to be some
 - [Node.js - Rodrigo Branas](https://www.youtube.com/playlist?list=PLQCmSnNFVYnTFo60Bt972f8HA4Td7WKwq) :brazil:
 - [NodeJs, TDD e CLean Architecture - Rodrigo Manguinho](https://www.youtube.com/playlist?list=PL9aKtVrF05DyEwK5kdvzrYXFdpZfj1dsG&fbclid=IwAR1PogboGrrX6v0WcKAhjzTGqG0rxUsEDcLfQO1dB7FB6xl6Z0dqCojjtI4) :brazil:
 - [RESTful com Node.js e Restify](https://codecasts.com.br/series/restful-com-nodejs-e-restify) :brazil:
+- [Get Started With NodeJS : For Beginners 2020:] https://bit.ly/3jpxF3N<br>
 
 #### Golang
 
@@ -115,14 +121,7 @@ More than just a bunch of links, this is a selection of what we judge to be some
 #### Haskell   
 
 - [Introduction to Haskell](https://www.seas.upenn.edu/~cis194/fall16/):us:
-### LINKS FOR FREE COURSES
 
-### PYTHON
-Python Bootcamp 2020 Build 15 working Applications and Games: https://bit.ly/3nevH8O<br>
-Python And Flask Framework Complete Course For Beginners: https://bit.ly/3ijPPlX<br>
-<br>Automate the Boring Stuff with Python Programming: https://bit.ly/3jqnJHk<br>
-Milestones in Python 3.8 with exciting new features: https://bit.ly/33kQqj1<br>
-Data Visualization in Python with Covid-19 Analysis Project: https://bit.ly/3jnLJul<br>
 ### CYBER SECURITY AND ETHICAL HACKING
 Network Ethical Hacking for Beginners (Kali 2020, Hands-on): https://bit.ly/33jlpfA<br>
 Free Cybersecurity Essentials Certification Course: https://bit.ly/3iwISOR<br>
@@ -130,8 +129,6 @@ Free Cybersecurity Essentials Certification Course: https://bit.ly/3iwISOR<br>
 Complete Google Certified Educator Level 1 Masterclass: https://bit.ly/36p8lHm<br>
 ### MICROSOFT COURSES
 Microsoft Power BI: Latest 2020 Beginner to Expert Modules: https://bit.ly/3l7QEAo<br>
-### NODE JS
-Get Started With NodeJS : For Beginners 2020: https://bit.ly/3jpxF3N<br>
 ### DATA STRUCTURES
 Fundamentals of Data Analysis Expression DAX: https://bit.ly/2Gh6z0c<br>
 ### OHTERS COOL COURSES
