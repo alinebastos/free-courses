@@ -86,7 +86,7 @@ More than just a bunch of links, this is a selection of what we judge to be some
 - [Python for Everybody](https://py4e.com) :us:
 - [Python para Zumbis](https://www.pycursos.com/python-para-zumbis/) :brazil:
 - [Análise de dados em Python - Câmara dos Deputados - LabHacker](https://www.youtube.com/playlist?list=PLqiFjCF_dtcymXtdjwAP4s7tRoW4CYwnH) :brazil:
-- [Python Bootcamp 2020 Build 15 working Applications and Games:] https://bit.ly/3nevH8O<br>
+- [Python Bootcamp 2020 Build 15 working Applications and Games:] (https://bit.ly/3nevH8O) :brazil:
 - [Python And Flask Framework Complete Course For Beginners:] https://bit.ly/3ijPPlX<br>
 - [<br>Automate the Boring Stuff with Python Programming:] https://bit.ly/3jqnJHk<br>
 - [Milestones in Python 3.8 with exciting new features:] https://bit.ly/33kQqj1<br>
