@@ -79,6 +79,7 @@ More than just a bunch of links, this is a selection of what we judge to be some
 - [Curso de PHP 7](https://www.youtube.com/playlist?list=PLwXQLZ3FdTVEITn849NlfI9BGY-hk1wkq) :brazil:
 - [Curso de PHP para Iniciantes](https://www.youtube.com/playlist?list=PLHz_AreHm4dm4beCCCmW4xwpmLf6EHY9k) :brazil:
 - [Curso de POO PHP](https://www.youtube.com/playlist?list=PLHz_AreHm4dmGuLII3tsvryMMD7VgcT7x) :brazil:
+- [Clean Code with PHP examples](https://bit.ly/3jCv1I5)
 
 #### Python
 
@@ -86,11 +87,13 @@ More than just a bunch of links, this is a selection of what we judge to be some
 - [Python for Everybody](https://py4e.com) :us:
 - [Python para Zumbis](https://www.pycursos.com/python-para-zumbis/) :brazil:
 - [Análise de dados em Python - Câmara dos Deputados - LabHacker](https://www.youtube.com/playlist?list=PLqiFjCF_dtcymXtdjwAP4s7tRoW4CYwnH) :brazil:
-- [Python Bootcamp 2020 Build 15 working Applications and Games:] https://bit.ly/3nevH8O<br>
-- [Python And Flask Framework Complete Course For Beginners:] https://bit.ly/3ijPPlX<br>
-- [Automate the Boring Stuff with Python Programming:] https://bit.ly/3jqnJHk<br>
-- [Milestones in Python 3.8 with exciting new features:] https://bit.ly/33kQqj1<br>
-- [Data Visualization in Python with Covid-19 Analysis Project:] https://bit.ly/3jnLJul<br> 
+- [Python Bootcamp 2020 Build 15 working Applications and Games:](https://bit.ly/3nevH8O)<br>
+- [Python And Flask Framework Complete Course For Beginners:](https://bit.ly/3ijPPlX)<br>
+- [Automate the Boring Stuff with Python Programming:](https://bit.ly/3jqnJHk)<br>
+- [Milestones in Python 3.8 with exciting new features:](https://bit.ly/33kQqj1)<br>
+- [Data Visualization in Python with Covid-19 Analysis Project:](https://bit.ly/3jnLJul)<br> 
+- [Complete Data Science with Python: Step by Step Guide (2020)](https://bit.ly/30GFcE0)
+
 
 #### Ruby
 
@@ -108,7 +111,7 @@ More than just a bunch of links, this is a selection of what we judge to be some
 - [Node.js - Rodrigo Branas](https://www.youtube.com/playlist?list=PLQCmSnNFVYnTFo60Bt972f8HA4Td7WKwq) :brazil:
 - [NodeJs, TDD e CLean Architecture - Rodrigo Manguinho](https://www.youtube.com/playlist?list=PL9aKtVrF05DyEwK5kdvzrYXFdpZfj1dsG&fbclid=IwAR1PogboGrrX6v0WcKAhjzTGqG0rxUsEDcLfQO1dB7FB6xl6Z0dqCojjtI4) :brazil:
 - [RESTful com Node.js e Restify](https://codecasts.com.br/series/restful-com-nodejs-e-restify) :brazil:
-- [Get Started With NodeJS : For Beginners 2020:] https://bit.ly/3jpxF3N<br>
+- [Get Started With NodeJS : For Beginners 2020:](https://bit.ly/3jpxF3N)<br>
 
 #### Golang
 
@@ -123,16 +126,23 @@ More than just a bunch of links, this is a selection of what we judge to be some
 - [Introduction to Haskell](https://www.seas.upenn.edu/~cis194/fall16/):us:
 
 ### CYBER SECURITY AND ETHICAL HACKING
-Network Ethical Hacking for Beginners (Kali 2020, Hands-on): https://bit.ly/33jlpfA<br>
-Free Cybersecurity Essentials Certification Course: https://bit.ly/3iwISOR<br>
+- [Network Ethical Hacking for Beginners ](https://bit.ly/33jlpfA)
+- [Free Cybersecurity Essentials Certification Course](https://bit.ly/3iwISOR)
+
 ### GOOGLE CERTIFICATE COURSES
-Complete Google Certified Educator Level 1 Masterclass: https://bit.ly/36p8lHm<br>
+- [Complete Google Certified Educator Level 1 Masterclass](https://bit.ly/36p8lHm)
+- [Free Introduction to Quantum Computing Certification Course](https://bit.ly/2HYVYrf)
+- [Free Web Hacking for Beginners Certification Course](https://bit.ly/3da0MFN)
+
 ### MICROSOFT COURSES
-Microsoft Power BI: Latest 2020 Beginner to Expert Modules: https://bit.ly/3l7QEAo<br>
+- [Microsoft Power BI: Latest 2020 Beginner to Expert Modules]( https://bit.ly/3l7QEAo)
+
 ### DATA STRUCTURES
+- [Fundamentals of Data Analysis Expression DAX](https://bit.ly/2Gh6z0c)
 Fundamentals of Data Analysis Expression DAX: https://bit.ly/2Gh6z0c<br>
 ### OHTERS COOL COURSES
-Whatsapp stock market bot with Python, Twilio & MarketStack: https://bit.ly/3l58ync<br>
+- [Whatsapp stock market bot with Python, Twilio & MarketStack]( https://bit.ly/3l58ync)
+- [Instagram Hashtags Marketing in 2020: Smart Instagram Growth](https://bit.ly/30GhYh6)
 
  (All courses are from udemy. so enroll fast)<br>
 
