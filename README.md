@@ -4,6 +4,7 @@ More than just a bunch of links, this is a selection of what we judge to be some
 
 ## Git and Github Courses
 
+- [Controle de versão de softwares utilizando o Github](https://www.udemy.com/share/101AaMBEMeeVlbQHg=/) :brazil:
 - [Git e Github para iniciantes](https://www.udemy.com/git-e-github-para-iniciantes/) :brazil:
 - [Git e Github](https://www.schoolofnet.com/curso/git/controle-de-versao/git-e-github/) :brazil:
 - [Git e Github](https://www.youtube.com/watch?v=xEKo29OWILE&list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA/) :brazil:
