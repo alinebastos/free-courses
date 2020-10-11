@@ -49,6 +49,7 @@ More than just a bunch of links, this is a selection of what we judge to be some
 - [CSS para Iniciantes](https://www.nodestudio.com.br/curso/curso-de-css3) :brazil:
 - [Curso de Linux - Primeiros Passos](https://www.youtube.com/playlist?list=PLHz_AreHm4dlIXleu20uwPWFOSswqLYbV) :brazil:
 - [Curso de Lógica de Programação - Gustavo Guanabara](https://www.youtube.com/watch?v=8mei6uVttho&list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV) :brazil:
+- [Curso de Vue JS](https://www.youtube.com/watch?v=npA_f0ztIt0&list=PLJ_KhUnlXUPteacVhunyK5M8SKIadeED0) :brazil:
 - [Curso Redes de Computadores](https://www.youtube.com/playlist?list=PLHz_AreHm4dkd4lr9G0Up-W-YaHYdTDuP) :brazil:
 - [Criando Sites Profissionais](https://www.nodestudio.com.br/curso/curso-carreira-web-sites-profissionais) :brazil:
 - [Desenvolvimento de front-end](https://cursos.timtec.com.br/course/desenvolvimento-de-front-end/intro) :brazil:
@@ -69,7 +70,6 @@ More than just a bunch of links, this is a selection of what we judge to be some
 - [Sass Curso](https://www.youtube.com/playlist?list=PL97KElaimHeGRtfkksKwxg6IGVZi_cR7J) :brazil:
 - [Styled Components Crash Course](https://www.youtube.com/watch?v=c5-Vex3ufFU&t=1s) :us:
 - [UX e UI Design](https://cursos.timtec.com.br/course/ux-e-ui-design/intro) :brazil:
-- [Curso de Vue JS](https://www.youtube.com/watch?v=npA_f0ztIt0&list=PLJ_KhUnlXUPteacVhunyK5M8SKIadeED0) :brazil:
 - [Web tooling automation](https://www.udacity.com/course/web-tooling-automation--ud892) :us:
 - [Website Performance Optimization](https://www.udacity.com/course/website-performance-optimization--ud884) :us:
 - [React, Redux e integração de APIs](https://www.udemy.com/course/react-redux-e-integracao-de-apis/) :brazil:
@@ -110,12 +110,12 @@ More than just a bunch of links, this is a selection of what we judge to be some
 
 #### Python
 
+- [Análise de Dados em Python](https://www.youtube.com/watch?v=RlGOaSPFtXc&list=PL5TJqBvpXQv5N3iV68bGBkea0HjMk98lR) :brazil:
+- [Análise de dados em Python - Câmara dos Deputados - LabHacker](https://www.youtube.com/playlist?list=PLqiFjCF_dtcymXtdjwAP4s7tRoW4CYwnH) :brazil:
+- [Introdução à Python por Projetos](https://www.youtube.com/watch?v=gDDGq7Q_YFE&list=PL5TJqBvpXQv6AEfVymby32MinHdxZA-8J) :brazil:
 - [Python Curso em Vídeo](https://www.youtube.com/watch?v=S9uPNppGsGo&list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0) :brazil:
 - [Python for Everybody](https://py4e.com) :us:
 - [Python para Zumbis](https://www.pycursos.com/python-para-zumbis/) :brazil:
-- [Análise de dados em Python - Câmara dos Deputados - LabHacker](https://www.youtube.com/playlist?list=PLqiFjCF_dtcymXtdjwAP4s7tRoW4CYwnH) :brazil:
-- [Introdução à Python por Projetos](https://www.youtube.com/watch?v=gDDGq7Q_YFE&list=PL5TJqBvpXQv6AEfVymby32MinHdxZA-8J) :brazil:
-- [Análise de Dados em Python](https://www.youtube.com/watch?v=RlGOaSPFtXc&list=PL5TJqBvpXQv5N3iV68bGBkea0HjMk98lR) :brazil:
 
 #### Ruby
 
