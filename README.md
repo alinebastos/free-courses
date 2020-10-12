@@ -16,6 +16,10 @@ More than just a bunch of links, this is a selection of what we judge to be some
 - [Curso completo de lógica de programação - Buildlab](https://buildlab.com.br/aprenda-a-programar/) :brazil:
 - [Introdução a Algoritmos - Gustavo Guanabara](https://www.youtube.com/watch?v=8mei6uVttho&list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV) :brazil:
 
+## Agile
+
+- [Agile Scrum Foundation](https://academy.estabil.is/courses/exin-agile-scrum-foundation) :brazil:
+
 ## Mobile Courses
 
 #### Flutter
@@ -52,6 +56,7 @@ More than just a bunch of links, this is a selection of what we judge to be some
 - [Curso de Vue JS](https://www.youtube.com/watch?v=npA_f0ztIt0&list=PLJ_KhUnlXUPteacVhunyK5M8SKIadeED0) :brazil:
 - [Curso Redes de Computadores](https://www.youtube.com/playlist?list=PLHz_AreHm4dkd4lr9G0Up-W-YaHYdTDuP) :brazil:
 - [Criando Sites Profissionais](https://www.nodestudio.com.br/curso/curso-carreira-web-sites-profissionais) :brazil:
+- [Desenvolvedor Web Front-End (Bootcamp)](https://digitalinnovation.one/bootcamps/desenvolvedor-web-front-end) :brazil:
 - [Desenvolvimento de front-end](https://cursos.timtec.com.br/course/desenvolvimento-de-front-end/intro) :brazil:
 - [Design de interfaces com CSS3](https://cursos.timtec.com.br/course/css3/intro) :brazil:
 - [Design Responsivo](https://www.nodestudio.com.br/curso/curso-de-design-responsivo) :brazil:
@@ -95,6 +100,7 @@ More than just a bunch of links, this is a selection of what we judge to be some
 - [Curso de Java para Iniciantes](https://www.youtube.com/playlist?list=PLHz_AreHm4dkI2ZdjTwZA4mPMxWTfNSpR) :brazil:
 - [Curso de POO Java](https://www.youtube.com/playlist?list=PLHz_AreHm4dkqe2aR0tQK74m8SFe-aGsY) :brazil:
 - [Estrutura de Dados e Algoritmos com Java](https://loiane.training/course/estrutura-de-dados-e-algoritmos-com-java/) :brazil:
+- [Java Developer (Bootcamp)](https://digitalinnovation.one/bootcamps/java-developer?ref=novotec) :brazil:
 - [TDD – Desenvolvimento de software guiado por testes](https://pt.coursera.org/learn/tdd-desenvolvimento-de-software-guiado-por-testes) :brazil:
 
 #### PHP
@@ -112,6 +118,7 @@ More than just a bunch of links, this is a selection of what we judge to be some
 
 - [Análise de Dados em Python](https://www.youtube.com/watch?v=RlGOaSPFtXc&list=PL5TJqBvpXQv5N3iV68bGBkea0HjMk98lR) :brazil:
 - [Análise de dados em Python - Câmara dos Deputados - LabHacker](https://www.youtube.com/playlist?list=PLqiFjCF_dtcymXtdjwAP4s7tRoW4CYwnH) :brazil:
+- [Desenvolvedor Python (Bootcamp)](https://digitalinnovation.one/bootcamps/desenvolvedor-python) :brazil:
 - [Introdução à Python por Projetos](https://www.youtube.com/watch?v=gDDGq7Q_YFE&list=PL5TJqBvpXQv6AEfVymby32MinHdxZA-8J) :brazil:
 - [Python Curso em Vídeo](https://www.youtube.com/watch?v=S9uPNppGsGo&list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0) :brazil:
 - [Python for Everybody](https://py4e.com) :us:
@@ -149,7 +156,26 @@ More than just a bunch of links, this is a selection of what we judge to be some
 
 - [Introduction to Haskell](https://www.seas.upenn.edu/~cis194/fall16/):us:
 
+## Data Science
+
+#### Big Data
+
+- [Big Data Essentials](https://4linux.com.br/cursos/treinamento/big-data-essentials/) :brazil:
+
+#### Inteligência Artificial
+
+- [Introdução à tecnologia de IA para líderes de negócios](http://www.brasilmaisdigital.org.br/index.php/pt-br/cursos-online/2017-05-23-17-40-54/94-introduc-o-a-tecnologia-de-ia-para-lideres-de-negocios/preview) :brazil:
+
 ## Infrastructure courses
+
+#### AWS
+
+- [AWS na Prática](https://academy.estabil.is/courses/aws-na-pratica) :brazil:
+
+#### DevOps
+
+- [DevOps Essentials](https://4linux.com.br/cursos/treinamento/devops-essentials/) :brazil:
+- [DevOps Foundation](https://academy.estabil.is/courses/devops-foundation) :brazil:
 
 #### Docker
 
