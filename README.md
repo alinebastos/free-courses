@@ -65,6 +65,7 @@ More than just a bunch of links, this is a selection of what we judge to be some
 - [HTML Básico](https://www.schoolofnet.com/curso/frontend/html/html-basico-v2/) :brazil:
 - [HTML5 para iniciantes](https://www.nodestudio.com.br/curso/curso-de-html5) :brazil:
 - [HTML5 & CSS3 na Prática](https://www.nodestudio.com.br/curso/curso-html5-e-css3-na-pratica) :brazil:
+- [HTML5 e CSS3 atualizado 2020](https://www.youtube.com/watch?v=9nBa_5p6stc&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n) :brazil:
 - [Introdução ao Quasar Framework](https://codecasts.com.br/series/introducao-quasar) :brazil:
 - [Mini Curso gratuito de TypeScript](https://willianjusten.com.br/mini-curso-gratuito-de-typescript/) :brazil:
 - [Materialize CSS para iniciantes](https://www.nodestudio.com.br/curso/curso-de-materialize-css) :brazil:
@@ -77,6 +78,7 @@ More than just a bunch of links, this is a selection of what we judge to be some
 - [UX e UI Design](https://cursos.timtec.com.br/course/ux-e-ui-design/intro) :brazil:
 - [Web tooling automation](https://www.udacity.com/course/web-tooling-automation--ud892) :us:
 - [Website Performance Optimization](https://www.udacity.com/course/website-performance-optimization--ud884) :us:
+- [WorkshopDev](https://www.youtube.com/watch?v=cprMYC8PCVY&list=PL85ITvJ7FLohGTWaE_p0J6B-TLmQbN4ka) :brazil:
 - [React, Redux e integração de APIs](https://www.udemy.com/course/react-redux-e-integracao-de-apis/) :brazil:
 
 #### JavaScript
