@@ -54,6 +54,7 @@ More than just a bunch of links, this is a selection of what we judge to be some
 - [Curso de Linux - Primeiros Passos](https://www.youtube.com/playlist?list=PLHz_AreHm4dlIXleu20uwPWFOSswqLYbV) :brazil:
 - [Curso de Lógica de Programação - Gustavo Guanabara](https://www.youtube.com/watch?v=8mei6uVttho&list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV) :brazil:
 - [Curso de Vue JS](https://www.youtube.com/watch?v=npA_f0ztIt0&list=PLJ_KhUnlXUPteacVhunyK5M8SKIadeED0) :brazil:
+- [Curso pare de chutar o CSS - CollabCode](https://www.youtube.com/watch?v=5PS6ku8NzIE&list=PLirko8T4cEmx5eBb1-9j6T6Gl4aBtZ_5x):brazil:
 - [Curso Redes de Computadores](https://www.youtube.com/playlist?list=PLHz_AreHm4dkd4lr9G0Up-W-YaHYdTDuP) :brazil:
 - [Criando Sites Profissionais](https://www.nodestudio.com.br/curso/curso-carreira-web-sites-profissionais) :brazil:
 - [Desenvolvedor Web Front-End (Bootcamp)](https://digitalinnovation.one/bootcamps/desenvolvedor-web-front-end) :brazil:
