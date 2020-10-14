@@ -1,4 +1,4 @@
-# Free IT Courses
+﻿# Free IT Courses
 
 More than just a bunch of links, this is a selection of what we judge to be some of the best learning opportunities you will find online for free.
 
@@ -27,6 +27,7 @@ More than just a bunch of links, this is a selection of what we judge to be some
 - [Flutter - André Baltieri](https://www.youtube.com/playlist?list=PLHlHvK2lnJndc8qCqmQdHr-cLoOb2-q61) :brazil:
 - [Flutter - 45 Cursos Grátis na UDEMY](https://www.udemy.com/courses/search/?price=price-free&q=flutter&sort=relevance&src=sac) :brazil: :us:
 - [Flutter Básico Online Grátis](https://www.primecursos.com.br/flutter-basico/) :brazil:
+- [Curso Completo de Flutter - Flutterando](https://www.youtube.com/playlist?list=PLlBnICoI-g-d-J57QIz6Tx5xtUDGQdBFB) :brazil:
 
 #### Ionic
 
