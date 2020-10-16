@@ -19,6 +19,7 @@ More than just a bunch of links, this is a selection of what we judge to be some
 ## Agile
 
 - [Agile Scrum Foundation](https://academy.estabil.is/courses/exin-agile-scrum-foundation) :brazil:
+- [Teste Hacktoberfest](Teste.com) :brazil:
 
 ## Mobile Courses
 
@@ -149,6 +150,7 @@ More than just a bunch of links, this is a selection of what we judge to be some
 #### Golang
 
 - [Aprenda Go](https://www.youtube.com/watch?v=WiGU_ZB-u0w&list=PLCKpcjBB_VlBsxJ9IseNxFllf-UFEXOdg) :brazil:
+- [Link Teste](link.com) :brazil:
 
 #### Kotlin
 
