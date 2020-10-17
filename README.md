@@ -159,6 +159,7 @@ More than just a bunch of links, this is a selection of what we judge to be some
 #### Haskell   
 
 - [Introduction to Haskell](https://www.seas.upenn.edu/~cis194/fall16/):us:
+- [Haskell para iniciantes](https://www.youtube.com/playlist?list=PL8eBmR3QtPL3pDzQpwPYfWQ4NEPGu6j7z) :brazil:
 
 ## Data Science
 
