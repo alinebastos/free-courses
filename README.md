@@ -82,6 +82,7 @@ More than just a bunch of links, this is a selection of what we judge to be some
 - [Website Performance Optimization](https://www.udacity.com/course/website-performance-optimization--ud884) :us:
 - [WorkshopDev](https://www.youtube.com/watch?v=cprMYC8PCVY&list=PL85ITvJ7FLohGTWaE_p0J6B-TLmQbN4ka) :brazil:
 - [React, Redux e integração de APIs](https://www.udemy.com/course/react-redux-e-integracao-de-apis/) :brazil:
+- [Novo curso de HTML e CSS](https://www.youtube.com/watch?v=Ejkb_YpuHWs&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n) : brasil:
 
 #### JavaScript
 
