@@ -16,6 +16,8 @@ More than just a bunch of links, this is a selection of what we judge to be some
 - [Curso completo de lógica de programação - Buildlab](https://buildlab.com.br/aprenda-a-programar/) :brazil:
 - [Introdução a Algoritmos - Gustavo Guanabara](https://www.youtube.com/watch?v=8mei6uVttho&list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV) :brazil:
 
+- [Lógica de programação e algoritmos - Programador Br](https://www.youtube.com/watch?v=HXddFUe6VPU&list=PLVzrOYTg7zYDNdLJbnmhPtPcDaNWoxYVT) :brazil:
+
 ## Agile
 
 - [Agile Scrum Foundation](https://academy.estabil.is/courses/exin-agile-scrum-foundation) :brazil:
@@ -166,6 +168,12 @@ More than just a bunch of links, this is a selection of what we judge to be some
 #### Big Data
 
 - [Big Data Essentials](https://4linux.com.br/cursos/treinamento/big-data-essentials/) :brazil:
+
+- [Introdução à Ciência de Dados 2.0](https://www.datascienceacademy.com.br/course?courseid=introduo--cincia-de-dados) :brazil:
+
+#### Business Intelligence
+
+- [Power BI para Data Science 2.0](https://www.datascienceacademy.com.br/course?courseid=microsoft-power-bi-para-data-science) :brazil:
 
 #### Inteligência Artificial
 
