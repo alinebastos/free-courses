@@ -15,6 +15,9 @@ More than just a bunch of links, this is a selection of what we judge to be some
 
 - [Curso completo de lógica de programação - Buildlab](https://buildlab.com.br/aprenda-a-programar/) :brazil:
 - [Introdução a Algoritmos - Gustavo Guanabara](https://www.youtube.com/watch?v=8mei6uVttho&list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV) :brazil:
+- [Fundamentos de Lógica de Programação](https://www.ev.org.br/cursos/fundamentos-de-logica-de-programacao) :brazil:
+
+- [Lógica de programação e algoritmos - Programador Br](https://www.youtube.com/watch?v=HXddFUe6VPU&list=PLVzrOYTg7zYDNdLJbnmhPtPcDaNWoxYVT) :brazil:
 
 ## Agile
 
@@ -83,6 +86,7 @@ More than just a bunch of links, this is a selection of what we judge to be some
 - [WorkshopDev](https://www.youtube.com/watch?v=cprMYC8PCVY&list=PL85ITvJ7FLohGTWaE_p0J6B-TLmQbN4ka) :brazil:
 - [React, Redux e integração de APIs](https://www.udemy.com/course/react-redux-e-integracao-de-apis/) :brazil:
 - [Novo curso de HTML e CSS](https://www.youtube.com/watch?v=Ejkb_YpuHWs&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n) : brasil:
+- [Curso de Flexbox](https://www.nodestudio.com.br/curso/curso-de-flexbox) :brazil:
 
 #### JavaScript
 
@@ -96,6 +100,7 @@ More than just a bunch of links, this is a selection of what we judge to be some
 - [JavaScript Funcional](https://www.youtube.com/playlist?list=PL77JVjKTJT2iAlBJX3buyljqzfoR9nV_R) :brazil:
 - [JS avançado: Simulações Naturais](https://pt.khanacademy.org/computing/computer-programming/programming-natural-simulations) :brazil:
 - [JavaScript e ECMAScript para Iniciantes - Gustavo Guanabara](https://www.youtube.com/playlist?list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1) :brazil:
+- [Curso de JavaScript 2020 - Fundamentos - Programador a Bordo](https://www.youtube.com/playlist?list=PLbA-jMwv0cuWbas947cygrzfzHIc7esmp) :brazil:
 
 ## Backend courses
 
@@ -168,6 +173,12 @@ More than just a bunch of links, this is a selection of what we judge to be some
 
 - [Big Data Essentials](https://4linux.com.br/cursos/treinamento/big-data-essentials/) :brazil:
 
+- [Introdução à Ciência de Dados 2.0](https://www.datascienceacademy.com.br/course?courseid=introduo--cincia-de-dados) :brazil:
+
+#### Business Intelligence
+
+- [Power BI para Data Science 2.0](https://www.datascienceacademy.com.br/course?courseid=microsoft-power-bi-para-data-science) :brazil:
+
 #### Inteligência Artificial
 
 - [Introdução à tecnologia de IA para líderes de negócios](http://www.brasilmaisdigital.org.br/index.php/pt-br/cursos-online/2017-05-23-17-40-54/94-introduc-o-a-tecnologia-de-ia-para-lideres-de-negocios/preview) :brazil:
@@ -193,3 +204,6 @@ More than just a bunch of links, this is a selection of what we judge to be some
 
 #### Diversos cursos em renomadas instituições 
 - [700 Free Online Programming & Computer Science Courses You Can Start This September](https://www.freecodecamp.org/news/free-online-programming-cs-courses/) :us:
+
+#### Desenvolvimento Web FullStack
+- [The Odin Project](https://www.theodinproject.com/) :us:
