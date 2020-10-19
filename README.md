@@ -182,6 +182,8 @@ More than just a bunch of links, this is a selection of what we judge to be some
 #### Inteligência Artificial
 
 - [Introdução à tecnologia de IA para líderes de negócios](http://www.brasilmaisdigital.org.br/index.php/pt-br/cursos-online/2017-05-23-17-40-54/94-introduc-o-a-tecnologia-de-ia-para-lideres-de-negocios/preview) :brazil:
+- [Curso de Inteligência Artificial para todos](https://www.youtube.com/playlist?list=PLtQM10PgmGogjn0cikgWi8wpQUnV6ERkY) :brazil:
+- [Aulas da Escola Livre de IA - 2020](https://www.youtube.com/playlist?list=PLSZbIUwF2aOxXa7_UdKLQi1e4wl7DHcRN) :brazil:
 
 ## Infrastructure courses
 
