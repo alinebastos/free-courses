@@ -16,7 +16,6 @@ More than just a bunch of links, this is a selection of what we judge to be some
 - [Curso completo de lógica de programação - Buildlab](https://buildlab.com.br/aprenda-a-programar/) :brazil:
 - [Introdução a Algoritmos - Gustavo Guanabara](https://www.youtube.com/watch?v=8mei6uVttho&list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV) :brazil:
 - [Fundamentos de Lógica de Programação](https://www.ev.org.br/cursos/fundamentos-de-logica-de-programacao) :brazil:
-
 - [Lógica de programação e algoritmos - Programador Br](https://www.youtube.com/watch?v=HXddFUe6VPU&list=PLVzrOYTg7zYDNdLJbnmhPtPcDaNWoxYVT) :brazil:
 
 ## Agile
@@ -71,6 +70,7 @@ More than just a bunch of links, this is a selection of what we judge to be some
 - [HTML5 para iniciantes](https://www.nodestudio.com.br/curso/curso-de-html5) :brazil:
 - [HTML5 & CSS3 na Prática](https://www.nodestudio.com.br/curso/curso-html5-e-css3-na-pratica) :brazil:
 - [HTML5 e CSS3 atualizado 2020](https://www.youtube.com/watch?v=9nBa_5p6stc&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n) :brazil:
+- [Html5 e CSS3 para iniciantes, RBtech](https://www.youtube.com/watch?v=iZ1ucWosOww&t=57s) :brazil:
 - [Introdução ao Quasar Framework](https://codecasts.com.br/series/introducao-quasar) :brazil:
 - [Mini Curso gratuito de TypeScript](https://willianjusten.com.br/mini-curso-gratuito-de-typescript/) :brazil:
 - [Materialize CSS para iniciantes](https://www.nodestudio.com.br/curso/curso-de-materialize-css) :brazil:
@@ -87,6 +87,7 @@ More than just a bunch of links, this is a selection of what we judge to be some
 - [React, Redux e integração de APIs](https://www.udemy.com/course/react-redux-e-integracao-de-apis/) :brazil:
 - [Novo curso de HTML e CSS](https://www.youtube.com/watch?v=Ejkb_YpuHWs&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n) : brasil:
 - [Curso de Flexbox](https://www.nodestudio.com.br/curso/curso-de-flexbox) :brazil:
+
 
 #### JavaScript
 
@@ -184,7 +185,7 @@ More than just a bunch of links, this is a selection of what we judge to be some
 - [Introdução à tecnologia de IA para líderes de negócios](http://www.brasilmaisdigital.org.br/index.php/pt-br/cursos-online/2017-05-23-17-40-54/94-introduc-o-a-tecnologia-de-ia-para-lideres-de-negocios/preview) :brazil:
 - [Curso de Inteligência Artificial para todos](https://www.youtube.com/playlist?list=PLtQM10PgmGogjn0cikgWi8wpQUnV6ERkY) :brazil:
 - [Aulas da Escola Livre de IA - 2020](https://www.youtube.com/playlist?list=PLSZbIUwF2aOxXa7_UdKLQi1e4wl7DHcRN) :brazil:
-
+- [Eletrônicos CODEiot](https://codeiot.org.br/courses?search_query=IOT103%20IOT103EN%20IOT103ES) :br: :us:
 ## Infrastructure courses
 
 #### AWS
@@ -206,6 +207,8 @@ More than just a bunch of links, this is a selection of what we judge to be some
 
 #### Diversos cursos em renomadas instituições 
 - [700 Free Online Programming & Computer Science Courses You Can Start This September](https://www.freecodecamp.org/news/free-online-programming-cs-courses/) :us:
+- [Introdução Ciência da Computção de Harvard](https://online-learning.harvard.edu/course/cs50-introduction-computer-science?delta=0) :us:
+- [Iniciante de JavaScrip da Microsoft](https://www.youtube.com/playlist?list=PLlrxD0HtieHhW0NCG7M536uHGOtJ95Ut2) :us:
 
 #### Desenvolvimento Web FullStack
 - [The Odin Project](https://www.theodinproject.com/) :us:
