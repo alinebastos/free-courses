@@ -201,3 +201,6 @@ More than just a bunch of links, this is a selection of what we judge to be some
 
 #### Diversos cursos em renomadas instituições 
 - [700 Free Online Programming & Computer Science Courses You Can Start This September](https://www.freecodecamp.org/news/free-online-programming-cs-courses/) :us:
+
+#### Desenvolvimento Web FullStack
+- [The Odin Project](https://www.theodinproject.com/) :us:
