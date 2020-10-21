@@ -63,6 +63,7 @@ More than just a bunch of links, this is a selection of what we judge to be some
 - [Gulp - Guia Definitivo - Mão na Massa](https://www.youtube.com/playlist?list=PLtluGZbI5EShPPQh7TxfxMaFwDsktHi4V) :brazil:
 - [Gatsby Build a Blog](https://www.youtube.com/playlist?list=PLW0RabRDhwwzVNhlOgQQgw6HJzXdM1MnT) :us:
 - [HTML Básico](https://www.schoolofnet.com/curso/frontend/html/html-basico-v2/) :brazil:
+- [HTML e CSS para iniciantes](https://ead.education/course/curso-de-html-e-css-para-iniciantes/) :brazil:
 - [HTML5 para iniciantes](https://www.nodestudio.com.br/curso/curso-de-html5) :brazil:
 - [HTML5 & CSS3 na Prática](https://www.nodestudio.com.br/curso/curso-html5-e-css3-na-pratica) :brazil:
 - [HTML5 e CSS3 atualizado 2020](https://www.youtube.com/watch?v=9nBa_5p6stc&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n) :brazil:
