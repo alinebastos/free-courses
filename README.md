@@ -16,7 +16,7 @@ More than just a bunch of links, this is a selection of what we judge to be some
 - [Curso completo de lógica de programação - Buildlab](https://buildlab.com.br/aprenda-a-programar/) :brazil:
 - [Introdução a Algoritmos - Gustavo Guanabara](https://www.youtube.com/watch?v=8mei6uVttho&list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV) :brazil:
 - [Fundamentos de Lógica de Programação](https://www.ev.org.br/cursos/fundamentos-de-logica-de-programacao) :brazil:
-
+- [Lógica de Programação (Algoritmos) - Pietro Martins](https://www.youtube.com/playlist?list=PLpaKFn4Q4GMNlLZQcOjt_-xxz6BTmugdU) :brazil:
 - [Lógica de programação e algoritmos - Programador Br](https://www.youtube.com/watch?v=HXddFUe6VPU&list=PLVzrOYTg7zYDNdLJbnmhPtPcDaNWoxYVT) :brazil:
 
 ## Agile
@@ -94,6 +94,7 @@ More than just a bunch of links, this is a selection of what we judge to be some
 - [Desvendando a linguagem JavaScript](https://www.youtube.com/playlist?list=PLQCmSnNFVYnT1-oeDOSBnt164802rkegc) :brazil:
 - [Iniciando com JavaScript](https://www.schoolofnet.com/curso/frontend/javascript/iniciando-com-javascript-rev3/) :brazil:
 - [Introdução a JavaScript: Desenho & Animação](https://pt.khanacademy.org/computing/computer-programming/programming) :brazil:
+- [JavaScript: Algoritmos + Estrutura de dados - Kura Web](https://www.youtube.com/playlist?list=PLpfKv2Mn_c-HTFozSx8iplzzBlQJnPs2j) :brazil:
 - [JavaScript Avançado: Jogos & Visualizações](https://pt.khanacademy.org/computing/computer-programming/programming-games-visualizations) :brazil:
 - [JavaScript Básico](https://www.codecademy.com/pt-BR/tracks/javascript) :brazil:
 - [JavaScript - By Rocketseat](https://app.rocketseat.com.br/node/curso-java-script) :brazil:
@@ -101,6 +102,7 @@ More than just a bunch of links, this is a selection of what we judge to be some
 - [JS avançado: Simulações Naturais](https://pt.khanacademy.org/computing/computer-programming/programming-natural-simulations) :brazil:
 - [JavaScript e ECMAScript para Iniciantes - Gustavo Guanabara](https://www.youtube.com/playlist?list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1) :brazil:
 - [Curso de JavaScript 2020 - Fundamentos - Programador a Bordo](https://www.youtube.com/playlist?list=PLbA-jMwv0cuWbas947cygrzfzHIc7esmp) :brazil:
+
 
 ## Backend courses
 
@@ -128,6 +130,7 @@ More than just a bunch of links, this is a selection of what we judge to be some
 
 - [Análise de Dados em Python](https://www.youtube.com/watch?v=RlGOaSPFtXc&list=PL5TJqBvpXQv5N3iV68bGBkea0HjMk98lR) :brazil:
 - [Análise de dados em Python - Câmara dos Deputados - LabHacker](https://www.youtube.com/playlist?list=PLqiFjCF_dtcymXtdjwAP4s7tRoW4CYwnH) :brazil:
+- [Curso de Python - eXcript](https://www.youtube.com/playlist?list=PLesCEcYj003QxPQ4vTXkt22-E11aQvoVj) :brazil:
 - [Desenvolvedor Python (Bootcamp)](https://digitalinnovation.one/bootcamps/desenvolvedor-python) :brazil:
 - [Introdução à Python por Projetos](https://www.youtube.com/watch?v=gDDGq7Q_YFE&list=PL5TJqBvpXQv6AEfVymby32MinHdxZA-8J) :brazil:
 - [Python Curso em Vídeo](https://www.youtube.com/watch?v=S9uPNppGsGo&list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0) :brazil:
