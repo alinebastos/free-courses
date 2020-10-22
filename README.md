@@ -216,3 +216,4 @@ More than just a bunch of links, this is a selection of what we judge to be some
 
 #### Desenvolvimento Web FullStack
 - [The Odin Project](https://www.theodinproject.com/) :us:
+- [Via rapida - Trilhas sp tech](http://www.viarapida.sp.gov.br/trilhas-sp-tech/desenvolvedor-web-full-stack) :brazil:
