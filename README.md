@@ -182,6 +182,7 @@ More than just a bunch of links, this is a selection of what we judge to be some
 #### Big Data
 
 - [Big Data Essentials](https://4linux.com.br/cursos/treinamento/big-data-essentials/) :brazil:
+- [Big Data Fundamentos 2.0](https://www.datascienceacademy.com.br/course?courseid=big-data-fundamentos) :brazil:
 
 - [Introdução à Ciência de Dados 2.0](https://www.datascienceacademy.com.br/course?courseid=introduo--cincia-de-dados) :brazil:
 
