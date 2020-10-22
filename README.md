@@ -173,7 +173,11 @@ More than just a bunch of links, this is a selection of what we judge to be some
 - [Haskell para iniciantes](https://www.youtube.com/playlist?list=PL8eBmR3QtPL3pDzQpwPYfWQ4NEPGu6j7z) :brazil:
 
 ## Data Science
-
+#### Deep Learning
+ - [Pytorch - Aprendizado profundo com Python](https://www.youtube.com/playlist?list=PLQVvvaa0QuDdeMyHEYc0gxFpYwHY2Qfdh) :us:
+ - [Keras - API de aprendizado profundo de redes neurais](https://www.youtube.com/playlist?list=PLQVvvaa0QuDdeMyHEYc0gxFpYwHY2Qfdh) :us:
+ - [Aprendizado profundo com o Tensorflow](https://www.youtube.com/playlist?list=PL-XeOa5hMEYxNzHM7YLRjIwE1k3VQpqEh) :us:
+ 
 #### Big Data
 
 - [Big Data Essentials](https://4linux.com.br/cursos/treinamento/big-data-essentials/) :brazil:
