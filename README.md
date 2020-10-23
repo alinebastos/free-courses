@@ -153,12 +153,14 @@ More than just a bunch of links, this is a selection of what we judge to be some
 - [API dos Correios com NodeJS](https://www.schoolofnet.com/canal-direto-ao-ponto/api-dos-correios-com-nodejs/)
 - [Construindo uma API com Typescript, Jest, TDD e muito mais ](https://www.youtube.com/watch?v=W2ld5xRS3cY&list=PLz_YTBuxtxt6_Zf1h-qzNsvVt46H8ziKh) :brazil:
 - [Criando APIs com NodeJs - André Baltieri](https://www.youtube.com/playlist?list=PLHlHvK2lnJndvvycjBqQAbgEDqXxKLoqn) :brazil:
+- [Curso de Node.JS - Guia do Programador](https://www.youtube.com/watch?v=LLqq6FemMNQ&list=PLJ_KhUnlXUPtbtLwaxxUxHqvcNQndmI4B&ab_channel=VictorLima-GuiadoProgramador) :brazil:
 - [Imersão em desenvolvimento de APIs com Node.js By #NodeBR!](https://erickwendel.teachable.com/p/node-js-para-iniciantes-nodebr?origin=CursoErickWendel) :brazil:
 - [Iniciando com NodeJS](https://www.schoolofnet.com/aula-ao-vivo/iniciando-com-nodejs-live/)
 - [NodeJS - By Rocketseat](https://app.rocketseat.com.br/node/curso-node-js) :brazil:
 - [Node.js - Rodrigo Branas](https://www.youtube.com/playlist?list=PLQCmSnNFVYnTFo60Bt972f8HA4Td7WKwq) :brazil:
 - [NodeJs, TDD e CLean Architecture - Rodrigo Manguinho](https://www.youtube.com/playlist?list=PL9aKtVrF05DyEwK5kdvzrYXFdpZfj1dsG&fbclid=IwAR1PogboGrrX6v0WcKAhjzTGqG0rxUsEDcLfQO1dB7FB6xl6Z0dqCojjtI4) :brazil:
 - [RESTful com Node.js e Restify](https://codecasts.com.br/series/restful-com-nodejs-e-restify) :brazil:
+
 
 #### Golang
 
