@@ -10,6 +10,7 @@ More than just a bunch of links, this is a selection of what we judge to be some
 - [Git e Github](https://www.youtube.com/watch?v=xEKo29OWILE&list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA/) :brazil:
 - [Introduction to Git and GitHub](https://web.digitalinnovation.one/course/introducao-ao-git-e-ao-github/learning/75b9fe49-6ed4-4480-83a7-7e37fc356aa9/) :brazil:
 - [Git e Github para iniciantes (Loiane)](https://www.youtube.com/watch?v=UMhskLXJuq4/) :brazil:
+- [Git-Game - Terminal game designed to test your knowledge of git commands](https://github.com/git-game/git-game) :us:
 
 ## Lógica de programação
 
@@ -139,6 +140,7 @@ More than just a bunch of links, this is a selection of what we judge to be some
 - [Python Curso em Vídeo](https://www.youtube.com/watch?v=S9uPNppGsGo&list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0) :brazil:
 - [Python for Everybody](https://py4e.com) :us:
 - [Python para Zumbis](https://www.pycursos.com/python-para-zumbis/) :brazil:
+- [Python - Ignorância Zero](https://www.youtube.com/channel/UCmjj41YfcaCpZIkU-oqVIIw) :brazil:
 
 #### Ruby
 
