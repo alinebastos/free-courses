@@ -178,16 +178,19 @@ More than just a bunch of links, this is a selection of what we judge to be some
 - [Haskell para iniciantes](https://www.youtube.com/playlist?list=PL8eBmR3QtPL3pDzQpwPYfWQ4NEPGu6j7z) :brazil:
 
 ## Data Science
+
+### Data Analysis
+ - [Python Fundamentos para Análise de Dados](http://datascienceacademy.com.br/course?courseid=python-fundamentos) :brazil:
+ 
 #### Deep Learning
  - [Pytorch - Aprendizado profundo com Python](https://www.youtube.com/playlist?list=PLQVvvaa0QuDdeMyHEYc0gxFpYwHY2Qfdh) :us:
  - [Keras - API de aprendizado profundo de redes neurais](https://www.youtube.com/playlist?list=PLQVvvaa0QuDdeMyHEYc0gxFpYwHY2Qfdh) :us:
  - [Aprendizado profundo com o Tensorflow](https://www.youtube.com/playlist?list=PL-XeOa5hMEYxNzHM7YLRjIwE1k3VQpqEh) :us:
- 
+
 #### Big Data
 
 - [Big Data Essentials](https://4linux.com.br/cursos/treinamento/big-data-essentials/) :brazil:
 - [Big Data Fundamentos 2.0](https://www.datascienceacademy.com.br/course?courseid=big-data-fundamentos) :brazil:
-
 - [Introdução à Ciência de Dados 2.0](https://www.datascienceacademy.com.br/course?courseid=introduo--cincia-de-dados) :brazil:
 
 #### Business Intelligence
@@ -200,6 +203,7 @@ More than just a bunch of links, this is a selection of what we judge to be some
 - [Curso de Inteligência Artificial para todos](https://www.youtube.com/playlist?list=PLtQM10PgmGogjn0cikgWi8wpQUnV6ERkY) :brazil:
 - [Aulas da Escola Livre de IA - 2020](https://www.youtube.com/playlist?list=PLSZbIUwF2aOxXa7_UdKLQi1e4wl7DHcRN) :brazil:
 - [Eletrônicos CODEiot](https://codeiot.org.br/courses?search_query=IOT103%20IOT103EN%20IOT103ES) :br: :us:
+
 ## Infrastructure courses
 
 #### AWS
