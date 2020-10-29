@@ -50,6 +50,7 @@ More than just a bunch of links, this is a selection of what we judge to be some
 - [Angular 2](https://loiane.training/course/angular-2/) :brazil:
 - [Angular 7 Componentes](https://www.schoolofnet.com/curso/frontend/angular-7/angular-6-componentes/) :brazil:
 - [Angular 9 ](https://www.cod3r.com.br/courses/angular-9-essencial) :brazil:
+- [Build a movie search app in React](https://scrimba.com/learn/reactmovie) :us:
 - [Criando sites estáticos com Jekyll](https://www.udemy.com/criando-sites-estaticos-com-jekyll/) :brazil:
 - [CSS Animation](https://www.youtube.com/playlist?list=PL4cUxeGkcC9iGYgmEd2dm3zAKzyCGDtM5) :us:
 - [CSS Animations Series](https://www.youtube.com/playlist?list=PLqGj3iMvMa4LvJ8VctoXnPI0dtE40wfid) :us:
