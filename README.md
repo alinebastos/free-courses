@@ -108,6 +108,10 @@ More than just a bunch of links, this is a selection of what we judge to be some
 - [Curso de JavaScript 2020 - Fundamentos - Programador a Bordo](https://www.youtube.com/playlist?list=PLbA-jMwv0cuWbas947cygrzfzHIc7esmp) :brazil:
 
 
+## Typescript
+- [TypeScript - Aprendendo Junto ](https://www.youtube.com/playlist?list=PL62G310vn6nGg5OzjxE8FbYDzCs_UqrUs) :brazil:
+- [Curso NodeJS com Typescript ](https://www.youtube.com/watch?v=GII-SyqjbqE&list=PLn3kOoc0oI2cQDdUEQxj75sxgRH53DmSc) : brazil
+
 ## Backend courses
 
 #### Java
