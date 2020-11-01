@@ -38,6 +38,7 @@ More than just a bunch of links, this is a selection of what we judge to be some
 - [Ionic 3 para iniciantes](https://www.udemy.com/course/ionic-3-para-iniciantes/) :brazil:
 
 #### React Native
+
 - [React Native - By Rocketseat](https://app.rocketseat.com.br/node/curso-react-native) :brazil:
 
 ## Frontend Courses
@@ -49,6 +50,7 @@ More than just a bunch of links, this is a selection of what we judge to be some
 - [Angular 2](https://loiane.training/course/angular-2/) :brazil:
 - [Angular 7 Componentes](https://www.schoolofnet.com/curso/frontend/angular-7/angular-6-componentes/) :brazil:
 - [Angular 9 ](https://www.cod3r.com.br/courses/angular-9-essencial) :brazil:
+- [Build a movie search app in React](https://scrimba.com/learn/reactmovie) :us:
 - [Criando sites estáticos com Jekyll](https://www.udemy.com/criando-sites-estaticos-com-jekyll/) :brazil:
 - [CSS Animation](https://www.youtube.com/playlist?list=PL4cUxeGkcC9iGYgmEd2dm3zAKzyCGDtM5) :us:
 - [CSS Animations Series](https://www.youtube.com/playlist?list=PLqGj3iMvMa4LvJ8VctoXnPI0dtE40wfid) :us:
@@ -91,9 +93,9 @@ More than just a bunch of links, this is a selection of what we judge to be some
 - [Novo curso de HTML e CSS](https://www.youtube.com/watch?v=Ejkb_YpuHWs&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n) :brazil:
 - [Curso de Flexbox](https://www.nodestudio.com.br/curso/curso-de-flexbox) :brazil:
 
-
 #### JavaScript
 
+- [Aprenda a testar aplicações Javascript](https://classes.vedovelli.com.br/?class=testar-aplicacoes-javascript-criacao-projeto-instalacao-jest) :brazil:
 - [Curso de Javascript](https://www.nodestudio.com.br/curso/curso-de-javascript) :brazil:
 - [Desvendando a linguagem JavaScript](https://www.youtube.com/playlist?list=PLQCmSnNFVYnT1-oeDOSBnt164802rkegc) :brazil:
 - [Iniciando com JavaScript](https://www.schoolofnet.com/curso/frontend/javascript/iniciando-com-javascript-rev3/) :brazil:
@@ -107,7 +109,6 @@ More than just a bunch of links, this is a selection of what we judge to be some
 - [JavaScript e ECMAScript para Iniciantes - Gustavo Guanabara](https://www.youtube.com/playlist?list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1) :brazil:
 - [Curso de JavaScript 2020 - Fundamentos - Programador a Bordo](https://www.youtube.com/playlist?list=PLbA-jMwv0cuWbas947cygrzfzHIc7esmp) :brazil:
 
-
 ## Backend courses
 
 #### Java
@@ -120,13 +121,14 @@ More than just a bunch of links, this is a selection of what we judge to be some
 - [TDD – Desenvolvimento de software guiado por testes](https://pt.coursera.org/learn/tdd-desenvolvimento-de-software-guiado-por-testes) :brazil:
 
 #### PHP
+
 - [Curso Completo de PHP](https://www.youtube.com/playlist?list=PL7ScB28KYHhFJ0t3FNgVixx8uVOiS8bbD) :brazil:
 - [Curso Laravel 6.x](https://www.youtube.com/playlist?list=PLVSNL1PHDWvQBtcH_4VR82Dg-aFiVOZBY) :brazil:
 - [Curso de PHP 7](https://www.youtube.com/playlist?list=PLwXQLZ3FdTVEITn849NlfI9BGY-hk1wkq) :brazil:
 - [Curso de PHP Básico](https://www.schoolofnet.com/curso/php/linguagem-php/iniciando-com-php/) :brazil:
 - [Curso de PHP para Iniciantes](https://www.youtube.com/playlist?list=PLHz_AreHm4dm4beCCCmW4xwpmLf6EHY9k) :brazil:
 - [Curso de POO PHP](https://www.youtube.com/playlist?list=PLHz_AreHm4dmGuLII3tsvryMMD7VgcT7x) :brazil:
-= [Curso de PHP Orientado a Objetos](https://www.youtube.com/playlist?list=PLwXQLZ3FdTVEau55kNj_zLgpXL4JZUg8I) :brazil:
+  = [Curso de PHP Orientado a Objetos](https://www.youtube.com/playlist?list=PLwXQLZ3FdTVEau55kNj_zLgpXL4JZUg8I) :brazil:
 - [Iniciando com Laravel 5.5](https://www.schoolofnet.com/curso/php/laravel/iniciando-com-laravel-55/) :brazil:
 - [Novidades do php 7.1](https://www.schoolofnet.com/curso/php/linguagem-php/novidades-do-php71/) :brazil:
 
@@ -171,8 +173,7 @@ More than just a bunch of links, this is a selection of what we judge to be some
 - [Desenvolvedor Kotlin Iniciante](https://www.udemy.com/course/desenvolvedor-kotlin-iniciante/) :brazil:
 - [Kotlin Course for Beginners and Java Devs](https://www.youtube.com/playlist?list=PLrnPJCHvNZuAIbejjZA1kGfLeA8ZpICB2) :us:
 
-
-#### Haskell   
+#### Haskell
 
 - [Introduction to Haskell](https://www.seas.upenn.edu/~cis194/fall16/) :us:
 - [Haskell para iniciantes](https://www.youtube.com/playlist?list=PL8eBmR3QtPL3pDzQpwPYfWQ4NEPGu6j7z) :brazil:
@@ -180,12 +181,14 @@ More than just a bunch of links, this is a selection of what we judge to be some
 ## Data Science
 
 ### Data Analysis
- - [Python Fundamentos para Análise de Dados](http://datascienceacademy.com.br/course?courseid=python-fundamentos) :brazil:
- 
+
+- [Python Fundamentos para Análise de Dados](http://datascienceacademy.com.br/course?courseid=python-fundamentos) :brazil:
+
 #### Deep Learning
- - [Pytorch - Aprendizado profundo com Python](https://www.youtube.com/playlist?list=PLQVvvaa0QuDdeMyHEYc0gxFpYwHY2Qfdh) :us:
- - [Keras - API de aprendizado profundo de redes neurais](https://www.youtube.com/playlist?list=PLQVvvaa0QuDdeMyHEYc0gxFpYwHY2Qfdh) :us:
- - [Aprendizado profundo com o Tensorflow](https://www.youtube.com/playlist?list=PL-XeOa5hMEYxNzHM7YLRjIwE1k3VQpqEh) :us:
+
+- [Pytorch - Aprendizado profundo com Python](https://www.youtube.com/playlist?list=PLQVvvaa0QuDdeMyHEYc0gxFpYwHY2Qfdh) :us:
+- [Keras - API de aprendizado profundo de redes neurais](https://www.youtube.com/playlist?list=PLQVvvaa0QuDdeMyHEYc0gxFpYwHY2Qfdh) :us:
+- [Aprendizado profundo com o Tensorflow](https://www.youtube.com/playlist?list=PL-XeOa5hMEYxNzHM7YLRjIwE1k3VQpqEh) :us:
 
 #### Big Data
 
@@ -220,14 +223,15 @@ More than just a bunch of links, this is a selection of what we judge to be some
 - [Descomplicando o Docker](https://www.youtube.com/watch?v=0xxHiOSJVe8&list=PLf-O3X2-mxDkiUH0r_BadgtELJ_qyrFJ_) :brazil:
 - [Docker Essentials](https://www.udemy.com/course/docker-essentials/) :us:
 
-
 ## FullStack courses
 
-#### Diversos cursos em renomadas instituições 
+#### Diversos cursos em renomadas instituições
+
 - [700 Free Online Programming & Computer Science Courses You Can Start This September](https://www.freecodecamp.org/news/free-online-programming-cs-courses/) :us:
 - [Introdução Ciência da Computção de Harvard](https://online-learning.harvard.edu/course/cs50-introduction-computer-science?delta=0) :us:
 - [Iniciante de JavaScrip da Microsoft](https://www.youtube.com/playlist?list=PLlrxD0HtieHhW0NCG7M536uHGOtJ95Ut2) :us:
 
 #### Desenvolvimento Web FullStack
+
 - [The Odin Project](https://www.theodinproject.com/) :us:
 - [Via rapida - Trilhas sp tech](http://www.viarapida.sp.gov.br/trilhas-sp-tech/desenvolvedor-web-full-stack) :brazil:
