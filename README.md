@@ -2,7 +2,7 @@
 
 > More than just a bunch of links, this is a selection of what we judge to be some of the best learning opportunities you will find online for free.
 
-# Índice
+## Índice
 [Git and Github Courses](#git-and-github-courses)<br>
 [Lógica de programação](#lógica-de-programação)<br>
 [Agile](#agile)<br>
@@ -274,3 +274,6 @@
 | ----- | :-----: |
 | [The Odin Project](https://www.theodinproject.com/) | :us: |
 | [Via rapida - Trilhas sp tech](http://www.viarapida.sp.gov.br/trilhas-sp-tech/desenvolvedor-web-full-stack) | :brazil: |
+
+
+<br>[⬆ Voltar ao índice](#índice)<br>
