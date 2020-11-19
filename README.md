@@ -3,15 +3,15 @@
 > More than just a bunch of links, this is a selection of what we judge to be some of the best learning opportunities you will find online for free.
 
 # Índice
-- [Git and Github Courses](#-git-and-github-courses)
-- [Lógica de programação](#-lógica-de-programação)
-- [Agile](#-agile)
-- [Mobile Courses](#-mobile-courses)
-- [Frontend Courses](#-frontend-courses)
-- [Backend Courses](#-backend-courses)
-- [Data Science](#-data-science)
-- [Infrastructure Courses](#-infrastructure-courses)
-- [FullStack courses](#-fullstack-courses)
+[Git and Github Courses](#-git-and-github-courses)
+[Lógica de programação](#-lógica-de-programação)
+[Agile](#-agile)
+[Mobile Courses](#-mobile-courses)
+[Frontend Courses](#-frontend-courses)
+[Backend Courses](#-backend-courses)
+[Data Science](#-data-science)
+[Infrastructure Courses](#-infrastructure-courses)
+[FullStack courses](#-fullstack-courses)
 
 
 ## Git and Github Courses
@@ -81,7 +81,7 @@
 | [Curso de Linux - Primeiros Passos](https://www.youtube.com/playlist?list=PLHz_AreHm4dlIXleu20uwPWFOSswqLYbV) | :brazil: |
 | [Curso de Lógica de Programação - Gustavo Guanabara](https://www.youtube.com/watch?v=8mei6uVttho&list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV) | :brazil: |
 | [Curso de Vue JS](https://www.youtube.com/watch?v=npA_f0ztIt0&list=PLJ_KhUnlXUPteacVhunyK5M8SKIadeED0) | :brazil: |
-| [Curso pare de chutar o CSS - CollabCode](https://www.youtube.com/watch?v=5PS6ku8NzIE&list=PLirko8T4cEmx5eBb1-9j6T6Gl4aBtZ_5x):brazil: |
+| [Curso pare de chutar o CSS - CollabCode](https://www.youtube.com/watch?v=5PS6ku8NzIE&list=PLirko8T4cEmx5eBb1-9j6T6Gl4aBtZ_5x) | :brazil: |
 | [Curso Redes de Computadores](https://www.youtube.com/playlist?list=PLHz_AreHm4dkd4lr9G0Up-W-YaHYdTDuP) | :brazil: |
 | [Criando Sites Profissionais](https://www.nodestudio.com.br/curso/curso-carreira-web-sites-profissionais) | :brazil: |
 | [Desenvolvedor Web Front-End (Bootcamp)](https://digitalinnovation.one/bootcamps/desenvolvedor-web-front-end) | :brazil: |
@@ -184,7 +184,7 @@
 | [Curso de Node.JS - Guia do Programador](https://www.youtube.com/watch?v=LLqq6FemMNQ&list=PLJ_KhUnlXUPtbtLwaxxUxHqvcNQndmI4B&ab_channel=VictorLima-GuiadoProgramador) | :brazil: |
 | [Do zero a produção: Aprenda a construir uma API Node.js com Typescript - Waldemar Neto](https://www.nodejs-typescript-api.com/curso-gratis/) | :brazil: |
 | [Imersão em desenvolvimento de APIs com Node.js By #NodeBR!](https://erickwendel.teachable.com/p/node-js-para-iniciantes-nodebr?origin=CursoErickWendel) | :brazil: |
-| [Iniciando com NodeJS](https://www.schoolofnet.com/aula-ao-vivo/iniciando-com-nodejs-live/)
+| [Iniciando com NodeJS](https://www.schoolofnet.com/aula-ao-vivo/iniciando-com-nodejs-live/) | :brazil: |
 | [NodeJS - By Rocketseat](https://app.rocketseat.com.br/node/curso-node-js) | :brazil: |
 | [Node.js - Rodrigo Branas](https://www.youtube.com/playlist?list=PLQCmSnNFVYnTFo60Bt972f8HA4Td7WKwq) | :brazil: |
 | [NodeJs, TDD e CLean Architecture - Rodrigo Manguinho](https://www.youtube.com/playlist?list=PL9aKtVrF05DyEwK5kdvzrYXFdpZfj1dsG&fbclid=IwAR1PogboGrrX6v0WcKAhjzTGqG0rxUsEDcLfQO1dB7FB6xl6Z0dqCojjtI4) | :brazil: |
@@ -239,7 +239,7 @@
 | [Introdução à tecnologia de IA para líderes de negócios](http://www.brasilmaisdigital.org.br/index.php/pt-br/cursos-online/2017-05-23-17-40-54/94-introduc-o-a-tecnologia-de-ia-para-lideres-de-negocios/preview) | :brazil: |
 | [Curso de Inteligência Artificial para todos](https://www.youtube.com/playlist?list=PLtQM10PgmGogjn0cikgWi8wpQUnV6ERkY) | :brazil: |
 | [Aulas da Escola Livre de IA - 2020](https://www.youtube.com/playlist?list=PLSZbIUwF2aOxXa7_UdKLQi1e4wl7DHcRN) | :brazil: |
-| [Eletrônicos CODEiot](https://codeiot.org.br/courses?search_query=IOT103%20IOT103EN%20IOT103ES) | :br: | :us: |
+| [Eletrônicos CODEiot](https://codeiot.org.br/courses?search_query=IOT103%20IOT103EN%20IOT103ES) | :us: |
 
 ## Infrastructure courses
 
