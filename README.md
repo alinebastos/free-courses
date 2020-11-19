@@ -3,8 +3,8 @@
 > More than just a bunch of links, this is a selection of what we judge to be some of the best learning opportunities you will find online for free.
 
 # Índice
-[Git and Github Courses](#-git-and-github-courses)
-[Lógica de programação](#-lógica-de-programação)
+[Git and Github Courses](#-git-and-github-courses)<br>
+[Lógica de programação](#lógica-de-programação)<br>
 [Agile](#-agile)
 [Mobile Courses](#-mobile-courses)
 [Frontend Courses](#-frontend-courses)
