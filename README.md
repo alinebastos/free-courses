@@ -106,6 +106,7 @@
 | [Sass Curso](https://www.youtube.com/playlist?list=PL97KElaimHeGRtfkksKwxg6IGVZi_cR7J) | :brazil: |
 | [Styled Components Crash Course](https://www.youtube.com/watch?v=c5-Vex3ufFU&t=1s) | :us: |
 | [UX e UI Design](https://cursos.timtec.com.br/course/ux-e-ui-design/intro) | :brazil: |
+| [Vue JS 2 Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gQcYgjhBoeQH7wiAyZNrYa) | :uk: |
 | [Web tooling automation](https://www.udacity.com/course/web-tooling-automation--ud892) | :us: |
 | [Website Performance Optimization](https://www.udacity.com/course/website-performance-optimization--ud884) | :us: |
 | [WorkshopDev](https://www.youtube.com/watch?v=cprMYC8PCVY&list=PL85ITvJ7FLohGTWaE_p0J6B-TLmQbN4ka) | :brazil: |
@@ -129,6 +130,7 @@
 | [JS avançado: Simulações Naturais](https://pt.khanacademy.org/computing/computer-programming/programming-natural-simulations) | :brazil: |
 | [JavaScript e ECMAScript para Iniciantes - Gustavo Guanabara](https://www.youtube.com/playlist?list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1) | :brazil: |
 | [Curso de JavaScript 2020 - Fundamentos - Programador a Bordo](https://www.youtube.com/playlist?list=PLbA-jMwv0cuWbas947cygrzfzHIc7esmp) | :brazil: |
+| [General Javascript Course](https://amigoscode.com/p/javascript)| :uk: |
 
 ## 💻 Backend courses
 
