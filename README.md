@@ -59,6 +59,7 @@
 | Link | Idioma |
 | ----- | :-----: |
 | [React Native - By Rocketseat](https://app.rocketseat.com.br/node/curso-react-native) | :brazil: |
+| [React Native - By Geek Dev](https://youtube.com/playlist?list=PL8fIRnD1uUSnRqz3E2caAWDqbtIFXmNtW) | :brazil: |
 
 ## 💻 Frontend Courses
 
@@ -113,6 +114,8 @@
 | [React, Redux e integração de APIs](https://www.udemy.com/course/react-redux-e-integracao-de-apis/) | :brazil: |
 | [Novo curso de HTML e CSS](https://www.youtube.com/watch?v=Ejkb_YpuHWs&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n) | :brazil: |
 | [Curso de Flexbox](https://www.nodestudio.com.br/curso/curso-de-flexbox) | :brazil: |
+| [Curso de React](https://youtube.com/playlist?list=PLt28SuGsHXH3EehPDQEd59SHMtfSYJUgR) | :brazil: |
+| [Curso de NextJS](https://youtube.com/playlist?list=PLkFMdTTdI9c2js2bPRUhChVA0jdI-358s) | :brazil: |
 
 #### JavaScript
 | Link | Idioma |
