@@ -26,6 +26,10 @@
 | [Git e Github para iniciantes (Loiane)](https://www.youtube.com/watch?v=UMhskLXJuq4/) | :brazil: |
 | [Git-Game - Terminal game designed to test your knowledge of git commands](https://github.com/git-game/git-game) | :us: |
 
+<div align="left">
+    <b><a href="#índice">↥ Voltar ao índice</a></b>
+</div>
+
 ## 💻Lógica de programação
 | Link | Idioma |
 | ----- | :-----: |
@@ -35,10 +39,18 @@
 | [Lógica de Programação (Algoritmos) - Pietro Martins](https://www.youtube.com/playlist?list=PLpaKFn4Q4GMNlLZQcOjt_-xxz6BTmugdU) | :brazil: |
 | [Lógica de programação e algoritmos - Programador Br](https://www.youtube.com/watch?v=HXddFUe6VPU&list=PLVzrOYTg7zYDNdLJbnmhPtPcDaNWoxYVT) | :brazil: |
 
+<div align="left">
+    <b><a href="#índice">↥ Voltar ao índice</a></b>
+</div>
+
 ## 💻Agile
 | Link | Idioma |
 | ----- | :-----: |
 | [Agile Scrum Foundation](https://academy.estabil.is/courses/exin-agile-scrum-foundation) | :brazil: |
+
+<div align="left">
+    <b><a href="#índice">↥ Voltar ao índice</a></b>
+</div>
 
 ## 💻Mobile Courses
 
@@ -59,6 +71,10 @@
 | Link | Idioma |
 | ----- | :-----: |
 | [React Native - By Rocketseat](https://app.rocketseat.com.br/node/curso-react-native) | :brazil: |
+
+<div align="left">
+    <b><a href="#índice">↥ Voltar ao índice</a></b>
+</div>
 
 ## 💻Frontend Courses
 
@@ -131,6 +147,10 @@
 | [JavaScript e ECMAScript para Iniciantes - Gustavo Guanabara](https://www.youtube.com/playlist?list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1) | :brazil: |
 | [Curso de JavaScript 2020 - Fundamentos - Programador a Bordo](https://www.youtube.com/playlist?list=PLbA-jMwv0cuWbas947cygrzfzHIc7esmp) | :brazil: |
 | [General Javascript Course](https://amigoscode.com/p/javascript)| :uk: |
+
+<div align="left">
+    <b><a href="#índice">↥ Voltar ao índice</a></b>
+</div>
 
 ## 💻Backend courses
 
@@ -209,6 +229,10 @@
 | [Introduction to Haskell](https://www.seas.upenn.edu/~cis194/fall16/) | :us: |
 | [Haskell para iniciantes](https://www.youtube.com/playlist?list=PL8eBmR3QtPL3pDzQpwPYfWQ4NEPGu6j7z) | :brazil: |
 
+<div align="left">
+    <b><a href="#índice">↥ Voltar ao índice</a></b>
+</div>
+
 ## 💻Data Science
 
 ### Data Analysis
@@ -243,6 +267,10 @@
 | [Aulas da Escola Livre de IA - 2020](https://www.youtube.com/playlist?list=PLSZbIUwF2aOxXa7_UdKLQi1e4wl7DHcRN) | :brazil: |
 | [Eletrônicos CODEiot](https://codeiot.org.br/courses?search_query=IOT103%20IOT103EN%20IOT103ES) | :us: |
 
+<div align="left">
+    <b><a href="#índice">↥ Voltar ao índice</a></b>
+</div>
+
 ## 💻Infrastructure courses
 
 #### AWS
@@ -261,6 +289,10 @@
 | ----- | :-----: |
 | [Descomplicando o Docker](https://www.youtube.com/watch?v=0xxHiOSJVe8&list=PLf-O3X2-mxDkiUH0r_BadgtELJ_qyrFJ_) | :brazil: |
 | [Docker Essentials](https://www.udemy.com/course/docker-essentials/) | :us: |
+
+<div align="left">
+    <b><a href="#índice">↥ Voltar ao índice</a></b>
+</div>
 
 ## 💻FullStack courses
 
