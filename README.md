@@ -51,6 +51,9 @@
 | [Flutter - 45 Cursos Grátis na UDEMY](https://www.udemy.com/courses/search/?price=price-free&q=flutter&sort=relevance&src=sac) | :brazil: | | :us: |
 | [Flutter - André Baltieri](https://www.youtube.com/playlist?list=PLHlHvK2lnJndc8qCqmQdHr-cLoOb2-q61) | :brazil: |
 | [Flutter Básico Online Grátis](https://www.primecursos.com.br/flutter-basico/) | :brazil: |
+| [Dart Beginners Course (Andrea Bizzotto](https://www.youtube.com/playlist?list=PLNnAcB93JKV9YAl4QDygDEMfplrt5uUUx) | :us: |
+| [Coding with Flutter (Andrea Bizzotto](https://www.youtube.com/playlist?list=PLNnAcB93JKV9iZ2cwk9MEx3_JG8BRikMP) | :us: |
+| [Flutter in Practice](https://www.youtube.com/playlist?list=PLhXZp00uXBk5TSY6YOdmpzp1yG3QbFvrN)
 
 #### Ionic
 | Link | Idioma |
