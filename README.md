@@ -25,6 +25,8 @@
 | [Introduction to Git and GitHub](https://web.digitalinnovation.one/course/introducao-ao-git-e-ao-github/learning/75b9fe49-6ed4-4480-83a7-7e37fc356aa9/) | :brazil: |
 | [Git e Github para iniciantes (Loiane)](https://www.youtube.com/watch?v=UMhskLXJuq4/) | :brazil: |
 | [Git-Game - Terminal game designed to test your knowledge of git commands](https://github.com/git-game/git-game) | :us: |
+| [Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123) | :us: |
+| [Learn Git Branching](https://learngitbranching.js.org/) | :us: |
 
 ## 💻 Lógica de programação
 | Link | Idioma |
