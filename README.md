@@ -3,15 +3,15 @@
 > More than just a bunch of links, this is a selection of what we judge to be some of the best learning opportunities you will find online for free.
 
 ## 📕 Índice
-📌 [Git and Github Courses](#git-and-github-courses)<br>
-📌 [Lógica de programação](#lógica-de-programação)<br>
-📌 [Agile](#agile)<br>
-📌 [Mobile Courses](#mobile-courses)<br>
-📌 [Frontend Courses](#frontend-courses)<br>
-📌 [Backend Courses](#backend-courses)<br>
-📌 [Data Science](#data-science)<br>
-📌 [Infrastructure Courses](#infrastructure-courses)<br>
-📌 [FullStack courses](#fullstack-courses)<br>
+📌 [Git and Github Courses](#-git-and-github-courses)<br>
+📌 [Lógica de programação](#-l%C3%B3gica-de-programa%C3%A7%C3%A3o)<br>
+📌 [Agile](#-agile)<br>
+📌 [Mobile Courses](#-mobile-courses)<br>
+📌 [Frontend Courses](#-frontend-courses)<br>
+📌 [Backend Courses](#-backend-courses)<br>
+📌 [Data Science](#-data-science)<br>
+📌 [Infrastructure Courses](#-infrastructure-courses)<br>
+📌 [FullStack courses](#-fullstack-courses)<br>
 
 
 ## 💻 Git and Github Courses
