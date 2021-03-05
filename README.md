@@ -77,7 +77,11 @@
 | [CSS Flexbox](https://www.origamid.com/cursos/css-flexbox/) | :brazil: |
 | [CSS Grid](https://cssgrid.io/) | :us: |
 | [CSS Grid Layout](https://www.youtube.com/watch?v=hKXOVD2Yrj8) | :brazil: |
+| [CSS Grid Layout-L](https://www.youtube.com/watch?v=x7tLPhnA06w&list=PL4cUxeGkcC9itC4TxYMzFCfveyutyPOCY) | :us: |
+| [Super dicas sobre Grid Layout](https://www.youtube.com/watch?v=FEnRpy9Xfes&list=PLbSquHt1VCf1x_-1ytlVMT0AMwADlWtc1) | :us: |
+| [Aplicando mobile-first usando Grid Layout](https://www.youtube.com/watch?v=PM3XW_1RAIs&list=PL4cUxeGkcC9hH1tAjyUPZPjbj-7s200a4) | :us: |
 | [CSS para Iniciantes](https://www.nodestudio.com.br/curso/curso-de-css3) | :brazil: |
+| [Curso sobre media queries](https://www.youtube.com/watch?v=3tLb3i7GB38&list=PL4cUxeGkcC9g9Vh9MAA-XKnfJsWZnPZFw) | :us: |
 | [Curso de Linux - Primeiros Passos](https://www.youtube.com/playlist?list=PLHz_AreHm4dlIXleu20uwPWFOSswqLYbV) | :brazil: |
 | [Curso de Lógica de Programação - Gustavo Guanabara](https://www.youtube.com/watch?v=8mei6uVttho&list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV) | :brazil: |
 | [Curso de Vue JS](https://www.youtube.com/watch?v=npA_f0ztIt0&list=PLJ_KhUnlXUPteacVhunyK5M8SKIadeED0) | :brazil: |
