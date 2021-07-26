@@ -30,6 +30,7 @@
 | Link | Idioma |
 | ----- | :-----: |
 | [Curso completo de lógica de programação - Buildlab](https://buildlab.com.br/aprenda-a-programar/) | :brazil: |
+| [Curso de Lógica de Programação - Gustavo Guanabara](https://www.youtube.com/watch?v=8mei6uVttho&list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV) | :brazil: |
 | [Introdução a Algoritmos - Gustavo Guanabara](https://www.youtube.com/watch?v=8mei6uVttho&list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV) | :brazil: |
 | [Fundamentos de Lógica de Programação](https://www.ev.org.br/cursos/fundamentos-de-logica-de-programacao) | :brazil: |
 | [Lógica de Programação (Algoritmos) - Pietro Martins](https://www.youtube.com/playlist?list=PLpaKFn4Q4GMNlLZQcOjt_-xxz6BTmugdU) | :brazil: |
@@ -63,15 +64,9 @@
 
 ## 💻 Frontend Courses
 
-#### Various
+#### General
 | Link | Idioma |
 | ----- | :-----: |
-| [AngularJS - Rodrigo Branas](https://www.youtube.com/watch?v=_y7rKxqPoyg&list=PLQCmSnNFVYnTD5p2fR4EXmtlR6jQJMbPb) | :brazil: |
-| [Angular + ASP.NET Core API + EF Core](https://www.youtube.com/playlist?list=PLWNaqtzH6CWSbIYlgMDQZNrwDG3gHw7wa) | :brazil: |
-| [Angular 2](https://loiane.training/course/angular-2/) | :brazil: |
-| [Angular 7 Componentes](https://www.schoolofnet.com/curso/frontend/angular-7/angular-6-componentes/) | :brazil: |
-| [Angular 9 ](https://www.cod3r.com.br/courses/angular-9-essencial) | :brazil: |
-| [Build a movie search app in React](https://scrimba.com/learn/reactmovie) | :us: |
 | [Criando sites estáticos com Jekyll](https://www.udemy.com/criando-sites-estaticos-com-jekyll/) | :brazil: |
 | [CSS Animation](https://www.youtube.com/playlist?list=PL4cUxeGkcC9iGYgmEd2dm3zAKzyCGDtM5) | :us: |
 | [CSS Animations Series](https://www.youtube.com/playlist?list=PLqGj3iMvMa4LvJ8VctoXnPI0dtE40wfid) | :us: |
@@ -83,9 +78,6 @@
 | [Aplicando mobile-first usando Grid Layout](https://www.youtube.com/watch?v=PM3XW_1RAIs&list=PL4cUxeGkcC9hH1tAjyUPZPjbj-7s200a4) | :us: |
 | [CSS para Iniciantes](https://www.nodestudio.com.br/curso/curso-de-css3) | :brazil: |
 | [Curso sobre media queries](https://www.youtube.com/watch?v=3tLb3i7GB38&list=PL4cUxeGkcC9g9Vh9MAA-XKnfJsWZnPZFw) | :us: |
-| [Curso de Linux - Primeiros Passos](https://www.youtube.com/playlist?list=PLHz_AreHm4dlIXleu20uwPWFOSswqLYbV) | :brazil: |
-| [Curso de Lógica de Programação - Gustavo Guanabara](https://www.youtube.com/watch?v=8mei6uVttho&list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV) | :brazil: |
-| [Curso de Vue JS](https://www.youtube.com/watch?v=npA_f0ztIt0&list=PLJ_KhUnlXUPteacVhunyK5M8SKIadeED0) | :brazil: |
 | [Curso pare de chutar o CSS - CollabCode](https://www.youtube.com/watch?v=5PS6ku8NzIE&list=PLirko8T4cEmx5eBb1-9j6T6Gl4aBtZ_5x) | :brazil: |
 | [Curso Redes de Computadores](https://www.youtube.com/playlist?list=PLHz_AreHm4dkd4lr9G0Up-W-YaHYdTDuP) | :brazil: |
 | [Criando Sites Profissionais](https://www.nodestudio.com.br/curso/curso-carreira-web-sites-profissionais) | :brazil: |
@@ -94,7 +86,6 @@
 | [Design de interfaces com CSS3](https://cursos.timtec.com.br/course/css3/intro) | :brazil: |
 | [Design Responsivo](https://www.nodestudio.com.br/curso/curso-de-design-responsivo) | :brazil: |
 | [Gulp - Guia Definitivo - Mão na Massa](https://www.youtube.com/playlist?list=PLtluGZbI5EShPPQh7TxfxMaFwDsktHi4V) | :brazil: |
-| [Gatsby Build a Blog](https://www.youtube.com/playlist?list=PLW0RabRDhwwzVNhlOgQQgw6HJzXdM1MnT) | :us: |
 | [HTML Básico](https://www.schoolofnet.com/curso/frontend/html/html-basico-v2/) | :brazil: |
 | [HTML e CSS para iniciantes](https://ead.education/course/curso-de-html-e-css-para-iniciantes/) | :brazil: |
 | [HTML5 para iniciantes](https://www.nodestudio.com.br/curso/curso-de-html5) | :brazil: |
@@ -104,22 +95,16 @@
 | [Introdução ao Quasar Framework](https://codecasts.com.br/series/introducao-quasar) | :brazil: |
 | [Mini Curso gratuito de TypeScript](https://willianjusten.com.br/mini-curso-gratuito-de-typescript/) | :brazil: |
 | [Materialize CSS para iniciantes](https://www.nodestudio.com.br/curso/curso-de-materialize-css) | :brazil: |
-| [ReactJS - By Rocketseat](https://app.rocketseat.com.br/node/curso-react-js) | :brazil: |
 | [Responsive Images](https://www.udacity.com/course/responsive-images--ud882) | :us: |
 | [Responsive Web Design Fundamentals](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893) | :us: |
-| [React Redux Tutorial](https://www.youtube.com/playlist?list=PLC3y8-rFHvwheJHvseC3I0HuYI2f46oAK) | :us: |
 | [Sass Curso](https://www.youtube.com/playlist?list=PL97KElaimHeGRtfkksKwxg6IGVZi_cR7J) | :brazil: |
 | [Styled Components Crash Course](https://www.youtube.com/watch?v=c5-Vex3ufFU&t=1s) | :us: |
 | [UX e UI Design](https://cursos.timtec.com.br/course/ux-e-ui-design/intro) | :brazil: |
-| [Vue JS 2 Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gQcYgjhBoeQH7wiAyZNrYa) | :uk: |
 | [Web tooling automation](https://www.udacity.com/course/web-tooling-automation--ud892) | :us: |
 | [Website Performance Optimization](https://www.udacity.com/course/website-performance-optimization--ud884) | :us: |
 | [WorkshopDev](https://www.youtube.com/watch?v=cprMYC8PCVY&list=PL85ITvJ7FLohGTWaE_p0J6B-TLmQbN4ka) | :brazil: |
-| [React, Redux e integração de APIs](https://www.udemy.com/course/react-redux-e-integracao-de-apis/) | :brazil: |
 | [Novo curso de HTML e CSS](https://www.youtube.com/watch?v=Ejkb_YpuHWs&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n) | :brazil: |
 | [Curso de Flexbox](https://www.nodestudio.com.br/curso/curso-de-flexbox) | :brazil: |
-| [Curso de React](https://youtube.com/playlist?list=PLt28SuGsHXH3EehPDQEd59SHMtfSYJUgR) | :brazil: |
-| [Curso de NextJS](https://youtube.com/playlist?list=PLkFMdTTdI9c2js2bPRUhChVA0jdI-358s) | :brazil: |
 
 #### JavaScript
 | Link | Idioma |
@@ -139,6 +124,32 @@
 | [Curso de JavaScript 2020 - Fundamentos - Programador a Bordo](https://www.youtube.com/playlist?list=PLbA-jMwv0cuWbas947cygrzfzHIc7esmp) | :brazil: |
 | [General Javascript Course](https://amigoscode.com/p/javascript)| :uk: |
 | [Fundamentos de JavaScript Funcional](https://www.cod3r.com.br/courses/javascript-funcional-fundamentos) | :brazil: |
+
+#### Angular
+| Link | Idioma |
+| ----- | :-----: |
+| [AngularJS - Rodrigo Branas](https://www.youtube.com/watch?v=_y7rKxqPoyg&list=PLQCmSnNFVYnTD5p2fR4EXmtlR6jQJMbPb) | :brazil: |
+| [Angular + ASP.NET Core API + EF Core](https://www.youtube.com/playlist?list=PLWNaqtzH6CWSbIYlgMDQZNrwDG3gHw7wa) | :brazil: |
+| [Angular 2](https://loiane.training/course/angular-2/) | :brazil: |
+| [Angular 7 Componentes](https://www.schoolofnet.com/curso/frontend/angular-7/angular-6-componentes/) | :brazil: |
+| [Angular 9 ](https://www.cod3r.com.br/courses/angular-9-essencial) | :brazil: |
+
+#### ReactJS
+| Link | Idioma |
+| ----- | :-----: |
+| [Build a movie search app in React](https://scrimba.com/learn/reactmovie) | :us: |
+| [Curso de NextJS](https://youtube.com/playlist?list=PLkFMdTTdI9c2js2bPRUhChVA0jdI-358s) | :brazil: |
+| [Curso de React](https://youtube.com/playlist?list=PLt28SuGsHXH3EehPDQEd59SHMtfSYJUgR) | :brazil: |
+| [Gatsby Build a Blog](https://www.youtube.com/playlist?list=PLW0RabRDhwwzVNhlOgQQgw6HJzXdM1MnT) | :us: |
+| [ReactJS - By Rocketseat](https://app.rocketseat.com.br/node/curso-react-js) | :brazil: |
+| [React Redux Tutorial](https://www.youtube.com/playlist?list=PLC3y8-rFHvwheJHvseC3I0HuYI2f46oAK) | :us: |
+| [React, Redux e integração de APIs](https://www.udemy.com/course/react-redux-e-integracao-de-apis/) | :brazil: |
+
+#### VueJs
+| Link | Idioma |
+| ----- | :-----: |
+| [Curso de Vue JS](https://www.youtube.com/watch?v=npA_f0ztIt0&list=PLJ_KhUnlXUPteacVhunyK5M8SKIadeED0) | :brazil: |
+| [Vue JS 2 Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gQcYgjhBoeQH7wiAyZNrYa) | :uk: |
 
 ## 💻 Backend courses
 
@@ -161,7 +172,7 @@
 | [Curso de PHP Básico](https://www.schoolofnet.com/curso/php/linguagem-php/iniciando-com-php/) | :brazil: |
 | [Curso de PHP para Iniciantes](https://www.youtube.com/playlist?list=PLHz_AreHm4dm4beCCCmW4xwpmLf6EHY9k) | :brazil: |
 | [Curso de POO PHP](https://www.youtube.com/playlist?list=PLHz_AreHm4dmGuLII3tsvryMMD7VgcT7x) | :brazil: |
-  = [Curso de PHP Orientado a Objetos](https://www.youtube.com/playlist?list=PLwXQLZ3FdTVEau55kNj_zLgpXL4JZUg8I) | :brazil: |
+| [Curso de PHP Orientado a Objetos](https://www.youtube.com/playlist?list=PLwXQLZ3FdTVEau55kNj_zLgpXL4JZUg8I) | :brazil: |
 | [Iniciando com Laravel 5.5](https://www.schoolofnet.com/curso/php/laravel/iniciando-com-laravel-55/) | :brazil: |
 | [Novidades do php 7.1](https://www.schoolofnet.com/curso/php/linguagem-php/novidades-do-php71/) | :brazil: |
 
