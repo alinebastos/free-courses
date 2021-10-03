@@ -42,6 +42,7 @@ More than just a bunch of links, this is a selection of what we judge to be some
 #### Python
 - [Python for Everybody](https://py4e.com) :us:
 - [Python para Zumbis](https://www.pycursos.com/python-para-zumbis/) :brazil:
+- [Linguagem de Programação Python - Básico](https://www.ev.org.br/cursos/linguagem-de-programacao-python-basico) :brazil:
 
 #### Node
 - [API dos Correios com NodeJS](https://www.schoolofnet.com/canal-direto-ao-ponto/api-dos-correios-com-nodejs/)
