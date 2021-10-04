@@ -153,6 +153,13 @@
 
 ## 💻 Backend courses
 
+### C# / .NET
+| Link | Idioma |
+| ----- | :-----: |
+| [Iniciando com ASP.NET Core](https://desenvolvedor.io/curso-online-iniciando-com-asp-net-core) | :brazil: |
+| [Introdução ao Entity Framework Core](https://desenvolvedor.io/curso-online-introducao-entity-framework-core) | :brazil: |
+| [Manipulando Listas Genéricas em C#](https://www.udemy.com/listas-genericas-em-csharp/) | :brazil: |
+
 #### Java
 | Link | Idioma |
 | ----- | :-----: |
