@@ -35,6 +35,7 @@
 | [Fundamentos de Lógica de Programação](https://www.ev.org.br/cursos/fundamentos-de-logica-de-programacao) | :brazil: |
 | [Lógica de Programação (Algoritmos) - Pietro Martins](https://www.youtube.com/playlist?list=PLpaKFn4Q4GMNlLZQcOjt_-xxz6BTmugdU) | :brazil: |
 | [Lógica de programação e algoritmos - Programador Br](https://www.youtube.com/watch?v=HXddFUe6VPU&list=PLVzrOYTg7zYDNdLJbnmhPtPcDaNWoxYVT) | :brazil: |
+| [Lógica de programação em Ruby - Campus Code](https://www.youtube.com/watch?v=I6OsXvUiOC4&list=PLajdzeQ7QG3iXblkBah6Ffoaa7Idxn4cT) | :brazil: |
 
 ## 💻 Agile
 | Link | Idioma |
@@ -195,6 +196,7 @@
 | [Curso Ruby Puro](https://www.youtube.com/playlist?list=PLdDT8if5attEOcQGPHLNIfnSFiJHhGDOZ) | :brazil: |
 | [Curso de Ruby on Rails para Iniciantes](https://www.youtube.com/playlist?list=PLe3LRfCs4go-mkvHRMSXEOG-HDbzesyaP) | :brazil: |
 | [Mini curso de Testes Ruby com RSpec](https://www.youtube.com/playlist?list=PLdDT8if5attGc3fgFsFe5cvV9MwlVFNLW) | :brazil: |
+| [Orientação à objetos em Ruby - Campus Code](https://www.youtube.com/watch?v=rz6WJPDH8bA&list=PLajdzeQ7QG3jS3yEBFkf7GsXvoSj6wuPY) | :brazil: |
 
 #### Node
 | Link | Idioma |
