@@ -99,6 +99,7 @@
 | [Responsive Web Design Fundamentals](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893) | :us: |
 | [Sass Curso](https://www.youtube.com/playlist?list=PL97KElaimHeGRtfkksKwxg6IGVZi_cR7J) | :brazil: |
 | [Styled Components Crash Course](https://www.youtube.com/watch?v=c5-Vex3ufFU&t=1s) | :us: |
+| [TypeScritpt - Zero to Hero](https://github.com/glaucia86/curso-typescript-zero-to-hero) | :brazil: |
 | [UX e UI Design](https://cursos.timtec.com.br/course/ux-e-ui-design/intro) | :brazil: |
 | [Web tooling automation](https://www.udacity.com/course/web-tooling-automation--ud892) | :us: |
 | [Website Performance Optimization](https://www.udacity.com/course/website-performance-optimization--ud884) | :us: |
