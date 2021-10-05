@@ -3,15 +3,15 @@
 > More than just a bunch of links, this is a selection of what we judge to be some of the best learning opportunities you will find online for free.
 
 ## 📕 Índice
-📌 [Git and Github Courses](#git-and-github-courses)<br>
-📌 [Lógica de programação](#lógica-de-programação)<br>
-📌 [Agile](#agile)<br>
-📌 [Mobile Courses](#mobile-courses)<br>
-📌 [Frontend Courses](#frontend-courses)<br>
-📌 [Backend Courses](#backend-courses)<br>
-📌 [Data Science](#data-science)<br>
-📌 [Infrastructure Courses](#infrastructure-courses)<br>
-📌 [FullStack courses](#fullstack-courses)<br>
+📌 [Git and Github Courses](#-git-and-github-courses)<br>
+📌 [Lógica de programação](#-l%C3%B3gica-de-programa%C3%A7%C3%A3o)<br>
+📌 [Agile](#-agile)<br>
+📌 [Mobile Courses](#-mobile-courses)<br>
+📌 [Frontend Courses](#-frontend-courses)<br>
+📌 [Backend Courses](#-backend-courses)<br>
+📌 [Data Science](#-data-science)<br>
+📌 [Infrastructure Courses](#-infrastructure-courses)<br>
+📌 [FullStack courses](#-fullstack-courses)<br>
 
 
 ## 💻 Git and Github Courses
@@ -25,6 +25,8 @@
 | [Introduction to Git and GitHub](https://web.digitalinnovation.one/course/introducao-ao-git-e-ao-github/learning/75b9fe49-6ed4-4480-83a7-7e37fc356aa9/) | :brazil: |
 | [Git e Github para iniciantes (Loiane)](https://www.youtube.com/watch?v=UMhskLXJuq4/) | :brazil: |
 | [Git-Game - Terminal game designed to test your knowledge of git commands](https://github.com/git-game/git-game) | :us: |
+| [Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123) | :us: |
+| [Learn Git Branching](https://learngitbranching.js.org/) | :us: |
 
 ## 💻 Lógica de programação
 | Link | Idioma |
@@ -51,6 +53,9 @@
 | [Flutter - 45 Cursos Grátis na UDEMY](https://www.udemy.com/courses/search/?price=price-free&q=flutter&sort=relevance&src=sac) | :brazil: | | :us: |
 | [Flutter - André Baltieri](https://www.youtube.com/playlist?list=PLHlHvK2lnJndc8qCqmQdHr-cLoOb2-q61) | :brazil: |
 | [Flutter Básico Online Grátis](https://www.primecursos.com.br/flutter-basico/) | :brazil: |
+| [Dart Beginners Course (Andrea Bizzotto](https://www.youtube.com/playlist?list=PLNnAcB93JKV9YAl4QDygDEMfplrt5uUUx) | :us: |
+| [Coding with Flutter (Andrea Bizzotto](https://www.youtube.com/playlist?list=PLNnAcB93JKV9iZ2cwk9MEx3_JG8BRikMP) | :us: |
+| [Flutter in Practice](https://www.youtube.com/playlist?list=PLhXZp00uXBk5TSY6YOdmpzp1yG3QbFvrN)
 
 #### Ionic
 | Link | Idioma |
@@ -312,4 +317,4 @@
 Este projeto está licenciado. Abra o arquivo [LICENSE](LICENSE) para mais detalhes.<br>
 
 
-<br>[⬆ Voltar ao índice](#índice)<br>
+<br>[⬆ Voltar ao índice](#-índice)<br>
