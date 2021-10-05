@@ -278,6 +278,7 @@
 | Link | Idioma |
 | ----- | :-----: |
 | [AWS na Prática](https://academy.estabil.is/courses/aws-na-pratica) | :brazil: |
+| [AWS Cloud Practitioner Essentials](https://www.aws.training/Details/eLearning?id=62551) | :us: |
 
 #### DevOps
 | Link | Idioma |
