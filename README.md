@@ -57,52 +57,53 @@
 #### React Native
 | Link | Idioma |
 | ----- | :-----: |
-| [React Native - By Geek Dev](https://youtube.com/playlist?list=PL8fIRnD1uUSnRqz3E2caAWDqbtIFXmNtW) | :brazil: |
+| [React Native - By Geek Dev (YouTube)](https://youtube.com/playlist?list=PL8fIRnD1uUSnRqz3E2caAWDqbtIFXmNtW) | :brazil: |
 
 ## 💻 Frontend Courses
 
 #### General
 | Link | Idioma |
 | ----- | :-----: |
-| [Criando sites estáticos com Jekyll](https://www.udemy.com/criando-sites-estaticos-com-jekyll/) | :brazil: |
-| [CSS Animation](https://www.youtube.com/playlist?list=PL4cUxeGkcC9iGYgmEd2dm3zAKzyCGDtM5) | :us: |
-| [CSS Animations Series](https://www.youtube.com/playlist?list=PLqGj3iMvMa4LvJ8VctoXnPI0dtE40wfid) | :us: |
-| [CSS Flexbox](https://www.origamid.com/cursos/css-flexbox/) | :brazil: |
-| [CSS Grid](https://cssgrid.io/) | :us: |
-| [CSS Grid Layout](https://www.youtube.com/watch?v=hKXOVD2Yrj8) | :brazil: |
-| [CSS Grid Layout-L](https://www.youtube.com/watch?v=x7tLPhnA06w&list=PL4cUxeGkcC9itC4TxYMzFCfveyutyPOCY) | :us: |
-| [Super dicas sobre Grid Layout](https://www.youtube.com/watch?v=FEnRpy9Xfes&list=PLbSquHt1VCf1x_-1ytlVMT0AMwADlWtc1) | :us: |
-| [Aplicando mobile-first usando Grid Layout](https://www.youtube.com/watch?v=PM3XW_1RAIs&list=PL4cUxeGkcC9hH1tAjyUPZPjbj-7s200a4) | :us: |
-| [CSS para Iniciantes](https://www.nodestudio.com.br/curso/curso-de-css3) | :brazil: |
-| [Curso sobre media queries](https://www.youtube.com/watch?v=3tLb3i7GB38&list=PL4cUxeGkcC9g9Vh9MAA-XKnfJsWZnPZFw) | :us: |
-| [Curso pare de chutar o CSS - CollabCode](https://www.youtube.com/watch?v=5PS6ku8NzIE&list=PLirko8T4cEmx5eBb1-9j6T6Gl4aBtZ_5x) | :brazil: |
-| [Curso Redes de Computadores](https://www.youtube.com/playlist?list=PLHz_AreHm4dkd4lr9G0Up-W-YaHYdTDuP) | :brazil: |
-| [Criando Sites Profissionais](https://www.nodestudio.com.br/curso/curso-carreira-web-sites-profissionais) | :brazil: |
-| [Desenvolvedor Web Front-End (Bootcamp)](https://digitalinnovation.one/bootcamps/desenvolvedor-web-front-end) | :brazil: |
-| [Desenvolvimento de front-end](https://cursos.timtec.com.br/course/desenvolvimento-de-front-end/intro) | :brazil: |
-| [Design de interfaces com CSS3](https://cursos.timtec.com.br/course/css3/intro) | :brazil: |
-| [Design Responsivo](https://www.nodestudio.com.br/curso/curso-de-design-responsivo) | :brazil: |
-| [Gulp - Guia Definitivo - Mão na Massa](https://www.youtube.com/playlist?list=PLtluGZbI5EShPPQh7TxfxMaFwDsktHi4V) | :brazil: |
-| [HTML Básico](https://www.schoolofnet.com/curso/frontend/html/html-basico-v2/) | :brazil: |
-| [HTML e CSS para iniciantes](https://ead.education/course/curso-de-html-e-css-para-iniciantes/) | :brazil: |
-| [HTML5 para iniciantes](https://www.nodestudio.com.br/curso/curso-de-html5) | :brazil: |
-| [HTML5 & CSS3 na Prática](https://www.nodestudio.com.br/curso/curso-html5-e-css3-na-pratica) | :brazil: |
-| [HTML5 e CSS3 atualizado 2020](https://www.youtube.com/watch?v=9nBa_5p6stc&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n) | :brazil: |
-| [Html5 e CSS3 para iniciantes, RBtech](https://www.youtube.com/watch?v=iZ1ucWosOww&t=57s) | :brazil: |
-| [Introdução ao Quasar Framework](https://codecasts.com.br/series/introducao-quasar) | :brazil: |
+| [Aplicando mobile-first usando Grid Layout - The Net Ninja (YouTube)](https://www.youtube.com/playlist?list=PL4cUxeGkcC9hH1tAjyUPZPjbj-7s200a4) | :us: |
+| [CSS Animation Tutorial - The Net Ninja (YouTube)](https://www.youtube.com/playlist?list=PL4cUxeGkcC9iGYgmEd2dm3zAKzyCGDtM5) | :us: |
+| [CSS Animations Series - DevTips (YouTube)](https://www.youtube.com/playlist?list=PLqGj3iMvMa4LvJ8VctoXnPI0dtE40wfid) | :us: |
+| [CSS Flexbox (Origamid)](https://www.origamid.com/cursos/css-flexbox/) | :brazil: |
+| [CSS Grid - Wes Bos](https://cssgrid.io/) | :us: |
+| [CSS Grid Desvendando na Prática - RocketSeat (YouTube)](https://www.youtube.com/watch?v=HN1UjzRSdBk) | :brazil: |
+| [CSS Grid Layout - Origamid (YouTube)](https://www.youtube.com/watch?v=hKXOVD2Yrj8) | :brazil: |
+| [CSS Grid Tutorial - The Net Ninja (YouTube)](https://www.youtube.com/playlist?list=PL4cUxeGkcC9itC4TxYMzFCfveyutyPOCY) | :us: |
+| [Curso de Flexbox - Node Studio](https://www.nodestudio.com.br/curso/curso-de-flexbox) | :brazil: |
+| [CSS para Iniciantes - Node Studio](https://www.nodestudio.com.br/curso/curso-de-css3) | :brazil: |
+| [Curso sobre media queries/Design responsivo - The Net Ninja (YouTube)](https://www.youtube.com/playlist?list=PL4cUxeGkcC9g9Vh9MAA-XKnfJsWZnPZFw) | :us: |
+| [Curso pare de chutar o CSS - CollabCode (YouTube)](https://www.youtube.com/playlist?list=PLirko8T4cEmx5eBb1-9j6T6Gl4aBtZ_5x) | :brazil: |
+| [Curso Redes de Computadores - Curso em Vídeo (YouTube)](https://www.youtube.com/playlist?list=PLHz_AreHm4dkd4lr9G0Up-W-YaHYdTDuP) | :brazil: |
+| [Criando Sites Profissionais - Node Studio](https://www.nodestudio.com.br/curso/curso-carreira-web-sites-profissionais) | :brazil: |
+| [Desenvolvedor Web Front-End (Bootcamp DIO)](https://digitalinnovation.one/bootcamps/desenvolvedor-web-front-end) | :brazil: |
+| [Desenvolvimento de front-end - TimTec](https://cursos.timtec.com.br/course/desenvolvimento-de-front-end/intro) | :brazil: |
+| [Design de interfaces com CSS3 - TimTec](https://cursos.timtec.com.br/course/css3/intro) | :brazil: |
+| [Design Responsivo - Node Studio](https://www.nodestudio.com.br/curso/curso-de-design-responsivo) | :brazil: |
+| [Gulp - Guia Definitivo - Mão na Massa (YouTube)](https://www.youtube.com/playlist?list=PLtluGZbI5EShPPQh7TxfxMaFwDsktHi4V) | :brazil: |
+| [HTML Básico - School of Net](https://www.schoolofnet.com/curso/frontend/html/html-basico-v2/) | :brazil: |
+| [HTML e CSS para iniciantes - EAD Education](https://ead.education/course/curso-de-html-e-css-para-iniciantes/) | :brazil: |
+| [HTML5 para iniciantes - Node Studio](https://www.nodestudio.com.br/curso/curso-de-html5) | :brazil: |
+| [HTML5 & CSS3 na Prática - Node Studio](https://www.nodestudio.com.br/curso/curso-html5-e-css3-na-pratica) | :brazil: |
+| [HTML5 e CSS3 atualizado 2020 - Gustavo Guanabara (YouTube)](https://www.youtube.com/playlist?list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n) | :brazil: |
+| [HTML5 e CSS3 para iniciantes - RBtech (YouTube)](https://www.youtube.com/watch?v=iZ1ucWosOww&t=57s) | :brazil: |
+| [Introdução ao Quasar Framework - CodeCasts (YouTube)](https://www.youtube.com/watch?v=c2hsu4vg9vk&list=PLy5T05I_eQYM4euBQgEL05uhz6NnAjHoX) | :brazil: |
 | [Mini Curso gratuito de TypeScript](https://willianjusten.com.br/mini-curso-gratuito-de-typescript/) | :brazil: |
-| [Materialize CSS para iniciantes](https://www.nodestudio.com.br/curso/curso-de-materialize-css) | :brazil: |
-| [Responsive Images](https://www.udacity.com/course/responsive-images--ud882) | :us: |
-| [Responsive Web Design Fundamentals](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893) | :us: |
-| [Sass Curso](https://www.youtube.com/playlist?list=PL97KElaimHeGRtfkksKwxg6IGVZi_cR7J) | :brazil: |
-| [Styled Components Crash Course](https://www.youtube.com/watch?v=c5-Vex3ufFU&t=1s) | :us: |
-| [TypeScritpt - Zero to Hero](https://github.com/glaucia86/curso-typescript-zero-to-hero) | :brazil: |
-| [UX e UI Design](https://cursos.timtec.com.br/course/ux-e-ui-design/intro) | :brazil: |
-| [Web tooling automation](https://www.udacity.com/course/web-tooling-automation--ud892) | :us: |
-| [Website Performance Optimization](https://www.udacity.com/course/website-performance-optimization--ud884) | :us: |
-| [WorkshopDev](https://www.youtube.com/watch?v=cprMYC8PCVY&list=PL85ITvJ7FLohGTWaE_p0J6B-TLmQbN4ka) | :brazil: |
-| [Novo curso de HTML e CSS](https://www.youtube.com/watch?v=Ejkb_YpuHWs&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n) | :brazil: |
-| [Curso de Flexbox](https://www.nodestudio.com.br/curso/curso-de-flexbox) | :brazil: |
+| [Materialize CSS para iniciantes - Node Studio](https://www.nodestudio.com.br/curso/curso-de-materialize-css) | :brazil: |
+| [Novo curso de HTML e CSS - Curso em Vídeo (YouTube)](https://www.youtube.com/watch?v=Ejkb_YpuHWs&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n) | :brazil: |
+| [Responsive Images (Udacity)](https://www.udacity.com/course/responsive-images--ud882) | :us: |
+| [Responsive Web Design Fundamentals (Udacity)](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893) | :us: |
+| [Sass Curso - Amanda Vilela (YouTube)](https://www.youtube.com/playlist?list=PL97KElaimHeGRtfkksKwxg6IGVZi_cR7J) | :brazil: |
+| [Styled Components Crash Course (YouTube)](https://www.youtube.com/watch?v=c5-Vex3ufFU&t=1s) | :us: |
+| [Super dicas sobre Grid Layout - Layout Land (YouTube)](https://www.youtube.com/watch?v=FEnRpy9Xfes&list=PLbSquHt1VCf1x_-1ytlVMT0AMwADlWtc1) | :us: |
+| [TypeScritpt - Zero to Hero - Glaucia Lemos (Github)](https://github.com/glaucia86/curso-typescript-zero-to-hero) | :brazil: |
+| [UX e UI Design - TimTec](https://cursos.timtec.com.br/course/ux-e-ui-design/intro) | :brazil: |
+| [Web tooling automation - (Udacity)](https://www.udacity.com/course/web-tooling-automation--ud892) | :us: |
+| [Website Performance Optimization - (Udacity)](https://www.udacity.com/course/website-performance-optimization--ud884) | :us: |
+| [What the Flexbox? - Wes Bos](https://flexbox.io/) | :us: |
+| [WorkshopDev - RocketSeat (YouTube)](https://www.youtube.com/watch?v=cprMYC8PCVY&list=PL85ITvJ7FLohGTWaE_p0J6B-TLmQbN4ka) | :brazil: |
 
 #### JavaScript
 | Link | Idioma |
