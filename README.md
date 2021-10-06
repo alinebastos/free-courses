@@ -29,13 +29,11 @@
 ## 💻 Lógica de programação
 | Link | Idioma |
 | ----- | :-----: |
-| [Curso completo de lógica de programação - Buildlab](https://buildlab.com.br/aprenda-a-programar/) | :brazil: |
-| [Curso de Lógica de Programação - Gustavo Guanabara](https://www.youtube.com/watch?v=8mei6uVttho&list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV) | :brazil: |
-| [Introdução a Algoritmos - Gustavo Guanabara](https://www.youtube.com/watch?v=8mei6uVttho&list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV) | :brazil: |
-| [Fundamentos de Lógica de Programação](https://www.ev.org.br/cursos/fundamentos-de-logica-de-programacao) | :brazil: |
-| [Lógica de Programação (Algoritmos) - Pietro Martins](https://www.youtube.com/playlist?list=PLpaKFn4Q4GMNlLZQcOjt_-xxz6BTmugdU) | :brazil: |
-| [Lógica de programação e algoritmos - Programador Br](https://www.youtube.com/watch?v=HXddFUe6VPU&list=PLVzrOYTg7zYDNdLJbnmhPtPcDaNWoxYVT) | :brazil: |
-| [Lógica de programação em Ruby - Campus Code](https://www.youtube.com/watch?v=I6OsXvUiOC4&list=PLajdzeQ7QG3iXblkBah6Ffoaa7Idxn4cT) | :brazil: |
+| [Curso de Lógica de Programação - Gustavo Guanabara (YouTube)](https://www.youtube.com/playlist?list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV) | :brazil: |
+| [Fundamentos de Lógica de Programação - Fundação Bradesco](https://www.ev.org.br/cursos/fundamentos-de-logica-de-programacao) | :brazil: |
+| [Lógica de Programação (Algoritmos) - Pietro Martins (YouTube)](https://www.youtube.com/playlist?list=PLpaKFn4Q4GMNlLZQcOjt_-xxz6BTmugdU) | :brazil: |
+| [Lógica de programação e algoritmos - Programador Br (YouTube)](https://www.youtube.com/watch?v=HXddFUe6VPU&list=PLVzrOYTg7zYDNdLJbnmhPtPcDaNWoxYVT) | :brazil: |
+| [Lógica de programação em Ruby - Campus Code (YouTube)](https://www.youtube.com/watch?v=I6OsXvUiOC4&list=PLajdzeQ7QG3iXblkBah6Ffoaa7Idxn4cT) | :brazil: |
 
 ## 💻 Agile
 | Link | Idioma |
