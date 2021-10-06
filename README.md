@@ -57,7 +57,6 @@
 #### React Native
 | Link | Idioma |
 | ----- | :-----: |
-| [React Native - By Rocketseat](https://app.rocketseat.com.br/node/curso-react-native) | :brazil: |
 | [React Native - By Geek Dev](https://youtube.com/playlist?list=PL8fIRnD1uUSnRqz3E2caAWDqbtIFXmNtW) | :brazil: |
 
 ## 💻 Frontend Courses
