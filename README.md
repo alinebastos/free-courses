@@ -108,21 +108,20 @@
 #### JavaScript
 | Link | Idioma |
 | ----- | :-----: |
-| [Aprenda a testar aplicações Javascript](https://classes.vedovelli.com.br/?class=testar-aplicacoes-javascript-criacao-projeto-instalacao-jest) | :brazil: |
-| [Curso de Javascript](https://www.nodestudio.com.br/curso/curso-de-javascript) | :brazil: |
-| [Desvendando a linguagem JavaScript](https://www.youtube.com/playlist?list=PLQCmSnNFVYnT1-oeDOSBnt164802rkegc) | :brazil: |
-| [Iniciando com JavaScript](https://www.schoolofnet.com/curso/frontend/javascript/iniciando-com-javascript-rev3/) | :brazil: |
-| [Introdução a JavaScript: Desenho & Animação](https://pt.khanacademy.org/computing/computer-programming/programming) | :brazil: |
-| [JavaScript: Algoritmos + Estrutura de dados - Kura Web](https://www.youtube.com/playlist?list=PLpfKv2Mn_c-HTFozSx8iplzzBlQJnPs2j) | :brazil: |
-| [JavaScript Avançado: Jogos & Visualizações](https://pt.khanacademy.org/computing/computer-programming/programming-games-visualizations) | :brazil: |
-| [JavaScript Básico](https://www.codecademy.com/pt-BR/tracks/javascript) | :brazil: |
-| [JavaScript - By Rocketseat](https://app.rocketseat.com.br/node/curso-java-script) | :brazil: |
-| [JavaScript Funcional](https://www.youtube.com/playlist?list=PL77JVjKTJT2iAlBJX3buyljqzfoR9nV_R) | :brazil: |
-| [JS avançado: Simulações Naturais](https://pt.khanacademy.org/computing/computer-programming/programming-natural-simulations) | :brazil: |
-| [JavaScript e ECMAScript para Iniciantes - Gustavo Guanabara](https://www.youtube.com/playlist?list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1) | :brazil: |
-| [Curso de JavaScript 2020 - Fundamentos - Programador a Bordo](https://www.youtube.com/playlist?list=PLbA-jMwv0cuWbas947cygrzfzHIc7esmp) | :brazil: |
+| [Aprenda a testar aplicações Javascript - Vedovelli](https://classes.vedovelli.com.br/?class=testar-aplicacoes-javascript-criacao-projeto-instalacao-jest) | :brazil: |
+| [Curso de Javascript - Node Studio](https://www.nodestudio.com.br/curso/curso-de-javascript) | :brazil: |
+| [Desvendando a linguagem JavaScript - Rodrigo Branas (YouTube)](https://www.youtube.com/playlist?list=PLQCmSnNFVYnT1-oeDOSBnt164802rkegc) | :brazil: |
+| [Iniciando com JavaScript - School of Net](https://www.schoolofnet.com/curso/frontend/javascript/iniciando-com-javascript-rev3/) | :brazil: |
+| [Introdução a JavaScript: Desenho & Animação - Khan Academy](https://pt.khanacademy.org/computing/computer-programming/programming) | :brazil: |
+| [JavaScript: Algoritmos + Estrutura de dados - Kura Web (YouTube)](https://www.youtube.com/playlist?list=PLpfKv2Mn_c-HTFozSx8iplzzBlQJnPs2j) | :brazil: |
+| [JavaScript Avançado: Jogos & Visualizações - Khan Academy](https://pt.khanacademy.org/computing/computer-programming/programming-games-visualizations) | :brazil: |
+| [JavaScript Básico - Code Cademy](https://www.codecademy.com/pt-BR/tracks/javascript) | :brazil: |
+| [JavaScript Funcional (YouTube)](https://www.youtube.com/playlist?list=PL77JVjKTJT2iAlBJX3buyljqzfoR9nV_R) | :brazil: |
+| [JS avançado: Simulações Naturais - Khan Academy](https://pt.khanacademy.org/computing/computer-programming/programming-natural-simulations) | :brazil: |
+| [JavaScript e ECMAScript para Iniciantes - Gustavo Guanabara (YouTube)](https://www.youtube.com/playlist?list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1) | :brazil: |
+| [Curso de JavaScript 2020 - Fundamentos - Programador a Bordo (YouTube)](https://www.youtube.com/playlist?list=PLbA-jMwv0cuWbas947cygrzfzHIc7esmp) | :brazil: |
 | [General Javascript Course](https://amigoscode.com/p/javascript)| :uk: |
-| [Fundamentos de JavaScript Funcional](https://www.cod3r.com.br/courses/javascript-funcional-fundamentos) | :brazil: |
+| [Fundamentos de JavaScript Funcional - Cod3r](https://www.cod3r.com.br/courses/javascript-funcional-fundamentos) | :brazil: |
 
 #### Angular
 | Link | Idioma |
