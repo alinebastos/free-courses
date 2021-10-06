@@ -18,7 +18,6 @@
 
 | Link | Idioma |
 | ----- | :-----: |
-| [Controle de versão de softwares utilizando o Github (Udemy)](https://www.udemy.com/course/controle-de-versao-de-softwares-utilizando-o-github/) | :brazil: |
 | [Git e Github para iniciantes (Udemy)](https://www.udemy.com/git-e-github-para-iniciantes/) | :brazil: |
 | [Git e Github (School of Net)](https://www.schoolofnet.com/curso/git/controle-de-versao/git-e-github/) | :brazil: |
 | [Git e Github (Curso em Vídeo/YouTube)](https://www.youtube.com/watch?v=xEKo29OWILE&list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA/) | :brazil: |
@@ -45,15 +44,15 @@
 #### Flutter
 | Link | Idioma |
 | ----- | :-----: |
-| [Curso Completo de Flutter - Flutterando](https://www.youtube.com/playlist?list=PLlBnICoI-g-d-J57QIz6Tx5xtUDGQdBFB) | :brazil: |
+| [Curso Completo de Flutter - Flutterando (YouTube)](https://www.youtube.com/playlist?list=PLlBnICoI-g-d-J57QIz6Tx5xtUDGQdBFB) | :brazil: |
 | [Flutter - 45 Cursos Grátis na UDEMY](https://www.udemy.com/courses/search/?price=price-free&q=flutter&sort=relevance&src=sac) | :brazil: | | :us: |
-| [Flutter - André Baltieri](https://www.youtube.com/playlist?list=PLHlHvK2lnJndc8qCqmQdHr-cLoOb2-q61) | :brazil: |
-| [Flutter Básico Online Grátis](https://www.primecursos.com.br/flutter-basico/) | :brazil: |
+| [Flutter - André Baltieri (YouTube)](https://www.youtube.com/playlist?list=PLHlHvK2lnJndc8qCqmQdHr-cLoOb2-q61) | :brazil: |
+| [Flutter Básico Online Grátis - Prime Cursos](https://www.primecursos.com.br/flutter-basico/) | :brazil: |
 
 #### Ionic
 | Link | Idioma |
 | ----- | :-----: |
-| [Ionic 3 para iniciantes](https://www.udemy.com/course/ionic-3-para-iniciantes/) | :brazil: |
+| [Ionic 3 para iniciantes (Udemy)](https://www.udemy.com/course/ionic-3-para-iniciantes/) | :brazil: |
 
 #### React Native
 | Link | Idioma |
