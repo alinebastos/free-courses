@@ -18,13 +18,13 @@
 
 | Link | Idioma |
 | ----- | :-----: |
-| [Controle de versão de softwares utilizando o Github](https://www.udemy.com/share/101AaMBEMeeVlbQHg=/) | | :brazil: | |
-| [Git e Github para iniciantes](https://www.udemy.com/git-e-github-para-iniciantes/) | :brazil: |
-| [Git e Github](https://www.schoolofnet.com/curso/git/controle-de-versao/git-e-github/) | :brazil: |
-| [Git e Github](https://www.youtube.com/watch?v=xEKo29OWILE&list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA/) | :brazil: |
-| [Introduction to Git and GitHub](https://web.digitalinnovation.one/course/introducao-ao-git-e-ao-github/learning/75b9fe49-6ed4-4480-83a7-7e37fc356aa9/) | :brazil: |
-| [Git e Github para iniciantes (Loiane)](https://www.youtube.com/watch?v=UMhskLXJuq4/) | :brazil: |
-| [Git-Game - Terminal game designed to test your knowledge of git commands](https://github.com/git-game/git-game) | :us: |
+| [Controle de versão de softwares utilizando o Github (Udemy)](https://www.udemy.com/course/controle-de-versao-de-softwares-utilizando-o-github/) | :brazil: |
+| [Git e Github para iniciantes (Udemy)](https://www.udemy.com/git-e-github-para-iniciantes/) | :brazil: |
+| [Git e Github (School of Net)](https://www.schoolofnet.com/curso/git/controle-de-versao/git-e-github/) | :brazil: |
+| [Git e Github (Curso em Vídeo/YouTube)](https://www.youtube.com/watch?v=xEKo29OWILE&list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA/) | :brazil: |
+| [Introdução ao Git e GitHub (DIO)](https://web.digitalinnovation.one/course/introducao-ao-git-e-ao-github/learning/75b9fe49-6ed4-4480-83a7-7e37fc356aa9/) | :brazil: |
+| [Git e Github para iniciantes (Loiane/YouTube)](https://www.youtube.com/watch?v=UMhskLXJuq4/) | :brazil: |
+| [Git-Game - Terminal game designed to test your knowledge of git commands (Github)](https://github.com/git-game/git-game) | :us: |
 
 ## 💻 Lógica de programação
 | Link | Idioma |
