@@ -104,6 +104,7 @@
 | [Website Performance Optimization - (Udacity)](https://www.udacity.com/course/website-performance-optimization--ud884) | :us: |
 | [What the Flexbox? - Wes Bos](https://flexbox.io/) | :us: |
 | [WorkshopDev - RocketSeat (YouTube)](https://www.youtube.com/watch?v=cprMYC8PCVY&list=PL85ITvJ7FLohGTWaE_p0J6B-TLmQbN4ka) | :brazil: |
+| [Introduction to Web Accessibility](https://www.edx.org/course/web-accessibility-introduction) | :us: |
 
 #### JavaScript
 | Link | Idioma |
@@ -294,6 +295,11 @@
 | [Descomplicando o Docker](https://www.youtube.com/watch?v=0xxHiOSJVe8&list=PLf-O3X2-mxDkiUH0r_BadgtELJ_qyrFJ_) | :brazil: |
 | [Docker Essentials](https://www.udemy.com/course/docker-essentials/) | :us: |
 
+#### Kubernetes
+| Link | Idioma |
+| ----- | :-----: |
+| [Introduction to Kubernetes](https://www.edx.org/course/introduction-to-kubernetes) | :us: |
+
 ## 💻 FullStack courses
 
 #### Diversos cursos em renomadas instituições
@@ -308,7 +314,7 @@
 | ----- | :-----: |
 | [The Odin Project](https://www.theodinproject.com/) | :us: |
 | [Via rapida - Trilhas sp tech](http://www.viarapida.sp.gov.br/trilhas-sp-tech/desenvolvedor-web-full-stack) | :brazil: |
-
+| [FreeCodeCamp](https://www.freecodecamp.org/learn/)| :us: |
 
 ## ⚖ Licença
 
