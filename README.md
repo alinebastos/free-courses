@@ -3,15 +3,15 @@
 > More than just a bunch of links, this is a selection of what we judge to be some of the best learning opportunities you will find online for free.
 
 ## 📕 Índice
-📌 [Git and Github Courses](#git-and-github-courses)<br>
-📌 [Lógica de programação](#lógica-de-programação)<br>
-📌 [Agile](#agile)<br>
-📌 [Mobile Courses](#mobile-courses)<br>
-📌 [Frontend Courses](#frontend-courses)<br>
-📌 [Backend Courses](#backend-courses)<br>
-📌 [Data Science](#data-science)<br>
-📌 [Infrastructure Courses](#infrastructure-courses)<br>
-📌 [FullStack courses](#fullstack-courses)<br>
+📌 [Git and Github Courses](-#git-and-github-courses)<br>
+📌 [Lógica de programação](#-lógica-de-programação)<br>
+📌 [Agile](#-agile)<br>
+📌 [Mobile Courses](#-mobile-courses)<br>
+📌 [Frontend Courses](#-frontend-courses)<br>
+📌 [Backend Courses](#-backend-courses)<br>
+📌 [Data Science](#-data-science)<br>
+📌 [Infrastructure Courses](#-infrastructure-courses)<br>
+📌 [FullStack courses](#-fullstack-courses)<br>
 
 
 ## 💻 Git and Github Courses
@@ -134,7 +134,7 @@
 | ----- | :-----: |
 | [AngularJS - Rodrigo Branas](https://www.youtube.com/watch?v=_y7rKxqPoyg&list=PLQCmSnNFVYnTD5p2fR4EXmtlR6jQJMbPb) | :brazil: |
 | [Angular + ASP.NET Core API + EF Core](https://www.youtube.com/playlist?list=PLWNaqtzH6CWSbIYlgMDQZNrwDG3gHw7wa) | :brazil: |
-| [Angular 2](https://loiane.training/course/angular-2/) | :brazil: |
+| [Angular 2](https://loiane.training/curso/angular) | :brazil: |
 | [Angular 7 Componentes](https://www.schoolofnet.com/curso/frontend/angular-7/angular-6-componentes/) | :brazil: |
 | [Angular 9 ](https://www.cod3r.com.br/courses/angular-9-essencial) | :brazil: |
 
@@ -170,7 +170,7 @@
 | [Curso de Java e Orientação a Objetos](https://loiane.training/course/java-basico/) | :brazil: |
 | [Curso de Java para Iniciantes](https://www.youtube.com/playlist?list=PLHz_AreHm4dkI2ZdjTwZA4mPMxWTfNSpR) | :brazil: |
 | [Curso de POO Java](https://www.youtube.com/playlist?list=PLHz_AreHm4dkqe2aR0tQK74m8SFe-aGsY) | :brazil: |
-| [Estrutura de Dados e Algoritmos com Java](https://loiane.training/course/estrutura-de-dados-e-algoritmos-com-java/) | :brazil: |
+| [Estrutura de Dados e Algoritmos com Java](https://loiane.training/curso/estrutura-de-dados) | :brazil: |
 | [Java Developer (Bootcamp)](https://digitalinnovation.one/bootcamps/java-developer?ref=novotec) | :brazil: |
 | [TDD – Desenvolvimento de software guiado por testes](https://pt.coursera.org/learn/tdd-desenvolvimento-de-software-guiado-por-testes) | :brazil: |
 
@@ -245,13 +245,13 @@
 ### Data Analysis
 | Link | Idioma |
 | ----- | :-----: |
-| [Python Fundamentos para Análise de Dados](http://datascienceacademy.com.br/course?courseid=python-fundamentos) | :brazil: |
+| [Python Fundamentos para Análise de Dados](https://www.datascienceacademy.com.br/course/python-fundamentos) | :brazil: |
 
 #### Deep Learning
 | Link | Idioma |
 | ----- | :-----: |
 | [Pytorch - Aprendizado profundo com Python](https://www.youtube.com/playlist?list=PLQVvvaa0QuDdeMyHEYc0gxFpYwHY2Qfdh) | :us: |
-| [Keras - API de aprendizado profundo de redes neurais](https://www.youtube.com/playlist?list=PLQVvvaa0QuDdeMyHEYc0gxFpYwHY2Qfdh) | :us: |
+| [Keras - API de aprendizado profundo de redes neurais](https://www.youtube.com/playlist?list=PLZbbT5o_s2xrwRnXk_yCPtnqqo4_u2YGL) | :us: |
 | [Aprendizado profundo com o Tensorflow](https://www.youtube.com/playlist?list=PL-XeOa5hMEYxNzHM7YLRjIwE1k3VQpqEh) | :us: |
 
 #### Big Data
@@ -315,4 +315,4 @@
 Este projeto está licenciado. Abra o arquivo [LICENSE](LICENSE) para mais detalhes.<br>
 
 
-<br>[⬆ Voltar ao índice](#índice)<br>
+<br>[⬆ Voltar ao índice](#-índice)<br>
