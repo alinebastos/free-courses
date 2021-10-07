@@ -18,6 +18,7 @@
 
 | Link | Idioma |
 | ----- | :-----: |
+| [Dominando o Git](https://www.youtube.com/playlist?list=PL9aKtVrF05DzbNiE7jcm7s6z6Lg-u72Rq) | 🇧🇷 |
 | [Git e Github para iniciantes (Udemy)](https://www.udemy.com/git-e-github-para-iniciantes/) | :brazil: |
 | [Git e Github (School of Net)](https://www.schoolofnet.com/curso/git/controle-de-versao/git-e-github/) | :brazil: |
 | [Git e Github (Curso em Vídeo/YouTube)](https://www.youtube.com/watch?v=xEKo29OWILE&list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA/) | :brazil: |
@@ -47,6 +48,7 @@
 | [Curso Completo de Flutter - Flutterando (YouTube)](https://www.youtube.com/playlist?list=PLlBnICoI-g-d-J57QIz6Tx5xtUDGQdBFB) | :brazil: |
 | [Flutter - 45 Cursos Grátis na UDEMY](https://www.udemy.com/courses/search/?price=price-free&q=flutter&sort=relevance&src=sac) | :brazil: | | :us: |
 | [Flutter - André Baltieri (YouTube)](https://www.youtube.com/playlist?list=PLHlHvK2lnJndc8qCqmQdHr-cLoOb2-q61) | :brazil: |
+| [Flutter](https://www.youtube.com/playlist?list=PL9aKtVrF05DxO56tetlFMmNGc7fuiCxdy) | 🇧🇷 |
 | [Flutter Básico Online Grátis - Prime Cursos](https://www.primecursos.com.br/flutter-basico/) | :brazil: |
 
 #### Ionic
