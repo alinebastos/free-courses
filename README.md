@@ -18,7 +18,7 @@
 
 | Link | Idioma |
 | ----- | :-----: |
-| [Dominando o Git](https://www.youtube.com/playlist?list=PL9aKtVrF05DzbNiE7jcm7s6z6Lg-u72Rq) | 🇧🇷 |
+| [Dominando o Git](https://www.youtube.com/playlist?list=PL9aKtVrF05DzbNiE7jcm7s6z6Lg-u72Rq) | :brazil: |
 | [Git e Github para iniciantes (Udemy)](https://www.udemy.com/git-e-github-para-iniciantes/) | :brazil: |
 | [Git e Github (School of Net)](https://www.schoolofnet.com/curso/git/controle-de-versao/git-e-github/) | :brazil: |
 | [Git e Github (Curso em Vídeo/YouTube)](https://www.youtube.com/watch?v=xEKo29OWILE&list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA/) | :brazil: |
@@ -48,7 +48,7 @@
 | [Curso Completo de Flutter - Flutterando (YouTube)](https://www.youtube.com/playlist?list=PLlBnICoI-g-d-J57QIz6Tx5xtUDGQdBFB) | :brazil: |
 | [Flutter - 45 Cursos Grátis na UDEMY](https://www.udemy.com/courses/search/?price=price-free&q=flutter&sort=relevance&src=sac) | :brazil: | | :us: |
 | [Flutter - André Baltieri (YouTube)](https://www.youtube.com/playlist?list=PLHlHvK2lnJndc8qCqmQdHr-cLoOb2-q61) | :brazil: |
-| [Flutter](https://www.youtube.com/playlist?list=PL9aKtVrF05DxO56tetlFMmNGc7fuiCxdy) | 🇧🇷 |
+| [Flutter](https://www.youtube.com/playlist?list=PL9aKtVrF05DxO56tetlFMmNGc7fuiCxdy) | :brazil: |
 | [Flutter Básico Online Grátis - Prime Cursos](https://www.primecursos.com.br/flutter-basico/) | :brazil: |
 
 #### Ionic
@@ -211,7 +211,7 @@
 #### Node
 | Link | Idioma |
 | ----- | :-----: |
-| [API dos Correios com NodeJS](https://www.schoolofnet.com/canal-direto-ao-ponto/api-dos-correios-com-nodejs/)
+| [API dos Correios com NodeJS](https://www.schoolofnet.com/canal-direto-ao-ponto/api-dos-correios-com-nodejs/) | :brazil: |
 | [Construindo uma API com Typescript, Jest, TDD e muito mais ](https://www.youtube.com/watch?v=W2ld5xRS3cY&list=PLz_YTBuxtxt6_Zf1h-qzNsvVt46H8ziKh) | :brazil: |
 | [Criando APIs com NodeJs - André Baltieri](https://www.youtube.com/playlist?list=PLHlHvK2lnJndvvycjBqQAbgEDqXxKLoqn) | :brazil: |
 | [Curso de Node.JS - Guia do Programador](https://www.youtube.com/watch?v=LLqq6FemMNQ&list=PLJ_KhUnlXUPtbtLwaxxUxHqvcNQndmI4B&ab_channel=VictorLima-GuiadoProgramador) | :brazil: |
