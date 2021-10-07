@@ -22,9 +22,9 @@
 | [Git e Github para iniciantes (Udemy)](https://www.udemy.com/git-e-github-para-iniciantes/) | :brazil: |
 | [Git e Github (School of Net)](https://www.schoolofnet.com/curso/git/controle-de-versao/git-e-github/) | :brazil: |
 | [Git e Github (Curso em Vídeo/YouTube)](https://www.youtube.com/watch?v=xEKo29OWILE&list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA/) | :brazil: |
-| [Introdução ao Git e GitHub (DIO)](https://web.digitalinnovation.one/course/introducao-ao-git-e-ao-github/learning/75b9fe49-6ed4-4480-83a7-7e37fc356aa9/) | :brazil: |
 | [Git e Github para iniciantes (Loiane/YouTube)](https://www.youtube.com/watch?v=UMhskLXJuq4/) | :brazil: |
 | [Git-Game - Terminal game designed to test your knowledge of git commands (Github)](https://github.com/git-game/git-game) | :us: |
+| [Introdução ao Git e GitHub (DIO)](https://web.digitalinnovation.one/course/introducao-ao-git-e-ao-github/learning/75b9fe49-6ed4-4480-83a7-7e37fc356aa9/) | :brazil: |
 
 ## 💻 Lógica de programação
 | Link | Idioma |
@@ -92,7 +92,6 @@
 | [HTML5 e CSS3 atualizado 2020 - Gustavo Guanabara (YouTube)](https://www.youtube.com/playlist?list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n) | :brazil: |
 | [HTML5 e CSS3 para iniciantes - RBtech (YouTube)](https://www.youtube.com/watch?v=iZ1ucWosOww&t=57s) | :brazil: |
 | [Introdução ao Quasar Framework - CodeCasts (YouTube)](https://www.youtube.com/watch?v=c2hsu4vg9vk&list=PLy5T05I_eQYM4euBQgEL05uhz6NnAjHoX) | :brazil: |
-| [Mini Curso gratuito de TypeScript](https://willianjusten.com.br/mini-curso-gratuito-de-typescript/) | :brazil: |
 | [Materialize CSS para iniciantes - Node Studio](https://www.nodestudio.com.br/curso/curso-de-materialize-css) | :brazil: |
 | [Novo curso de HTML e CSS - Curso em Vídeo (YouTube)](https://www.youtube.com/watch?v=Ejkb_YpuHWs&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n) | :brazil: |
 | [Responsive Images (Udacity)](https://www.udacity.com/course/responsive-images--ud882) | :us: |
@@ -100,7 +99,6 @@
 | [Sass Curso - Amanda Vilela (YouTube)](https://www.youtube.com/playlist?list=PL97KElaimHeGRtfkksKwxg6IGVZi_cR7J) | :brazil: |
 | [Styled Components Crash Course (YouTube)](https://www.youtube.com/watch?v=c5-Vex3ufFU&t=1s) | :us: |
 | [Super dicas sobre Grid Layout - Layout Land (YouTube)](https://www.youtube.com/watch?v=FEnRpy9Xfes&list=PLbSquHt1VCf1x_-1ytlVMT0AMwADlWtc1) | :us: |
-| [TypeScritpt - Zero to Hero - Glaucia Lemos (Github)](https://github.com/glaucia86/curso-typescript-zero-to-hero) | :brazil: |
 | [UX e UI Design - TimTec](https://cursos.timtec.com.br/course/ux-e-ui-design/intro) | :brazil: |
 | [Web tooling automation - (Udacity)](https://www.udacity.com/course/web-tooling-automation--ud892) | :us: |
 | [Website Performance Optimization - (Udacity)](https://www.udacity.com/course/website-performance-optimization--ud884) | :us: |
@@ -124,6 +122,12 @@
 | [Curso de JavaScript 2020 - Fundamentos - Programador a Bordo (YouTube)](https://www.youtube.com/playlist?list=PLbA-jMwv0cuWbas947cygrzfzHIc7esmp) | :brazil: |
 | [General Javascript Course](https://amigoscode.com/p/javascript)| :uk: |
 | [Fundamentos de JavaScript Funcional - Cod3r](https://www.cod3r.com.br/courses/javascript-funcional-fundamentos) | :brazil: |
+
+#### TypeScript
+| Link | Idioma |
+| ----- | :-----: |
+| [Mini Curso gratuito de TypeScript](https://willianjusten.com.br/mini-curso-gratuito-de-typescript/) | :brazil: |
+| [TypeScritpt - Zero to Hero - Glaucia Lemos (Github)](https://github.com/glaucia86/curso-typescript-zero-to-hero) | :brazil: |
 
 #### Angular
 | Link | Idioma |
