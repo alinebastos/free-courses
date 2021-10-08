@@ -195,6 +195,7 @@
 | [Curso de Python - eXcript](https://www.youtube.com/playlist?list=PLesCEcYj003QxPQ4vTXkt22-E11aQvoVj) | :brazil: |
 | [Desenvolvedor Python (Bootcamp)](https://digitalinnovation.one/bootcamps/desenvolvedor-python) | :brazil: |
 | [Introdução à Python por Projetos](https://www.youtube.com/watch?v=gDDGq7Q_YFE&list=PL5TJqBvpXQv6AEfVymby32MinHdxZA-8J) | :brazil: |
+| [Linguagem de Programação Python - Básico](https://www.ev.org.br/cursos/linguagem-de-programacao-python-basico) :brazil:
 | [Python Curso em Vídeo](https://www.youtube.com/watch?v=S9uPNppGsGo&list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0) | :brazil: |
 | [Python for Everybody](https://py4e.com) | :us: |
 | [Python para Zumbis](https://www.pycursos.com/python-para-zumbis/) | :brazil: |
