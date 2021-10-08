@@ -207,8 +207,9 @@
 | ----- | :-----: |
 | [Curso Ruby Puro](https://www.youtube.com/playlist?list=PLdDT8if5attEOcQGPHLNIfnSFiJHhGDOZ) | :brazil: |
 | [Curso de Ruby on Rails para Iniciantes](https://www.youtube.com/playlist?list=PLe3LRfCs4go-mkvHRMSXEOG-HDbzesyaP) | :brazil: |
-| [Curso de Ruby on Rails](https://www.youtube.com/watch?v=2SEKJdKzwNU&list=PLFeyfVYazTkJN6uM5opCfSN_xjxrMybXV) | :brazil: |  [Mini curso de Testes Ruby com RSpec](https://www.youtube.com/playlist?list=PLdDT8if5attGc3fgFsFe5cvV9MwlVFNLW) | :brazil: |
+| [Mini curso de Testes Ruby com RSpec](https://www.youtube.com/playlist?list=PLdDT8if5attGc3fgFsFe5cvV9MwlVFNLW) | :brazil: |
 | [Orientação à objetos em Ruby - Campus Code](https://www.youtube.com/watch?v=rz6WJPDH8bA&list=PLajdzeQ7QG3jS3yEBFkf7GsXvoSj6wuPY) | :brazil: |
+| [Curso de Ruby on Rails](https://www.youtube.com/watch?v=2SEKJdKzwNU&list=PLFeyfVYazTkJN6uM5opCfSN_xjxrMybXV) | :brazil: |  | |
 
 #### Node
 | Link | Idioma |
