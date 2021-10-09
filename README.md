@@ -122,6 +122,7 @@
 | [Curso de JavaScript 2020 - Fundamentos - Programador a Bordo (YouTube)](https://www.youtube.com/playlist?list=PLbA-jMwv0cuWbas947cygrzfzHIc7esmp) | :brazil: |
 | [General Javascript Course](https://amigoscode.com/p/javascript)| :uk: |
 | [Fundamentos de JavaScript Funcional - Cod3r](https://www.cod3r.com.br/courses/javascript-funcional-fundamentos) | :brazil: |
+| [Iniciantes em JavaScript - Glaucia Lemos (GitHub)](https://github.com/glaucia86/js-101-beginners-ms) | :brazil: |
 
 #### TypeScript
 | Link | Idioma |
