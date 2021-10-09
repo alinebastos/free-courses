@@ -81,7 +81,7 @@
 | [CSS Grid Layout - Origamid (YouTube)](https://www.youtube.com/watch?v=hKXOVD2Yrj8)                                                               | :brazil: |
 | [CSS Grid Tutorial - The Net Ninja (YouTube)](https://www.youtube.com/playlist?list=PL4cUxeGkcC9itC4TxYMzFCfveyutyPOCY)                           |   :us:   |
 | [Curso de Flexbox - Node Studio](https://www.nodestudio.com.br/curso/curso-de-flexbox)                                                            | :brazil: |
-| [A game for learning CSS Flexbox ](https://flexboxfroggy.com/)                                                                                    |    🇺🇸    |
+| [A game for learning CSS Flexbox](https://flexboxfroggy.com/)                                                                                     |   :us:   |
 | [CSS para Iniciantes - Node Studio](https://www.nodestudio.com.br/curso/curso-de-css3)                                                            | :brazil: |
 | [Curso sobre media queries/Design responsivo - The Net Ninja (YouTube)](https://www.youtube.com/playlist?list=PL4cUxeGkcC9g9Vh9MAA-XKnfJsWZnPZFw) |   :us:   |
 | [Curso pare de chutar o CSS - CollabCode (YouTube)](https://www.youtube.com/playlist?list=PLirko8T4cEmx5eBb1-9j6T6Gl4aBtZ_5x)                     | :brazil: |
