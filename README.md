@@ -2,7 +2,7 @@
 
 > More than just a bunch of links, this is a selection of what we judge to be some of the best learning opportunities you will find online for free.
 
-## 📕 Índice
+## 📕Índice
 📌 [Git and Github Courses](#git-and-github-courses)<br>
 📌 [Lógica de programação](#lógica-de-programação)<br>
 📌 [Agile](#agile)<br>
@@ -14,7 +14,7 @@
 📌 [FullStack courses](#fullstack-courses)<br>
 
 
-## 💻 Git and Github Courses
+## 💻Git and Github Courses
 
 | Link | Idioma |
 | ----- | :-----: |
@@ -26,7 +26,11 @@
 | [Git-Game - Terminal game designed to test your knowledge of git commands (Github)](https://github.com/git-game/git-game) | :us: |
 | [Introdução ao Git e GitHub (DIO)](https://web.digitalinnovation.one/course/introducao-ao-git-e-ao-github/learning/75b9fe49-6ed4-4480-83a7-7e37fc356aa9/) | :brazil: |
 
-## 💻 Lógica de programação
+<div align="left">
+    <b><a href="#índice">↥ Voltar ao índice</a></b>
+</div>
+
+## 💻Lógica de programação
 | Link | Idioma |
 | ----- | :-----: |
 | [Curso de Lógica de Programação - Gustavo Guanabara (YouTube)](https://www.youtube.com/playlist?list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV) | :brazil: |
@@ -35,12 +39,20 @@
 | [Lógica de programação e algoritmos - Programador Br (YouTube)](https://www.youtube.com/watch?v=HXddFUe6VPU&list=PLVzrOYTg7zYDNdLJbnmhPtPcDaNWoxYVT) | :brazil: |
 | [Lógica de programação em Ruby - Campus Code (YouTube)](https://www.youtube.com/watch?v=I6OsXvUiOC4&list=PLajdzeQ7QG3iXblkBah6Ffoaa7Idxn4cT) | :brazil: |
 
-## 💻 Agile
+<div align="left">
+    <b><a href="#índice">↥ Voltar ao índice</a></b>
+</div>
+
+## 💻Agile
 | Link | Idioma |
 | ----- | :-----: |
 | [Agile Scrum Foundation](https://academy.estabil.is/courses/exin-agile-scrum-foundation) | :brazil: |
 
-## 💻 Mobile Courses
+<div align="left">
+    <b><a href="#índice">↥ Voltar ao índice</a></b>
+</div>
+
+## 💻Mobile Courses
 
 #### Flutter
 | Link | Idioma |
@@ -63,7 +75,11 @@
 | ----- | :-----: |
 | [React Native - By Geek Dev (YouTube)](https://youtube.com/playlist?list=PL8fIRnD1uUSnRqz3E2caAWDqbtIFXmNtW) | :brazil: |
 
-## 💻 Frontend Courses
+<div align="left">
+    <b><a href="#índice">↥ Voltar ao índice</a></b>
+</div>
+
+## 💻Frontend Courses
 
 #### General
 | Link | Idioma |
@@ -160,7 +176,11 @@
 | [Curso de Vue JS](https://www.youtube.com/watch?v=npA_f0ztIt0&list=PLJ_KhUnlXUPteacVhunyK5M8SKIadeED0) | :brazil: |
 | [Vue JS 2 Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gQcYgjhBoeQH7wiAyZNrYa) | :uk: |
 
-## 💻 Backend courses
+<div align="left">
+    <b><a href="#índice">↥ Voltar ao índice</a></b>
+</div>
+
+## 💻Backend courses
 
 ### C# / .NET
 | Link | Idioma |
@@ -249,7 +269,11 @@
 | [Introduction to Haskell](https://www.seas.upenn.edu/~cis194/fall16/) | :us: |
 | [Haskell para iniciantes](https://www.youtube.com/playlist?list=PL8eBmR3QtPL3pDzQpwPYfWQ4NEPGu6j7z) | :brazil: |
 
-## 💻 Data Science
+<div align="left">
+    <b><a href="#índice">↥ Voltar ao índice</a></b>
+</div>
+
+## 💻Data Science
 
 ### Data Analysis
 | Link | Idioma |
@@ -283,7 +307,11 @@
 | [Aulas da Escola Livre de IA - 2020](https://www.youtube.com/playlist?list=PLSZbIUwF2aOxXa7_UdKLQi1e4wl7DHcRN) | :brazil: |
 | [Eletrônicos CODEiot](https://codeiot.org.br/courses?search_query=IOT103%20IOT103EN%20IOT103ES) | :us: |
 
-## 💻 Infrastructure courses
+<div align="left">
+    <b><a href="#índice">↥ Voltar ao índice</a></b>
+</div>
+
+## 💻Infrastructure courses
 
 #### AWS
 | Link | Idioma |
@@ -303,7 +331,11 @@
 | [Descomplicando o Docker](https://www.youtube.com/watch?v=0xxHiOSJVe8&list=PLf-O3X2-mxDkiUH0r_BadgtELJ_qyrFJ_) | :brazil: |
 | [Docker Essentials](https://www.udemy.com/course/docker-essentials/) | :us: |
 
-## 💻 FullStack courses
+<div align="left">
+    <b><a href="#índice">↥ Voltar ao índice</a></b>
+</div>
+
+## 💻FullStack courses
 
 #### Diversos cursos em renomadas instituições
 | Link | Idioma |
