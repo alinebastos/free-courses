@@ -50,6 +50,8 @@
 | [Flutter - André Baltieri (YouTube)](https://www.youtube.com/playlist?list=PLHlHvK2lnJndc8qCqmQdHr-cLoOb2-q61) | :brazil: |
 | [Flutter](https://www.youtube.com/playlist?list=PL9aKtVrF05DxO56tetlFMmNGc7fuiCxdy) | 🇧🇷 |
 | [Flutter Básico Online Grátis - Prime Cursos](https://www.primecursos.com.br/flutter-basico/) | :brazil: |
+| [Flutter - Hélio Kamawaka (Youtube)](https://www.youtube.com/playlist?list=PLg5-aZqPjMmBmCIgUZ0kNtoE7KJfvJZXS) | :brazil: |
+| [Flutter/Dart - Canal Polimorfismo (Youtube)](https://www.youtube.com/playlist?list=PLqdwHeoSjEN-9aGd-RxaS_2cyD_AKT0c_) | :brazil: |
 
 #### Ionic
 | Link | Idioma |
@@ -123,6 +125,7 @@
 | [General Javascript Course](https://amigoscode.com/p/javascript)| :uk: |
 | [Fundamentos de JavaScript Funcional - Cod3r](https://www.cod3r.com.br/courses/javascript-funcional-fundamentos) | :brazil: |
 | [Javascript antes do Framework - Canal Origamid (Youtube)](https://www.youtube.com/playlist?list=PL9rc_FjKlX39T78CUANwmdta_d1CgUtMt) | :brazil: |
+| [Iniciantes em JavaScript - Glaucia Lemos (GitHub)](https://github.com/glaucia86/js-101-beginners-ms) | :brazil: |
 
 #### TypeScript
 | Link | Idioma |
