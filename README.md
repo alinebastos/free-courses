@@ -47,6 +47,7 @@
 | [Curso de PHP para Iniciantes](https://www.youtube.com/playlist?list=PLHz_AreHm4dm4beCCCmW4xwpmLf6EHY9k) | :brazil: |
 | [Curso de POO PHP](https://www.youtube.com/playlist?list=PLHz_AreHm4dmGuLII3tsvryMMD7VgcT7x) | :brazil: |
 | [Curso de PHP Orientado a Objetos](https://www.youtube.com/playlist?list=PLwXQLZ3FdTVEau55kNj_zLgpXL4JZUg8I) | :brazil: |
+| [Curso Laravel 5.3](https://www.youtube.com/playlist?list=PLVSNL1PHDWvR3PeLXz6nvBkDhv1IQk4wP) | :brazil: |
 | [Iniciando com Laravel 5.5](https://www.schoolofnet.com/curso/php/laravel/iniciando-com-laravel-55/) | :brazil: |
 | [Novidades do php 7.1](https://www.schoolofnet.com/curso/php/linguagem-php/novidades-do-php71/) | :brazil: |
 
@@ -58,6 +59,7 @@
 | [Curso de Python - eXcript](https://www.youtube.com/playlist?list=PLesCEcYj003QxPQ4vTXkt22-E11aQvoVj) | :brazil: |
 | [Desenvolvedor Python (Bootcamp)](https://digitalinnovation.one/bootcamps/desenvolvedor-python) | :brazil: |
 | [Introdução à Python por Projetos](https://www.youtube.com/watch?v=gDDGq7Q_YFE&list=PL5TJqBvpXQv6AEfVymby32MinHdxZA-8J) | :brazil: |
+| [Linguagem de Programação Python - Básico](https://www.ev.org.br/cursos/linguagem-de-programacao-python-basico) :brazil:
 | [Python Curso em Vídeo](https://www.youtube.com/watch?v=S9uPNppGsGo&list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0) | :brazil: |
 | [Python for Everybody](https://py4e.com) | :us: |
 | [Python para Zumbis](https://www.pycursos.com/python-para-zumbis/) | :brazil: |
@@ -67,6 +69,7 @@
 | Link | Idioma |
 | ----- | :-----: |
 | [Curso Ruby Puro](https://www.youtube.com/playlist?list=PLdDT8if5attEOcQGPHLNIfnSFiJHhGDOZ) | :brazil: |
+| [Curso de Ruby on Rails](https://www.youtube.com/watch?v=2SEKJdKzwNU&list=PLFeyfVYazTkJN6uM5opCfSN_xjxrMybXV) | :brazil: |  | |
 | [Curso de Ruby on Rails para Iniciantes](https://www.youtube.com/playlist?list=PLe3LRfCs4go-mkvHRMSXEOG-HDbzesyaP) | :brazil: |
 | [Mini curso de Testes Ruby com RSpec](https://www.youtube.com/playlist?list=PLdDT8if5attGc3fgFsFe5cvV9MwlVFNLW) | :brazil: |
 | [Orientação à objetos em Ruby - Campus Code](https://www.youtube.com/watch?v=rz6WJPDH8bA&list=PLajdzeQ7QG3jS3yEBFkf7GsXvoSj6wuPY) | :brazil: |
@@ -142,6 +145,7 @@
 #### General
 | Link | Idioma |
 | ----- | :-----: |
+| [Acessibilidade Web (udacity)](https://www.udacity.com/course/web-accessibility--ud891) | :us/brazil: |
 | [Aplicando mobile-first usando Grid Layout - The Net Ninja (YouTube)](https://www.youtube.com/playlist?list=PL4cUxeGkcC9hH1tAjyUPZPjbj-7s200a4) | :us: |
 | [CSS Animation Tutorial - The Net Ninja (YouTube)](https://www.youtube.com/playlist?list=PL4cUxeGkcC9iGYgmEd2dm3zAKzyCGDtM5) | :us: |
 | [CSS Animations Series - DevTips (YouTube)](https://www.youtube.com/playlist?list=PLqGj3iMvMa4LvJ8VctoXnPI0dtE40wfid) | :us: |
@@ -198,6 +202,8 @@
 | [Curso de JavaScript 2020 - Fundamentos - Programador a Bordo (YouTube)](https://www.youtube.com/playlist?list=PLbA-jMwv0cuWbas947cygrzfzHIc7esmp) | :brazil: |
 | [General Javascript Course](https://amigoscode.com/p/javascript)| :uk: |
 | [Fundamentos de JavaScript Funcional - Cod3r](https://www.cod3r.com.br/courses/javascript-funcional-fundamentos) | :brazil: |
+| [Javascript antes do Framework - Canal Origamid (Youtube)](https://www.youtube.com/playlist?list=PL9rc_FjKlX39T78CUANwmdta_d1CgUtMt) | :brazil: |
+| [Iniciantes em JavaScript - Glaucia Lemos (GitHub)](https://github.com/glaucia86/js-101-beginners-ms) | :brazil: |
 
 #### TypeScript
 | Link | Idioma |
@@ -299,6 +305,8 @@
 | [Flutter - André Baltieri (YouTube)](https://www.youtube.com/playlist?list=PLHlHvK2lnJndc8qCqmQdHr-cLoOb2-q61) | :brazil: |
 | [Flutter](https://www.youtube.com/playlist?list=PL9aKtVrF05DxO56tetlFMmNGc7fuiCxdy) | :brazil: |
 | [Flutter Básico Online Grátis - Prime Cursos](https://www.primecursos.com.br/flutter-basico/) | :brazil: |
+| [Flutter - Hélio Kamawaka (Youtube)](https://www.youtube.com/playlist?list=PLg5-aZqPjMmBmCIgUZ0kNtoE7KJfvJZXS) | :brazil: |
+| [Flutter/Dart - Canal Polimorfismo (Youtube)](https://www.youtube.com/playlist?list=PLqdwHeoSjEN-9aGd-RxaS_2cyD_AKT0c_) | :brazil: |
 
 #### Ionic
 | Link | Idioma |
@@ -310,17 +318,8 @@
 | ----- | :-----: |
 | [React Native - By Geek Dev (YouTube)](https://youtube.com/playlist?list=PL8fIRnD1uUSnRqz3E2caAWDqbtIFXmNtW) | :brazil: |
 
-
-
-
-
-
-
-
-
 ## ⚖ Licença
 
 Este projeto está licenciado. Abra o arquivo [LICENSE](LICENSE) para mais detalhes.<br>
-
 
 <br>[⬆ Voltar ao índice](#-índice)<br>
