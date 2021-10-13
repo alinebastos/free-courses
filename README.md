@@ -236,6 +236,7 @@
 | ----- | :-----: |
 | [Curso de Vue JS](https://www.youtube.com/watch?v=npA_f0ztIt0&list=PLJ_KhUnlXUPteacVhunyK5M8SKIadeED0) | :brazil: |
 | [Vue JS 2 Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gQcYgjhBoeQH7wiAyZNrYa) | :uk: |
+| [Vue JS 3 Tutorial for Beginners](https://www.youtube.com/playlist?list=PLC3y8-rFHvwgeQIfSDtEGVvvSEPDkL_1f) | :uk: |
 
 ## 💻 FullStack courses
 
