@@ -318,7 +318,6 @@
 | ----- | :-----: |
 | [Ionic 3 para iniciantes (Udemy)](https://www.udemy.com/course/ionic-3-para-iniciantes/) | :brazil: |
 
----- modificação aqui-----
 
 #### React Native
 | Link | Idioma |
