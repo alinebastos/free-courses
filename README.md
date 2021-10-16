@@ -27,6 +27,8 @@
 | [Iniciando com ASP.NET Core](https://desenvolvedor.io/curso-online-iniciando-com-asp-net-core) | :brazil: |
 | [Introdução ao Entity Framework Core](https://desenvolvedor.io/curso-online-introducao-entity-framework-core) | :brazil: |
 | [Manipulando Listas Genéricas em C#](https://www.udemy.com/listas-genericas-em-csharp/) | :brazil: |
+| [Asp.Net Core 5 & 3 & 2.2 REST API Tutorial](https://www.youtube.com/watch?v=sdlt3-ptt9g&list=PLUOequmGnXxOgmSDWU7Tl6iQTsOtyjtwU) | :us: |
+| [Cracking the .NET interview](https://www.youtube.com/watch?v=U3QvTaw224o&list=PLUOequmGnXxOOg9Cx0Vj6JOFQZTCOyP5X) | :us: |
 
 #### Java
 | Link | Idioma |
