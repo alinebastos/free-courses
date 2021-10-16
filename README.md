@@ -12,6 +12,7 @@
 📌 [Infrastructure Courses](#-infrastructure-courses)<br>
 📌 [Lógica de programação](#-lógica-de-programação)<br>
 📌 [Mobile Courses](#-mobile-courses)<br>
+📌 [Cyber Security](#cyber-security)<br>
 
 ## 💻 Agile
 | Link | Idioma |
@@ -318,6 +319,13 @@
 | Link | Idioma |
 | ----- | :-----: |
 | [React Native - By Geek Dev (YouTube)](https://youtube.com/playlist?list=PL8fIRnD1uUSnRqz3E2caAWDqbtIFXmNtW) | :brazil: |
+
+
+## Cyber Security Courses
+| Link | Idioma |
+| ----- | :-----: |
+| [Web Security & Bug Bounty Basics/Segurança web e princípios básicos (Udemy)](https://www.udemy.com/course/web-security-bug-bounty-basics/) | :us: |
+| [Segurança Web - Código Seguro II A6 a A10 (Udemy)](https://www.udemy.com/course/wp-codigo-seguro-2/) | :brazil: |
 
 ## ⚖ Licença
 
