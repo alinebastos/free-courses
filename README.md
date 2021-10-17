@@ -76,6 +76,7 @@
 | [Curso de Ruby on Rails para Iniciantes](https://www.youtube.com/playlist?list=PLe3LRfCs4go-mkvHRMSXEOG-HDbzesyaP) | :brazil: |
 | [Mini curso de Testes Ruby com RSpec](https://www.youtube.com/playlist?list=PLdDT8if5attGc3fgFsFe5cvV9MwlVFNLW) | :brazil: |
 | [Orientação à objetos em Ruby - Campus Code](https://www.youtube.com/watch?v=rz6WJPDH8bA&list=PLajdzeQ7QG3jS3yEBFkf7GsXvoSj6wuPY) | :brazil: |
+| [Curso Ruby para Iniciantes e Exercícios](https://www.youtube.com/watch?v=Sjw3S3QzpR4&list=PLS2fc6xC9lt0D5ksSs-30Cz8qLpl7b43H) | :brazil: |
 
 #### Node
 | Link | Idioma |
