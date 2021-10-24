@@ -144,6 +144,11 @@
 | [Aulas da Escola Livre de IA - 2020](https://www.youtube.com/playlist?list=PLSZbIUwF2aOxXa7_UdKLQi1e4wl7DHcRN) | :brazil: |
 | [Eletrônicos CODEiot](https://codeiot.org.br/courses?search_query=IOT103%20IOT103EN%20IOT103ES) | :us: |
 
+#### Machine Learning
+| Link | Idioma |
+| ----- | :-----: |
+| [Caltech's Machine Learning Course](https://home.work.caltech.edu/telecourse.html) | :us: |
+
 ## 💻 Frontend Courses
 
 #### General
@@ -249,7 +254,7 @@
 | Link | Idioma |
 | ----- | :-----: |
 | [700 Free Online Programming & Computer Science Courses You Can Start This September](https://www.freecodecamp.org/news/free-online-programming-cs-courses/) | :us: |
-| [Introdução Ciência da Computção de Harvard](https://online-learning.harvard.edu/course/cs50-introduction-computer-science?delta=0) | :us: |
+| [Introdução Ciência da Computação de Harvard](https://online-learning.harvard.edu/course/cs50-introduction-computer-science?delta=0) | :us: |
 | [Iniciante de JavaScrip da Microsoft](https://www.youtube.com/playlist?list=PLlrxD0HtieHhW0NCG7M536uHGOtJ95Ut2) | :us: |
 
 #### Desenvolvimento Web FullStack
