@@ -189,6 +189,7 @@
 | [Website Performance Optimization - (Udacity)](https://www.udacity.com/course/website-performance-optimization--ud884) | :us: |
 | [What the Flexbox? - Wes Bos](https://flexbox.io/) | :us: |
 | [WorkshopDev - RocketSeat (YouTube)](https://www.youtube.com/watch?v=cprMYC8PCVY&list=PL85ITvJ7FLohGTWaE_p0J6B-TLmQbN4ka) | :brazil: |
+| [Front-end - Curso - Vida FullStack (YouTube)](https://www.youtube.com/playlist?list=PLMy95_4XE08MRsQvaSQnHzyooNevGTNtS) | :brazil: |
 
 #### JavaScript
 | Link | Idioma |
