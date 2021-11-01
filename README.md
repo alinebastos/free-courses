@@ -103,6 +103,7 @@
 | ----- | :-----: |
 | [Desenvolvedor Kotlin Iniciante](https://www.udemy.com/course/desenvolvedor-kotlin-iniciante/) | :brazil: |
 | [Kotlin Course for Beginners and Java Devs](https://www.youtube.com/playlist?list=PLrnPJCHvNZuAIbejjZA1kGfLeA8ZpICB2) | :us: |
+| [Kotlin for Java developers](https://pt.coursera.org/learn/kotlin-for-java-developers) | :us: |
 
 #### Haskell
 | Link | Idioma |
