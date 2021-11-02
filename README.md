@@ -103,6 +103,7 @@
 | ----- | :-----: |
 | [Desenvolvedor Kotlin Iniciante](https://www.udemy.com/course/desenvolvedor-kotlin-iniciante/) | :brazil: |
 | [Kotlin Course for Beginners and Java Devs](https://www.youtube.com/playlist?list=PLrnPJCHvNZuAIbejjZA1kGfLeA8ZpICB2) | :us: |
+| [Kotlin for Java developers](https://pt.coursera.org/learn/kotlin-for-java-developers) | :us: |
 
 #### Haskell
 | Link | Idioma |
@@ -117,6 +118,7 @@
 | ----- | :-----: |
 | [Python Fundamentos para Análise de Dados](https://www.datascienceacademy.com.br/course/python-fundamentos) | :brazil: |
 | [Python for Data Science and Analytics Tutorial Series by Tomi Mester](https://www.youtube.com/playlist?list=PLHS1p0ot3SVj5KMsvPBihB7JdEOox4Z-d) | :us: |
+| [Fundamentos de pesquisa em Ciência da Computação 2](https://youtube.com/playlist?list=PLvvIUEwTZK9wvSEiASWyLXYb2a2KAON-v) | :brazil: |
 
 #### Deep Learning
 | Link | Idioma |
@@ -339,6 +341,7 @@
 | ----- | :-----: |
 | [Web Security & Bug Bounty Basics/Segurança web e princípios básicos (Udemy)](https://www.udemy.com/course/web-security-bug-bounty-basics/) | :us: |
 | [Segurança Web - Código Seguro II A6 a A10 (Udemy)](https://www.udemy.com/course/wp-codigo-seguro-2/) | :brazil: |
+| [CS406: Information Security](https://learn.saylor.org/course/CS40)| :us: |
 
 ## ⚖ Licença
 
