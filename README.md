@@ -117,8 +117,8 @@
 | Link | Idioma |
 | ----- | :-----: |
 | [Python Fundamentos para Análise de Dados](https://www.datascienceacademy.com.br/course/python-fundamentos) | :brazil: |
+| [Python for Data Science and Analytics Tutorial Series by Tomi Mester](https://www.youtube.com/playlist?list=PLHS1p0ot3SVj5KMsvPBihB7JdEOox4Z-d) | :us: |
 | [Fundamentos de pesquisa em Ciência da Computação 2](https://youtube.com/playlist?list=PLvvIUEwTZK9wvSEiASWyLXYb2a2KAON-v) | :brazil: |
-
 
 #### Deep Learning
 | Link | Idioma |
