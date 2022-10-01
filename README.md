@@ -152,9 +152,10 @@
 | ----- | :-----: |
 | [Caltech's Machine Learning Course](https://home.work.caltech.edu/telecourse.html) | :us: |
 
-### Engenharia de Dados
+#### Engenharia de Dados
 | Link | Idioma |
 | ----- | :-----: |
+| [Curso Livre de Engenharia de Dados](https://www.youtube.com/playlist?list=PLSZbIUwF2aOz4VHmJaryqqPyxif7nTK5o) | :brazil: |
 | [Data Engineering Zoomcamp](https://www.youtube.com/playlist?list=PL3MmuxUbc_hJed7dXYoJw8DoCuVHhGEQb) | :us: |
 | [Entendendo Engenharia de Dados](https://www.datacamp.com/courses/understanding-data-engineering) | :us: |
 
