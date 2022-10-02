@@ -12,7 +12,9 @@
 📌 [Infrastructure Courses](#-infrastructure-courses)<br>
 📌 [Lógica de programação](#-lógica-de-programação)<br>
 📌 [Mobile Courses](#-mobile-courses)<br>
-📌 [Cyber Security](#cyber-security)<br>
+📌 [Cyber Security Courses](#-cyber-security-courses)<br>
+📌 [Test Automation Courses](#-test-automation-courses)<br>
+
 
 ## 💻 Agile
 | Link | Idioma |
@@ -344,11 +346,20 @@
 
 
 ## Cyber Security Courses
+
 | Link | Idioma |
 | ----- | :-----: |
 | [Web Security & Bug Bounty Basics/Segurança web e princípios básicos (Udemy)](https://www.udemy.com/course/web-security-bug-bounty-basics/) | :us: |
 | [Segurança Web - Código Seguro II A6 a A10 (Udemy)](https://www.udemy.com/course/wp-codigo-seguro-2/) | :brazil: |
 | [CS406: Information Security](https://learn.saylor.org/course/CS40)| :us: |
+
+
+## Test Automation Courses
+
+| Link | Idioma |
+| ----- | :-----: |
+| [Test Automation University](https://testautomationu.applitools.com/) | :us: |
+| [Introdução ao Teste de Software](https://www.coursera.org/learn/intro-teste-de-software) | :brazil: |
 
 ## ⚖ Licença
 
