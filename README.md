@@ -3,20 +3,23 @@
 > More than just a bunch of links, this is a selection of what we judge to be some of the best learning opportunities you will find online for free.
 
 ## 📕 Table of Contents
-📌 [Agile](#-agile)<br>
-📌 [Backend Courses](#-backend-courses)<br>
-📌 [Data Science](#-data-science)<br>
-📌 [Frontend Courses](#-frontend-courses)<br>
-📌 [FullStack courses](#-fullstack-courses)<br>
-📌 [Git and Github Courses](-#git-and-github-courses)<br>
-📌 [Infrastructure Courses](#-infrastructure-courses)<br>
-📌 [Lógica de programação](#-lógica-de-programação)<br>
-📌 [Mobile Courses](#-mobile-courses)<br>
-📌 [Cyber Security Courses](#-cyber-security-courses)<br>
-📌 [Test Automation Courses](#-test-automation-courses)<br>
 
+📌 [Agile](#-agile)
+📌 [Backend Courses](#-backend-courses)
+📌 [Data Science](#-data-science)
+📌 [Frontend Courses](#-frontend-courses)
+📌 [FullStack courses](#-fullstack-courses)
+📌 [Git and Github Courses](#-git-and-github-courses)
+📌 [Infrastructure Courses](#-infrastructure-courses)
+📌 [Programming logic](#-programming-logic)
+📌 [Mobile Courses](#-mobile-courses)
+📌 [Cyber Security Courses](#-cyber-security-courses)
+📌 [Test Automation Courses](#-test-automation-courses)
+
+---
 
 ## 💻 Agile
+
 | Link | Language |
 | ----- | :-----: |
 | [Agile Scrum Foundation](https://academy.estabil.is/courses/exin-agile-scrum-foundation) | :brazil: |
@@ -24,6 +27,7 @@
 ## 💻 Backend courses
 
 ### C# / .NET
+
 | Link | Language |
 | ----- | :-----: |
 | [Iniciando com ASP.NET Core](https://desenvolvedor.io/curso-online-iniciando-com-asp-net-core) | :brazil: |
@@ -32,7 +36,8 @@
 | [Asp.Net Core 5 & 3 & 2.2 REST API Tutorial](https://www.youtube.com/watch?v=sdlt3-ptt9g&list=PLUOequmGnXxOgmSDWU7Tl6iQTsOtyjtwU) | :us: |
 | [Cracking the .NET interview](https://www.youtube.com/watch?v=U3QvTaw224o&list=PLUOequmGnXxOOg9Cx0Vj6JOFQZTCOyP5X) | :us: |
 
-#### Java
+### Java
+
 | Link | Language |
 | ----- | :-----: |
 | [Curso de Java e Orientação a Objetos](https://loiane.training/course/java-basico/) | :brazil: |
@@ -42,7 +47,8 @@
 | [Java Developer (Bootcamp)](https://digitalinnovation.one/bootcamps/java-developer?ref=novotec) | :brazil: |
 | [TDD – Desenvolvimento de software guiado por testes](https://pt.coursera.org/learn/tdd-desenvolvimento-de-software-guiado-por-testes) | :brazil: |
 
-#### PHP
+### PHP
+
 | Link | Language |
 | ----- | :-----: |
 | [Curso Completo de PHP](https://www.youtube.com/playlist?list=PL7ScB28KYHhFJ0t3FNgVixx8uVOiS8bbD) | :brazil: |
@@ -56,7 +62,8 @@
 | [Iniciando com Laravel 5.5](https://www.schoolofnet.com/curso/php/laravel/iniciando-com-laravel-55/) | :brazil: |
 | [Novidades do php 7.1](https://www.schoolofnet.com/curso/php/linguagem-php/novidades-do-php71/) | :brazil: |
 
-#### Python
+### Python
+
 | Link | Language |
 | ----- | :-----: |
 | [Análise de Dados em Python](https://www.youtube.com/watch?v=RlGOaSPFtXc&list=PL5TJqBvpXQv5N3iV68bGBkea0HjMk98lR) | :brazil: |
@@ -70,7 +77,8 @@
 | [Python para Zumbis](https://www.pycursos.com/python-para-zumbis/) | :brazil: |
 | [Python - Ignorância Zero](https://www.youtube.com/playlist?list=PLfCKf0-awunOu2WyLe2pSD2fXUo795xRe) | :brazil: |
 
-#### Ruby
+### Ruby
+
 | Link | Language |
 | ----- | :-----: |
 | [Curso Ruby Puro](https://www.youtube.com/playlist?list=PLdDT8if5attEOcQGPHLNIfnSFiJHhGDOZ) | :brazil: |
@@ -80,11 +88,12 @@
 | [Orientação à objetos em Ruby - Campus Code](https://www.youtube.com/watch?v=rz6WJPDH8bA&list=PLajdzeQ7QG3jS3yEBFkf7GsXvoSj6wuPY) | :brazil: |
 | [Curso Ruby para Iniciantes e Exercícios](https://www.youtube.com/watch?v=Sjw3S3QzpR4&list=PLS2fc6xC9lt0D5ksSs-30Cz8qLpl7b43H) | :brazil: |
 
-#### Node
+### Node
+
 | Link | Language |
 | ----- | :-----: |
 | [API dos Correios com NodeJS](https://www.schoolofnet.com/canal-direto-ao-ponto/api-dos-correios-com-nodejs/) | :brazil: |
-| [Construindo uma API com Typescript, Jest, TDD e muito mais ](https://www.youtube.com/watch?v=W2ld5xRS3cY&list=PLz_YTBuxtxt6_Zf1h-qzNsvVt46H8ziKh) | :brazil: |
+| [Construindo uma API com Typescript, Jest, TDD e muito mais](https://www.youtube.com/watch?v=W2ld5xRS3cY&list=PLz_YTBuxtxt6_Zf1h-qzNsvVt46H8ziKh) | :brazil: |
 | [Criando APIs com NodeJs - André Baltieri](https://www.youtube.com/playlist?list=PLHlHvK2lnJndvvycjBqQAbgEDqXxKLoqn) | :brazil: |
 | [Curso de Node.JS - Guia do Programador](https://www.youtube.com/watch?v=LLqq6FemMNQ&list=PLJ_KhUnlXUPtbtLwaxxUxHqvcNQndmI4B&ab_channel=VictorLima-GuiadoProgramador) | :brazil: |
 | [Do zero a produção: Aprenda a construir uma API Node.js com Typescript - Waldemar Neto](https://www.nodejs-typescript-api.com/curso-gratis/) | :brazil: |
@@ -95,19 +104,22 @@
 | [NodeJs, TDD e CLean Architecture - Rodrigo Manguinho](https://www.youtube.com/playlist?list=PL9aKtVrF05DyEwK5kdvzrYXFdpZfj1dsG&fbclid=IwAR1PogboGrrX6v0WcKAhjzTGqG0rxUsEDcLfQO1dB7FB6xl6Z0dqCojjtI4) | :brazil: |
 | [RESTful com Node.js e Restify](https://codecasts.com.br/series/restful-com-nodejs-e-restify) | :brazil: |
 
-#### Golang
+### Golang
+
 | Link | Language |
 | ----- | :-----: |
 | [Aprenda Go](https://www.youtube.com/watch?v=WiGU_ZB-u0w&list=PLCKpcjBB_VlBsxJ9IseNxFllf-UFEXOdg) | :brazil: |
 
-#### Kotlin
+### Kotlin
+
 | Link | Language |
 | ----- | :-----: |
 | [Desenvolvedor Kotlin Iniciante](https://www.udemy.com/course/desenvolvedor-kotlin-iniciante/) | :brazil: |
 | [Kotlin Course for Beginners and Java Devs](https://www.youtube.com/playlist?list=PLrnPJCHvNZuAIbejjZA1kGfLeA8ZpICB2) | :us: |
 | [Kotlin for Java developers](https://pt.coursera.org/learn/kotlin-for-java-developers) | :us: |
 
-#### Haskell
+### Haskell
+
 | Link | Language |
 | ----- | :-----: |
 | [Introduction to Haskell](https://www.seas.upenn.edu/~cis194/fall16/) | :us: |
@@ -116,6 +128,7 @@
 ## 💻 Data Science
 
 ### Data Analysis
+
 | Link | Language |
 | ----- | :-----: |
 | [Python Fundamentos para Análise de Dados](https://www.datascienceacademy.com.br/course/python-fundamentos) | :brazil: |
@@ -123,6 +136,7 @@
 | [Fundamentos de pesquisa em Ciência da Computação 2](https://youtube.com/playlist?list=PLvvIUEwTZK9wvSEiASWyLXYb2a2KAON-v) | :brazil: |
 
 #### Deep Learning
+
 | Link | Language |
 | ----- | :-----: |
 | [Pytorch - Aprendizado profundo com Python](https://www.youtube.com/playlist?list=PLQVvvaa0QuDdeMyHEYc0gxFpYwHY2Qfdh) | :us: |
@@ -130,6 +144,7 @@
 | [Aprendizado profundo com o Tensorflow](https://www.youtube.com/playlist?list=PL-XeOa5hMEYxNzHM7YLRjIwE1k3VQpqEh) | :us: |
 
 #### Big Data
+
 | Link | Language |
 | ----- | :-----: |
 | [Big Data Essentials](https://4linux.com.br/cursos/treinamento/big-data-essentials/) | :brazil: |
@@ -137,11 +152,13 @@
 | [Introdução à Ciência de Dados 2.0](https://www.datascienceacademy.com.br/course?courseid=introduo--cincia-de-dados) | :brazil: |
 
 #### Business Intelligence
+
 | Link | Language |
 | ----- | :-----: |
 | [Power BI para Data Science 2.0](https://www.datascienceacademy.com.br/course?courseid=microsoft-power-bi-para-data-science) | :brazil: |
 
 #### Artificial Intelligence
+
 | Link | Language |
 | ----- | :-----: |
 | [Introdução à tecnologia de IA para líderes de negócios](http://www.brasilmaisdigital.org.br/index.php/pt-br/cursos-online/2017-05-23-17-40-54/94-introduc-o-a-tecnologia-de-ia-para-lideres-de-negocios/preview) | :brazil: |
@@ -150,11 +167,13 @@
 | [Eletrônicos CODEiot](https://codeiot.org.br/courses?search_query=IOT103%20IOT103EN%20IOT103ES) | :us: |
 
 #### Machine Learning
+
 | Link | Language |
 | ----- | :-----: |
 | [Caltech's Machine Learning Course](https://home.work.caltech.edu/telecourse.html) | :us: |
 
 #### Data Engineering
+
 | Link | Language |
 | ----- | :-----: |
 | [Curso Livre de Engenharia de Dados](https://www.youtube.com/playlist?list=PLSZbIUwF2aOz4VHmJaryqqPyxif7nTK5o) | :brazil: |
@@ -163,7 +182,8 @@
 
 ## 💻 Frontend Courses
 
-#### General
+### General
+
 | Link | Language |
 | ----- | :-----: |
 | [A game for learning CSS Flexbox](https://flexboxfroggy.com/) | :us: |
@@ -208,7 +228,8 @@
 | [WorkshopDev - RocketSeat (YouTube)](https://www.youtube.com/watch?v=cprMYC8PCVY&list=PL85ITvJ7FLohGTWaE_p0J6B-TLmQbN4ka) | :brazil: |
 | [Front-end - Curso - Vida FullStack (YouTube)](https://www.youtube.com/playlist?list=PLMy95_4XE08MRsQvaSQnHzyooNevGTNtS) | :brazil: |
 
-#### JavaScript
+### JavaScript
+
 | Link | Language |
 | ----- | :-----: |
 | [Aprenda a testar aplicações Javascript - Vedovelli](https://classes.vedovelli.com.br/?class=testar-aplicacoes-javascript-criacao-projeto-instalacao-jest) | :brazil: |
@@ -228,22 +249,25 @@
 | [Javascript antes do Framework - Canal Origamid (Youtube)](https://www.youtube.com/playlist?list=PL9rc_FjKlX39T78CUANwmdta_d1CgUtMt) | :brazil: |
 | [Iniciantes em JavaScript - Glaucia Lemos (GitHub)](https://github.com/glaucia86/js-101-beginners-ms) | :brazil: |
 
-#### TypeScript
+### TypeScript
+
 | Link | Language |
 | ----- | :-----: |
 | [Mini Curso gratuito de TypeScript](https://willianjusten.com.br/mini-curso-gratuito-de-typescript/) | :brazil: |
 | [TypeScritpt - Zero to Hero - Glaucia Lemos (Github)](https://github.com/glaucia86/curso-typescript-zero-to-hero) | :brazil: |
 
-#### Angular
+### Angular
+
 | Link | Language |
 | ----- | :-----: |
 | [AngularJS - Rodrigo Branas](https://www.youtube.com/watch?v=_y7rKxqPoyg&list=PLQCmSnNFVYnTD5p2fR4EXmtlR6jQJMbPb) | :brazil: |
 | [Angular + ASP.NET Core API + EF Core](https://www.youtube.com/playlist?list=PLWNaqtzH6CWSbIYlgMDQZNrwDG3gHw7wa) | :brazil: |
 | [Angular 2](https://loiane.training/curso/angular) | :brazil: |
 | [Angular 7 Componentes](https://www.schoolofnet.com/curso/frontend/angular-7/angular-6-componentes/) | :brazil: |
-| [Angular 9 ](https://www.cod3r.com.br/courses/angular-9-essencial) | :brazil: |
+| [Angular 9](https://www.cod3r.com.br/courses/angular-9-essencial) | :brazil: |
 
-#### ReactJS
+### ReactJS
+
 | Link | Language |
 | ----- | :-----: |
 | [Build a movie search app in React](https://scrimba.com/learn/reactmovie) | :us: |
@@ -254,7 +278,8 @@
 | [React Redux Tutorial](https://www.youtube.com/playlist?list=PLC3y8-rFHvwheJHvseC3I0HuYI2f46oAK) | :us: |
 | [React, Redux e integração de APIs](https://www.udemy.com/course/react-redux-e-integracao-de-apis/) | :brazil: |
 
-#### VueJs
+### VueJs
+
 | Link | Language |
 | ----- | :-----: |
 | [Curso de Vue JS](https://www.youtube.com/watch?v=npA_f0ztIt0&list=PLJ_KhUnlXUPteacVhunyK5M8SKIadeED0) | :brazil: |
@@ -263,14 +288,16 @@
 
 ## 💻 FullStack courses
 
-#### Other courses in well-known institutions
+### Other courses in well-known institutions
+
 | Link | Language |
 | ----- | :-----: |
 | [700 Free Online Programming & Computer Science Courses You Can Start This September](https://www.freecodecamp.org/news/free-online-programming-cs-courses/) | :us: |
 | [Introdução Ciência da Computação de Harvard](https://online-learning.harvard.edu/course/cs50-introduction-computer-science?delta=0) | :us: |
 | [Iniciante de JavaScrip da Microsoft](https://www.youtube.com/playlist?list=PLlrxD0HtieHhW0NCG7M536uHGOtJ95Ut2) | :us: |
 
-#### FullStack Web Development
+### FullStack Web Development
+
 | Link | Language |
 | ----- | :-----: |
 | [The Odin Project](https://www.theodinproject.com/) | :us: |
@@ -290,25 +317,29 @@
 
 ## 💻 Infrastructure courses
 
-#### AWS
+### AWS
+
 | Link | Language |
 | ----- | :-----: |
 | [AWS na Prática](https://academy.estabil.is/courses/aws-na-pratica) | :brazil: |
 | [AWS Cloud Practitioner Essentials](https://www.aws.training/Details/eLearning?id=62551) | :us: |
 
-#### DevOps
+### DevOps
+
 | Link | Language |
 | ----- | :-----: |
 | [DevOps Essentials](https://4linux.com.br/cursos/treinamento/devops-essentials/) | :brazil: |
 | [DevOps Foundation](https://academy.estabil.is/courses/devops-foundation) | :brazil: |
 
-#### Docker
+### Docker
+
 | Link | Language |
 | ----- | :-----: |
 | [Descomplicando o Docker](https://www.youtube.com/watch?v=0xxHiOSJVe8&list=PLf-O3X2-mxDkiUH0r_BadgtELJ_qyrFJ_) | :brazil: |
 | [Docker Essentials](https://www.udemy.com/course/docker-essentials/) | :us: |
 
 ## 💻 Programming logic
+
 | Link | Language |
 | ----- | :-----: |
 | [Curso de Lógica de Programação - Gustavo Guanabara (YouTube)](https://www.youtube.com/playlist?list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV) | :brazil: |
@@ -317,11 +348,10 @@
 | [Lógica de programação e algoritmos - Programador Br (YouTube)](https://www.youtube.com/watch?v=HXddFUe6VPU&list=PLVzrOYTg7zYDNdLJbnmhPtPcDaNWoxYVT) | :brazil: |
 | [Lógica de programação em Ruby - Campus Code (YouTube)](https://www.youtube.com/watch?v=I6OsXvUiOC4&list=PLajdzeQ7QG3iXblkBah6Ffoaa7Idxn4cT) | :brazil: |
 
-
-
 ## 💻 Mobile Courses
 
-#### Flutter
+### Flutter
+
 | Link | Language |
 | ----- | :-----: |
 | [Curso Completo de Flutter - Flutterando (YouTube)](https://www.youtube.com/playlist?list=PLlBnICoI-g-d-J57QIz6Tx5xtUDGQdBFB) | :brazil: |
@@ -332,20 +362,20 @@
 | [Flutter - Hélio Kamawaka (Youtube)](https://www.youtube.com/playlist?list=PLg5-aZqPjMmBmCIgUZ0kNtoE7KJfvJZXS) | :brazil: |
 | [Flutter/Dart - Canal Polimorfismo (Youtube)](https://www.youtube.com/playlist?list=PLqdwHeoSjEN-9aGd-RxaS_2cyD_AKT0c_) | :brazil: |
 
-#### Ionic
+### Ionic
+
 | Link | Language |
 | ----- | :-----: |
 | [Ionic 3 para iniciantes (Udemy)](https://www.udemy.com/course/ionic-3-para-iniciantes/) | :brazil: |
 
+### React Native
 
-#### React Native
 | Link | Language |
 | ----- | :-----: |
 | [React Native - By Geek Dev (YouTube)](https://youtube.com/playlist?list=PL8fIRnD1uUSnRqz3E2caAWDqbtIFXmNtW) | :brazil: |
 | [React Native Mobile Developer -(Digital Innovation One)](https://digitalinnovation.one/bootcamps/react-native-mobile-developer?ref=novotec) | :brazil: |
 
-
-## Cyber Security Courses
+## 💻 Cyber Security Courses
 
 | Link | Language |
 | ----- | :-----: |
@@ -353,8 +383,7 @@
 | [Segurança Web - Código Seguro II A6 a A10 (Udemy)](https://www.udemy.com/course/wp-codigo-seguro-2/) | :brazil: |
 | [CS406: Information Security](https://learn.saylor.org/course/CS40)| :us: |
 
-
-## Test Automation Courses
+## 💻 Test Automation Courses
 
 | Link | Language |
 | ----- | :-----: |
@@ -364,7 +393,5 @@
 ## ⚖ License
 
 This project is licensed under MIT License. Go to the [LICENSE](LICENSE) file for more details.
-
-<br>
 
 [⬆ Back to the top](#-table-of-contents)
