@@ -4,17 +4,17 @@
 
 ## 📕 Table of Contents
 
-📌 [Agile](#-agile)
-📌 [Backend Courses](#-backend-courses)
-📌 [Data Science](#-data-science)
-📌 [Frontend Courses](#-frontend-courses)
-📌 [FullStack courses](#-fullstack-courses)
-📌 [Git and Github Courses](#-git-and-github-courses)
-📌 [Infrastructure Courses](#-infrastructure-courses)
-📌 [Programming logic](#-programming-logic)
-📌 [Mobile Courses](#-mobile-courses)
-📌 [Cyber Security Courses](#-cyber-security-courses)
-📌 [Test Automation Courses](#-test-automation-courses)
+* [Agile](#-agile)
+* [Backend Courses](#-backend-courses)
+* [Data Science](#-data-science)
+* [Frontend Courses](#-frontend-courses)
+* [FullStack courses](#-fullstack-courses)
+* [Git and Github Courses](#-git-and-github-courses)
+* [Infrastructure Courses](#-infrastructure-courses)
+* [Programming logic](#-programming-logic)
+* [Mobile Courses](#-mobile-courses)
+* [Cyber Security Courses](#-cyber-security-courses)
+* [Test Automation Courses](#-test-automation-courses)
 
 ---
 
