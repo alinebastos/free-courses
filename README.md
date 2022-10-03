@@ -135,7 +135,7 @@
 | [Python for Data Science and Analytics Tutorial Series by Tomi Mester](https://www.youtube.com/playlist?list=PLHS1p0ot3SVj5KMsvPBihB7JdEOox4Z-d) | :us: |
 | [Fundamentos de pesquisa em Ciência da Computação 2](https://youtube.com/playlist?list=PLvvIUEwTZK9wvSEiASWyLXYb2a2KAON-v) | :brazil: |
 
-#### Deep Learning
+### Deep Learning
 
 | Link | Language |
 | ----- | :-----: |
@@ -143,7 +143,7 @@
 | [Keras - API de aprendizado profundo de redes neurais](https://www.youtube.com/playlist?list=PLZbbT5o_s2xrwRnXk_yCPtnqqo4_u2YGL) | :us: |
 | [Aprendizado profundo com o Tensorflow](https://www.youtube.com/playlist?list=PL-XeOa5hMEYxNzHM7YLRjIwE1k3VQpqEh) | :us: |
 
-#### Big Data
+### Big Data
 
 | Link | Language |
 | ----- | :-----: |
@@ -151,13 +151,13 @@
 | [Big Data Fundamentos 2.0](https://www.datascienceacademy.com.br/course?courseid=big-data-fundamentos) | :brazil: |
 | [Introdução à Ciência de Dados 2.0](https://www.datascienceacademy.com.br/course?courseid=introduo--cincia-de-dados) | :brazil: |
 
-#### Business Intelligence
+### Business Intelligence
 
 | Link | Language |
 | ----- | :-----: |
 | [Power BI para Data Science 2.0](https://www.datascienceacademy.com.br/course?courseid=microsoft-power-bi-para-data-science) | :brazil: |
 
-#### Artificial Intelligence
+### Artificial Intelligence
 
 | Link | Language |
 | ----- | :-----: |
@@ -166,13 +166,13 @@
 | [Aulas da Escola Livre de IA - 2020](https://www.youtube.com/playlist?list=PLSZbIUwF2aOxXa7_UdKLQi1e4wl7DHcRN) | :brazil: |
 | [Eletrônicos CODEiot](https://codeiot.org.br/courses?search_query=IOT103%20IOT103EN%20IOT103ES) | :us: |
 
-#### Machine Learning
+### Machine Learning
 
 | Link | Language |
 | ----- | :-----: |
 | [Caltech's Machine Learning Course](https://home.work.caltech.edu/telecourse.html) | :us: |
 
-#### Data Engineering
+### Data Engineering
 
 | Link | Language |
 | ----- | :-----: |
