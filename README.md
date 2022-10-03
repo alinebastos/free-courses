@@ -318,7 +318,7 @@
 | ----- | :-----: |
 | [700 Free Online Programming & Computer Science Courses You Can Start This September](https://www.freecodecamp.org/news/free-online-programming-cs-courses/) | :us: |
 | [Introdução Ciência da Computação de Harvard](https://online-learning.harvard.edu/course/cs50-introduction-computer-science?delta=0) | :us: |
-| [Iniciante de JavaScrip da Microsoft](https://www.youtube.com/playlist?list=PLlrxD0HtieHhW0NCG7M536uHGOtJ95Ut2) | :us: |
+| [Iniciante de JavaScript da Microsoft](https://www.youtube.com/playlist?list=PLlrxD0HtieHhW0NCG7M536uHGOtJ95Ut2) | :us: |
 
 ### FullStack Web Development
 
@@ -415,7 +415,7 @@
 | Link | Language |
 | ----- | :-----: |
 | [React Native - By Geek Dev (YouTube)](https://youtube.com/playlist?list=PL8fIRnD1uUSnRqz3E2caAWDqbtIFXmNtW) | :brazil: |
-| [React Native Mobile Developer -(Digital Innovation One)](https://digitalinnovation.one/bootcamps/react-native-mobile-developer?ref=novotec) | :brazil: |
+| [React Native Mobile Developer (Digital Innovation One)](https://digitalinnovation.one/bootcamps/react-native-mobile-developer?ref=novotec) | :brazil: |
 
 [⬆ Back to the top](#-table-of-contents)
 
