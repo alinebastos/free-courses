@@ -325,7 +325,7 @@
 | Link | Language |
 | ----- | :-----: |
 | [The Odin Project](https://www.theodinproject.com/) | :us: |
-| [Via rapida - Trilhas sp tech](http://www.viarapida.sp.gov.br/trilhas-sp-tech/desenvolvedor-web-full-stack) | :brazil: |
+| [Via rapida - Trilhas sp tech](https://www.cursosviarapida.sp.gov.br/trilhas/3/desenvolvedor-web-full-stack) | :brazil: |
 | [Rocketseat - Trilha Discover](https://www.rocketseat.com.br/discover) | :brazil: |
 
 [⬆ Back to the top](#-table-of-contents)
