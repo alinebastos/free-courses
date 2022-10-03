@@ -80,6 +80,7 @@
 | [Python for Everybody](https://py4e.com) | :us: |
 | [Python para Zumbis](https://www.pycursos.com/python-para-zumbis/) | :brazil: |
 | [Python - Ignorância Zero](https://www.youtube.com/playlist?list=PLfCKf0-awunOu2WyLe2pSD2fXUo795xRe) | :brazil: |
+| [Aprenda programação e algoritmos em Python](https://algoritmosempython.com.br/) | :brazil: |
 
 ### Ruby
 
@@ -260,6 +261,7 @@
 | [Fundamentos de JavaScript Funcional - Cod3r](https://www.cod3r.com.br/courses/javascript-funcional-fundamentos) | :brazil: |
 | [Javascript antes do Framework - Canal Origamid (Youtube)](https://www.youtube.com/playlist?list=PL9rc_FjKlX39T78CUANwmdta_d1CgUtMt) | :brazil: |
 | [Iniciantes em JavaScript - Glaucia Lemos (GitHub)](https://github.com/glaucia86/js-101-beginners-ms) | :brazil: |
+| [Curso JS Moderno (ES6+) (Willian Justen/YouTube)](https://www.youtube.com/playlist?list=PLlAbYrWSYTiPQ1BE8klOtheBC0mtL3hEi) | :brazil: |
 
 ### TypeScript
 
@@ -304,6 +306,12 @@
 
 ## 💻 FullStack courses
 
+### Computer Science
+
+| Link | Language |
+| ----- | :-----: |
+| [Curso de Ciência da Computação da Universidade Brasileira Livre (GitHub)](https://github.com/Universidade-Livre/ciencia-da-computacao) | :brazil: |
+
 ### Other courses in well-known institutions
 
 | Link | Language |
@@ -318,6 +326,7 @@
 | ----- | :-----: |
 | [The Odin Project](https://www.theodinproject.com/) | :us: |
 | [Via rapida - Trilhas sp tech](http://www.viarapida.sp.gov.br/trilhas-sp-tech/desenvolvedor-web-full-stack) | :brazil: |
+| [Rocketseat - Trilha Discover](https://www.rocketseat.com.br/discover) | :brazil: |
 
 [⬆ Back to the top](#-table-of-contents)
 
@@ -328,7 +337,8 @@
 | Link | Language |
 | ----- | :-----: |
 | [Dominando o Git](https://www.youtube.com/playlist?list=PL9aKtVrF05DzbNiE7jcm7s6z6Lg-u72Rq) | :brazil: |
-| [Git e Github para iniciantes (Udemy)](https://www.udemy.com/git-e-github-para-iniciantes/) | :brazil: |
+| [Git e Github para iniciantes (Willian Justen/Youtube)](https://www.youtube.com/playlist?list=PLlAbYrWSYTiPA2iEiQ2PF_A9j__C4hi0A) | :brazil: |
+| [Git e Github na Vida Real (Willian Justen/Youtube)](https://www.youtube.com/playlist?list=PLlAbYrWSYTiNqugqFFWWsgONJsmc3eMpg) | :brazil: |
 | [Git e Github (School of Net)](https://www.schoolofnet.com/curso/git/controle-de-versao/git-e-github/) | :brazil: |
 | [Git e Github (Curso em Vídeo/YouTube)](https://www.youtube.com/watch?v=xEKo29OWILE&list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA/) | :brazil: |
 | [Git e Github para iniciantes (Loiane/YouTube)](https://www.youtube.com/watch?v=UMhskLXJuq4/) | :brazil: |
