@@ -114,6 +114,9 @@
 | Link | Language |
 | ----- | :-----: |
 | [Aprenda Go](https://www.youtube.com/watch?v=WiGU_ZB-u0w&list=PLCKpcjBB_VlBsxJ9IseNxFllf-UFEXOdg) | :brazil: |
+| [Aprenda Go/Golang](https://www.youtube.com/playlist?list=PLUbb2i4BuuzCX8CLeArvx663_0a_hSguW) | :brazil: |
+| [Aprenda Golang](https://www.youtube.com/c/AprendaGolang/videos) | :brazil: |
+| [Aprenda Go com Testes](https://larien.gitbook.io/aprenda-go-com-testes/) | :brazil: |
 
 ### Kotlin
 
@@ -386,6 +389,7 @@
 | [Lógica de Programação (Algoritmos) - Pietro Martins (YouTube)](https://www.youtube.com/playlist?list=PLpaKFn4Q4GMNlLZQcOjt_-xxz6BTmugdU) | :brazil: |
 | [Lógica de programação e algoritmos - Programador Br (YouTube)](https://www.youtube.com/watch?v=HXddFUe6VPU&list=PLVzrOYTg7zYDNdLJbnmhPtPcDaNWoxYVT) | :brazil: |
 | [Lógica de programação em Ruby - Campus Code (YouTube)](https://www.youtube.com/watch?v=I6OsXvUiOC4&list=PLajdzeQ7QG3iXblkBah6Ffoaa7Idxn4cT) | :brazil: |
+| [Curso Lógica de Programação Completo - DevAprender (YouTube)](https://www.youtube.com/watch?v=iF2MdbrTiBM) | :brazil: |
 
 [⬆ Back to the top](#-table-of-contents)
 
