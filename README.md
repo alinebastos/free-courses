@@ -180,6 +180,7 @@
 | Link | Language |
 | ----- | :-----: |
 | [Caltech's Machine Learning Course](https://home.work.caltech.edu/telecourse.html) | :us: |
+| [Machine Learning para Iniciantes](https://github.com/microsoft/ML-For-Beginners/blob/main/translations/README.pt-br.md) | :brazil: |
 
 ### Data Engineering
 
