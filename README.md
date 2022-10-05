@@ -39,6 +39,7 @@
 | [Manipulando Listas Genéricas em C#](https://www.udemy.com/listas-genericas-em-csharp/) | :brazil: |
 | [Asp.Net Core 5 & 3 & 2.2 REST API Tutorial](https://www.youtube.com/watch?v=sdlt3-ptt9g&list=PLUOequmGnXxOgmSDWU7Tl6iQTsOtyjtwU) | :us: |
 | [Cracking the .NET interview](https://www.youtube.com/watch?v=U3QvTaw224o&list=PLUOequmGnXxOOg9Cx0Vj6JOFQZTCOyP5X) | :us: |
+| [C# backend - by Devaria](https://www.devaria.com.br/treinamentos/1) | :brazil: |
 
 ### Java
 
@@ -108,6 +109,7 @@
 | [Node.js - Rodrigo Branas](https://www.youtube.com/playlist?list=PLQCmSnNFVYnTFo60Bt972f8HA4Td7WKwq) | :brazil: |
 | [NodeJs, TDD e CLean Architecture - Rodrigo Manguinho](https://www.youtube.com/playlist?list=PL9aKtVrF05DyEwK5kdvzrYXFdpZfj1dsG&fbclid=IwAR1PogboGrrX6v0WcKAhjzTGqG0rxUsEDcLfQO1dB7FB6xl6Z0dqCojjtI4) | :brazil: |
 | [RESTful com Node.js e Restify](https://codecasts.com.br/series/restful-com-nodejs-e-restify) | :brazil: |
+| [Node.js - Backend - by Devaria](https://www.devaria.com.br/treinamentos/2) | :brazil: |
 
 ### Golang
 
@@ -283,6 +285,7 @@
 | [Angular 2](https://loiane.training/curso/angular) | :brazil: |
 | [Angular 7 Componentes](https://www.schoolofnet.com/curso/frontend/angular-7/angular-6-componentes/) | :brazil: |
 | [Angular 9](https://www.cod3r.com.br/courses/angular-9-essencial) | :brazil: |
+| [Angular - by Devaria](https://www.devaria.com.br/treinamentos/9) | :brazil: |
 
 ### ReactJS
 
@@ -295,6 +298,7 @@
 | [ReactJS - By Rocketseat](https://app.rocketseat.com.br/node/curso-react-js) | :brazil: |
 | [React Redux Tutorial](https://www.youtube.com/playlist?list=PLC3y8-rFHvwheJHvseC3I0HuYI2f46oAK) | :us: |
 | [React, Redux e integração de APIs](https://www.udemy.com/course/react-redux-e-integracao-de-apis/) | :brazil: |
+| [ReactJS - by Devaria](https://www.devaria.com.br/treinamentos/3) | :brazil: |
 
 ### VueJs
 
@@ -303,6 +307,7 @@
 | [Curso de Vue JS](https://www.youtube.com/watch?v=npA_f0ztIt0&list=PLJ_KhUnlXUPteacVhunyK5M8SKIadeED0) | :brazil: |
 | [Vue JS 2 Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gQcYgjhBoeQH7wiAyZNrYa) | :uk: |
 | [Vue JS 3 Tutorial for Beginners](https://www.youtube.com/playlist?list=PLC3y8-rFHvwgeQIfSDtEGVvvSEPDkL_1f) | :uk: |
+| [Vue.JS - by Devaria](https://www.devaria.com.br/treinamentos/6) | :brazil: |
 
 [⬆ Back to the top](#-table-of-contents)
 
@@ -408,6 +413,7 @@
 | [Flutter Básico Online Grátis - Prime Cursos](https://www.primecursos.com.br/flutter-basico/) | :brazil: |
 | [Flutter - Hélio Kamawaka (Youtube)](https://www.youtube.com/playlist?list=PLg5-aZqPjMmBmCIgUZ0kNtoE7KJfvJZXS) | :brazil: |
 | [Flutter/Dart - Canal Polimorfismo (Youtube)](https://www.youtube.com/playlist?list=PLqdwHeoSjEN-9aGd-RxaS_2cyD_AKT0c_) | :brazil: |
+| [Flutter - by Devaria](https://www.devaria.com.br/treinamentos/7) | :brazil: |
 
 ### Ionic
 
