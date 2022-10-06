@@ -15,7 +15,7 @@
 * [Mobile Courses](#-mobile-courses)
 * [Cyber Security Courses](#-cyber-security-courses)
 * [Test Automation Courses](#-test-automation-courses)
-
+* [Books](#-books)
 ---
 
 ## 💻 Agile
@@ -454,6 +454,16 @@
 [⬆ Back to the top](#-table-of-contents)
 
 ---
+
+## 💻 Books
+
+| Link | Language |
+| ----- | :-----: |
+| [Apostila Linguagem C – Silvio Lago (PDF)](https://www.ime.usp.br/~slago/slago-C.pdf) | :brazil: |
+| [Algorithms for Decision Making](https://freecomputerbooks.com/Algorithms-for-Decision-Making.html) | :us: |
+
+[⬆ Back to the top](#-table-of-contents)
+
 
 ## ⚖ License
 
