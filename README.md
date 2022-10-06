@@ -217,7 +217,7 @@
 | Link | Language |
 | ----- | :-----: |
 | [A game for learning CSS Flexbox](https://flexboxfroggy.com/) | :us: |
-| [Acessibilidade Web (udacity)](https://www.udacity.com/course/web-accessibility--ud891) | :us/brazil: |
+| [Acessibilidade Web (udacity)](https://www.udacity.com/course/web-accessibility--ud891) | :us: :brazil: |
 | [Aplicando mobile-first usando Grid Layout - The Net Ninja (YouTube)](https://www.youtube.com/playlist?list=PL4cUxeGkcC9hH1tAjyUPZPjbj-7s200a4) | :us: |
 | [CSS Animation Tutorial - The Net Ninja (YouTube)](https://www.youtube.com/playlist?list=PL4cUxeGkcC9iGYgmEd2dm3zAKzyCGDtM5) | :us: |
 | [CSS Animations Series - DevTips (YouTube)](https://www.youtube.com/playlist?list=PLqGj3iMvMa4LvJ8VctoXnPI0dtE40wfid) | :us: |
