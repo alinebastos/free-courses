@@ -1,24 +1,24 @@
-# Free IT Courses
+# Free IT Courses and Ebooks
 
 > More than just a bunch of links, this is a selection of what we judge to be some of the best learning opportunities you will find online for free.
 
 ## 📕 Table of Contents
 
-* [Agile](#-agile)
+* [Agile Courses](#-agile-courses)
 * [Backend Courses](#-backend-courses)
-* [Data Science](#-data-science)
+* [Data Science Courses](#-data-science-courses)
+* [Ebooks](#-ebooks)
 * [Frontend Courses](#-frontend-courses)
 * [FullStack courses](#-fullstack-courses)
 * [Git and Github Courses](#-git-and-github-courses)
 * [Infrastructure Courses](#-infrastructure-courses)
-* [Programming logic](#-programming-logic)
+* [Logic Courses](#-logic-courses)
 * [Mobile Courses](#-mobile-courses)
 * [Cyber Security Courses](#-cyber-security-courses)
 * [Test Automation Courses](#-test-automation-courses)
-* [Books](#-books)
 ---
 
-## 💻 Agile
+## 💻 Agile Courses
 
 | Link | Language |
 | ----- | :-----: |
@@ -28,7 +28,7 @@
 
 ---
 
-## 💻 Backend courses
+## 💻 Backend Courses
 
 ### C# / .NET
 
@@ -139,7 +139,7 @@
 
 ---
 
-## 💻 Data Science
+## 💻 Data Science Courses
 
 ### Data Analysis
 
@@ -194,6 +194,17 @@
 | [Curso Livre de Engenharia de Dados](https://www.youtube.com/playlist?list=PLSZbIUwF2aOz4VHmJaryqqPyxif7nTK5o) | :brazil: |
 | [Data Engineering Zoomcamp](https://www.youtube.com/playlist?list=PL3MmuxUbc_hJed7dXYoJw8DoCuVHhGEQb) | :us: |
 | [Entendendo Engenharia de Dados](https://www.datacamp.com/courses/understanding-data-engineering) | :us: |
+
+[⬆ Back to the top](#-table-of-contents)
+
+---
+
+## 💻 Ebooks
+
+| Link | Language |
+| ----- | :-----: |
+| [Apostila Linguagem C – Silvio Lago (PDF)](https://www.ime.usp.br/~slago/slago-C.pdf) | :brazil: |
+| [Algorithms for Decision Making](https://freecomputerbooks.com/Algorithms-for-Decision-Making.html) | :us: |
 
 [⬆ Back to the top](#-table-of-contents)
 
@@ -313,7 +324,7 @@
 
 ---
 
-## 💻 FullStack courses
+## 💻 FullStack Courses
 
 ### Computer Science
 
@@ -358,7 +369,7 @@
 
 ---
 
-## 💻 Infrastructure courses
+## 💻 Infrastructure Courses
 
 ### AWS
 
@@ -385,7 +396,7 @@
 
 ---
 
-## 💻 Programming logic
+## 💻 Logic Courses
 
 | Link | Language |
 | ----- | :-----: |
@@ -450,17 +461,6 @@
 | ----- | :-----: |
 | [Test Automation University](https://testautomationu.applitools.com/) | :us: |
 | [Introdução ao Teste de Software](https://www.coursera.org/learn/intro-teste-de-software) | :brazil: |
-
-[⬆ Back to the top](#-table-of-contents)
-
----
-
-## 💻 Books
-
-| Link | Language |
-| ----- | :-----: |
-| [Apostila Linguagem C – Silvio Lago (PDF)](https://www.ime.usp.br/~slago/slago-C.pdf) | :brazil: |
-| [Algorithms for Decision Making](https://freecomputerbooks.com/Algorithms-for-Decision-Making.html) | :us: |
 
 [⬆ Back to the top](#-table-of-contents)
 
