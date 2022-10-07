@@ -425,6 +425,7 @@
 | [Flutter - Hélio Kamawaka (Youtube)](https://www.youtube.com/playlist?list=PLg5-aZqPjMmBmCIgUZ0kNtoE7KJfvJZXS) | :brazil: |
 | [Flutter/Dart - Canal Polimorfismo (Youtube)](https://www.youtube.com/playlist?list=PLqdwHeoSjEN-9aGd-RxaS_2cyD_AKT0c_) | :brazil: |
 | [Flutter - by Devaria](https://www.devaria.com.br/treinamentos/7) | :brazil: |
+| [Flutter - Rodrigo Rahman (YouTube)](https://www.youtube.com/watch?v=qt20g3zuVbA&list=PLEXr-WZRgPjwk2v5wYi70WN--pCGvN-9u) | :brazil: |
 
 ### Ionic
 
