@@ -164,6 +164,7 @@
 | [Big Data Essentials](https://4linux.com.br/cursos/treinamento/big-data-essentials/) | :brazil: |
 | [Big Data Fundamentos 2.0](https://www.datascienceacademy.com.br/course?courseid=big-data-fundamentos) | :brazil: |
 | [Introdução à Ciência de Dados 2.0](https://www.datascienceacademy.com.br/course?courseid=introduo--cincia-de-dados) | :brazil: |
+| [Data Analysis with Python](https://cognitiveclass.ai/badges/data-analysis-with-python) | :us: |
 
 ### Business Intelligence
 
