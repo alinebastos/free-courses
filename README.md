@@ -149,6 +149,9 @@
 | [Python for Data Science and Analytics Tutorial Series by Tomi Mester](https://www.youtube.com/playlist?list=PLHS1p0ot3SVj5KMsvPBihB7JdEOox4Z-d) | :us: |
 | [Fundamentos de pesquisa em Ciência da Computação 2](https://youtube.com/playlist?list=PLvvIUEwTZK9wvSEiASWyLXYb2a2KAON-v) | :brazil: |
 
+
+
+
 ### Deep Learning
 
 | Link | Language |
@@ -195,6 +198,9 @@
 | [Curso Livre de Engenharia de Dados](https://www.youtube.com/playlist?list=PLSZbIUwF2aOz4VHmJaryqqPyxif7nTK5o) | :brazil: |
 | [Data Engineering Zoomcamp](https://www.youtube.com/playlist?list=PL3MmuxUbc_hJed7dXYoJw8DoCuVHhGEQb) | :us: |
 | [Entendendo Engenharia de Dados](https://www.datacamp.com/courses/understanding-data-engineering) | :us: |
+| [Learn Scala from Scratch](https://www.educative.io/courses/learn-scala-from-scratch) | :us: |
+
+
 
 [⬆ Back to the top](#-table-of-contents)
 
