@@ -477,7 +477,7 @@
 
 | Link | Language |
 | ----- | :-----: |
-| [Curso de Intrdução a Rede de Computadores](https://www.youtube.com/playlist?list=PLAp37wMSBouCSV9H9Vbh8VlbQ0w8WU3ED) | :brazil: |
+| [Curso de Introdução a Rede de Computadores](https://www.youtube.com/playlist?list=PLAp37wMSBouCSV9H9Vbh8VlbQ0w8WU3ED) | :brazil: |
 | [Curso Prático - Rede de Computadores](https://www.youtube.com/playlist?list=PLAp37wMSBouBnNup2tD-mC36JT96vHBZy) | :brazil: |
 
 ## ⚖ License
