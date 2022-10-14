@@ -120,6 +120,7 @@
 | [Aprenda Go/Golang](https://www.youtube.com/playlist?list=PLUbb2i4BuuzCX8CLeArvx663_0a_hSguW) | :brazil: |
 | [Aprenda Golang](https://www.youtube.com/c/AprendaGolang/videos) | :brazil: |
 | [Aprenda Go com Testes](https://larien.gitbook.io/aprenda-go-com-testes/) | :brazil: |
+| [Go Lang do Zero](https://www.youtube.com/watch?v=_MkQLDMak-4&list=PL5aY_NrL1rjucQqO21QH8KclsLDYu1BIg) | :brazil: |
 
 ### Kotlin
 
