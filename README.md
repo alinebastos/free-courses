@@ -387,6 +387,13 @@
 | [AWS na Prática](https://academy.estabil.is/courses/aws-na-pratica) | :brazil: |
 | [AWS Cloud Practitioner Essentials](https://www.aws.training/Details/eLearning?id=62551) | :us: |
 
+### Azure
+| Link | Language |
+| ----- | :-----: |
+| [Creating and deploying Rest API with Python on Azure](https://www.educative.io/courses/rest-api-python-microsoft-azure/N8GQyo2Q9A2) | :us: |
+
+
+
 ### DevOps
 
 | Link | Language |
