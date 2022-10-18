@@ -393,6 +393,12 @@
 | [DevOps Essentials](https://4linux.com.br/cursos/treinamento/devops-essentials/) | :brazil: |
 | [DevOps Foundation](https://academy.estabil.is/courses/devops-foundation) | :brazil: |
 
+### DevOps
+
+| Link | Language |
+| ----- | :-----: |
+| [GitOps at Scale](https://learning.codefresh.io/course/gitops-at-scale) | :us: |
+
 ### Docker
 
 | Link | Language |
