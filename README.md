@@ -214,6 +214,7 @@
 | ----- | :-----: |
 | [Apostila Linguagem C – Silvio Lago (PDF)](https://www.ime.usp.br/~slago/slago-C.pdf) | :brazil: |
 | [Algorithms for Decision Making](https://freecomputerbooks.com/Algorithms-for-Decision-Making.html) | :us: |
+| [Data Science do Zero - Joel Grus](https://edisciplinas.usp.br/pluginfile.php/5742167/mod_resource/content/1/Data%20Science%20do%20zero%20-%20Primeiras%20regras.pdf) | :brazil: |
 
 [⬆ Back to the top](#-table-of-contents)
 
