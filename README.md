@@ -83,6 +83,7 @@
 | [Python para Zumbis](https://www.pycursos.com/python-para-zumbis/) | :brazil: |
 | [Python - Ignorância Zero](https://www.youtube.com/playlist?list=PLfCKf0-awunOu2WyLe2pSD2fXUo795xRe) | :brazil: |
 | [Aprenda programação e algoritmos em Python](https://algoritmosempython.com.br/) | :brazil: |
+| [Python](https://www.kaggle.com/learn/python/) | :us: |
 
 ### Ruby
 
@@ -150,6 +151,9 @@
 | [Python Fundamentos para Análise de Dados](https://www.datascienceacademy.com.br/course/python-fundamentos) | :brazil: |
 | [Python for Data Science and Analytics Tutorial Series by Tomi Mester](https://www.youtube.com/playlist?list=PLHS1p0ot3SVj5KMsvPBihB7JdEOox4Z-d) | :us: |
 | [Fundamentos de pesquisa em Ciência da Computação 2](https://youtube.com/playlist?list=PLvvIUEwTZK9wvSEiASWyLXYb2a2KAON-v) | :brazil: |
+| [Understanding Data Science](https://www.datacamp.com/courses/understanding-data-science) | :us: |
+| [Data Visualization](https://www.kaggle.com/learn/data-visualization) | :us: |
+| [Data Science para Iniciantes: Fácil e Simples](https://www.udemy.com/course/data-science-para-iniciantes-facil-e-simples/) | :brazil: |
 
 
 
@@ -192,6 +196,7 @@
 | ----- | :-----: |
 | [Caltech's Machine Learning Course](https://home.work.caltech.edu/telecourse.html) | :us: |
 | [Machine Learning para Iniciantes](https://github.com/microsoft/ML-For-Beginners/blob/main/translations/README.pt-br.md) | :brazil: |
+| [Intro to Machine Learning](https://www.kaggle.com/learn/intro-to-machine-learning) | :us: |
 
 ### Data Engineering
 
