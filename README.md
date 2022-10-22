@@ -42,6 +42,8 @@
 | [Cracking the .NET interview](https://www.youtube.com/watch?v=U3QvTaw224o&list=PLUOequmGnXxOOg9Cx0Vj6JOFQZTCOyP5X) | :us: |
 | [C# backend - by Devaria](https://www.devaria.com.br/treinamentos/1) | :brazil: |
 
+[⬆ Back to the top](#-table-of-contents)
+
 ### Java
 
 | Link | Language |
@@ -52,6 +54,8 @@
 | [Estrutura de Dados e Algoritmos com Java](https://loiane.training/curso/estrutura-de-dados) | :brazil: |
 | [Java Developer (Bootcamp)](https://digitalinnovation.one/bootcamps/java-developer?ref=novotec) | :brazil: |
 | [TDD – Desenvolvimento de software guiado por testes](https://pt.coursera.org/learn/tdd-desenvolvimento-de-software-guiado-por-testes) | :brazil: |
+
+[⬆ Back to the top](#-table-of-contents)
 
 ### PHP
 
@@ -67,6 +71,8 @@
 | [Curso Laravel 5.3](https://www.youtube.com/playlist?list=PLVSNL1PHDWvR3PeLXz6nvBkDhv1IQk4wP) | :brazil: |
 | [Iniciando com Laravel 5.5](https://www.schoolofnet.com/curso/php/laravel/iniciando-com-laravel-55/) | :brazil: |
 | [Novidades do php 7.1](https://www.schoolofnet.com/curso/php/linguagem-php/novidades-do-php71/) | :brazil: |
+
+[⬆ Back to the top](#-table-of-contents)
 
 ### Python
 
@@ -84,6 +90,8 @@
 | [Python - Ignorância Zero](https://www.youtube.com/playlist?list=PLfCKf0-awunOu2WyLe2pSD2fXUo795xRe) | :brazil: |
 | [Aprenda programação e algoritmos em Python](https://algoritmosempython.com.br/) | :brazil: |
 
+[⬆ Back to the top](#-table-of-contents)
+
 ### Ruby
 
 | Link | Language |
@@ -94,6 +102,8 @@
 | [Mini curso de Testes Ruby com RSpec](https://www.youtube.com/playlist?list=PLdDT8if5attGc3fgFsFe5cvV9MwlVFNLW) | :brazil: |
 | [Orientação à objetos em Ruby - Campus Code](https://www.youtube.com/watch?v=rz6WJPDH8bA&list=PLajdzeQ7QG3jS3yEBFkf7GsXvoSj6wuPY) | :brazil: |
 | [Curso Ruby para Iniciantes e Exercícios](https://www.youtube.com/watch?v=Sjw3S3QzpR4&list=PLS2fc6xC9lt0D5ksSs-30Cz8qLpl7b43H) | :brazil: |
+
+[⬆ Back to the top](#-table-of-contents)
 
 ### Node
 
@@ -112,6 +122,8 @@
 | [RESTful com Node.js e Restify](https://codecasts.com.br/series/restful-com-nodejs-e-restify) | :brazil: |
 | [Node.js - Backend - by Devaria](https://www.devaria.com.br/treinamentos/2) | :brazil: |
 
+[⬆ Back to the top](#-table-of-contents)
+
 ### Golang
 
 | Link | Language |
@@ -122,6 +134,8 @@
 | [Aprenda Go com Testes](https://larien.gitbook.io/aprenda-go-com-testes/) | :brazil: |
 | [Go Lang do Zero](https://www.youtube.com/watch?v=_MkQLDMak-4&list=PL5aY_NrL1rjucQqO21QH8KclsLDYu1BIg) | :brazil: |
 
+[⬆ Back to the top](#-table-of-contents)
+
 ### Kotlin
 
 | Link | Language |
@@ -129,6 +143,8 @@
 | [Desenvolvedor Kotlin Iniciante](https://www.udemy.com/course/desenvolvedor-kotlin-iniciante/) | :brazil: |
 | [Kotlin Course for Beginners and Java Devs](https://www.youtube.com/playlist?list=PLrnPJCHvNZuAIbejjZA1kGfLeA8ZpICB2) | :us: |
 | [Kotlin for Java developers](https://pt.coursera.org/learn/kotlin-for-java-developers) | :us: |
+
+[⬆ Back to the top](#-table-of-contents)
 
 ### Haskell
 
@@ -151,8 +167,7 @@
 | [Python for Data Science and Analytics Tutorial Series by Tomi Mester](https://www.youtube.com/playlist?list=PLHS1p0ot3SVj5KMsvPBihB7JdEOox4Z-d) | :us: |
 | [Fundamentos de pesquisa em Ciência da Computação 2](https://youtube.com/playlist?list=PLvvIUEwTZK9wvSEiASWyLXYb2a2KAON-v) | :brazil: |
 
-
-
+[⬆ Back to the top](#-table-of-contents)
 
 ### Deep Learning
 
@@ -161,6 +176,8 @@
 | [Pytorch - Aprendizado profundo com Python](https://www.youtube.com/playlist?list=PLQVvvaa0QuDdeMyHEYc0gxFpYwHY2Qfdh) | :us: |
 | [Keras - API de aprendizado profundo de redes neurais](https://www.youtube.com/playlist?list=PLZbbT5o_s2xrwRnXk_yCPtnqqo4_u2YGL) | :us: |
 | [Aprendizado profundo com o Tensorflow](https://www.youtube.com/playlist?list=PL-XeOa5hMEYxNzHM7YLRjIwE1k3VQpqEh) | :us: |
+
+[⬆ Back to the top](#-table-of-contents)
 
 ### Big Data
 
@@ -171,11 +188,15 @@
 | [Introdução à Ciência de Dados 2.0](https://www.datascienceacademy.com.br/course?courseid=introduo--cincia-de-dados) | :brazil: |
 | [Data Analysis with Python](https://cognitiveclass.ai/badges/data-analysis-with-python) | :us: |
 
+[⬆ Back to the top](#-table-of-contents)
+
 ### Business Intelligence
 
 | Link | Language |
 | ----- | :-----: |
 | [Power BI para Data Science 2.0](https://www.datascienceacademy.com.br/course?courseid=microsoft-power-bi-para-data-science) | :brazil: |
+
+[⬆ Back to the top](#-table-of-contents)
 
 ### Artificial Intelligence
 
@@ -186,12 +207,16 @@
 | [Aulas da Escola Livre de IA - 2020](https://www.youtube.com/playlist?list=PLSZbIUwF2aOxXa7_UdKLQi1e4wl7DHcRN) | :brazil: |
 | [Eletrônicos CODEiot](https://codeiot.org.br/courses?search_query=IOT103%20IOT103EN%20IOT103ES) | :us: |
 
+[⬆ Back to the top](#-table-of-contents)
+
 ### Machine Learning
 
 | Link | Language |
 | ----- | :-----: |
 | [Caltech's Machine Learning Course](https://home.work.caltech.edu/telecourse.html) | :us: |
 | [Machine Learning para Iniciantes](https://github.com/microsoft/ML-For-Beginners/blob/main/translations/README.pt-br.md) | :brazil: |
+
+[⬆ Back to the top](#-table-of-contents)
 
 ### Data Engineering
 
@@ -201,8 +226,6 @@
 | [Data Engineering Zoomcamp](https://www.youtube.com/playlist?list=PL3MmuxUbc_hJed7dXYoJw8DoCuVHhGEQb) | :us: |
 | [Entendendo Engenharia de Dados](https://www.datacamp.com/courses/understanding-data-engineering) | :us: |
 | [Learn Scala from Scratch](https://www.educative.io/courses/learn-scala-from-scratch) | :us: |
-
-
 
 [⬆ Back to the top](#-table-of-contents)
 
@@ -267,6 +290,8 @@
 | [WorkshopDev - RocketSeat (YouTube)](https://www.youtube.com/watch?v=cprMYC8PCVY&list=PL85ITvJ7FLohGTWaE_p0J6B-TLmQbN4ka) | :brazil: |
 | [Front-end - Curso - Vida FullStack (YouTube)](https://www.youtube.com/playlist?list=PLMy95_4XE08MRsQvaSQnHzyooNevGTNtS) | :brazil: |
 
+[⬆ Back to the top](#-table-of-contents)
+
 ### JavaScript
 
 | Link | Language |
@@ -289,12 +314,16 @@
 | [Iniciantes em JavaScript - Glaucia Lemos (GitHub)](https://github.com/glaucia86/js-101-beginners-ms) | :brazil: |
 | [Curso JS Moderno (ES6+) (Willian Justen/YouTube)](https://www.youtube.com/playlist?list=PLlAbYrWSYTiPQ1BE8klOtheBC0mtL3hEi) | :brazil: |
 
+[⬆ Back to the top](#-table-of-contents)
+
 ### TypeScript
 
 | Link | Language |
 | ----- | :-----: |
 | [Mini Curso gratuito de TypeScript](https://willianjusten.com.br/mini-curso-gratuito-de-typescript/) | :brazil: |
 | [TypeScritpt - Zero to Hero - Glaucia Lemos (Github)](https://github.com/glaucia86/curso-typescript-zero-to-hero) | :brazil: |
+
+[⬆ Back to the top](#-table-of-contents)
 
 ### Angular
 
@@ -306,6 +335,8 @@
 | [Angular 7 Componentes](https://www.schoolofnet.com/curso/frontend/angular-7/angular-6-componentes/) | :brazil: |
 | [Angular 9](https://www.cod3r.com.br/courses/angular-9-essencial) | :brazil: |
 | [Angular - by Devaria](https://www.devaria.com.br/treinamentos/9) | :brazil: |
+
+[⬆ Back to the top](#-table-of-contents)
 
 ### ReactJS
 
@@ -319,6 +350,8 @@
 | [React Redux Tutorial](https://www.youtube.com/playlist?list=PLC3y8-rFHvwheJHvseC3I0HuYI2f46oAK) | :us: |
 | [React, Redux e integração de APIs](https://www.udemy.com/course/react-redux-e-integracao-de-apis/) | :brazil: |
 | [ReactJS - by Devaria](https://www.devaria.com.br/treinamentos/3) | :brazil: |
+
+[⬆ Back to the top](#-table-of-contents)
 
 ### VueJs
 
@@ -341,6 +374,8 @@
 | ----- | :-----: |
 | [Curso de Ciência da Computação da Universidade Brasileira Livre (GitHub)](https://github.com/Universidade-Livre/ciencia-da-computacao) | :brazil: |
 
+[⬆ Back to the top](#-table-of-contents)
+
 ### Other courses in well-known institutions
 
 | Link | Language |
@@ -348,6 +383,8 @@
 | [700 Free Online Programming & Computer Science Courses You Can Start This September](https://www.freecodecamp.org/news/free-online-programming-cs-courses/) | :us: |
 | [Introdução Ciência da Computação de Harvard](https://online-learning.harvard.edu/course/cs50-introduction-computer-science?delta=0) | :us: |
 | [Iniciante de JavaScript da Microsoft](https://www.youtube.com/playlist?list=PLlrxD0HtieHhW0NCG7M536uHGOtJ95Ut2) | :us: |
+
+[⬆ Back to the top](#-table-of-contents)
 
 ### FullStack Web Development
 
@@ -387,12 +424,14 @@
 | [AWS na Prática](https://academy.estabil.is/courses/aws-na-pratica) | :brazil: |
 | [AWS Cloud Practitioner Essentials](https://www.aws.training/Details/eLearning?id=62551) | :us: |
 
+[⬆ Back to the top](#-table-of-contents)
+
 ### Azure
 | Link | Language |
 | ----- | :-----: |
 | [Creating and deploying Rest API with Python on Azure](https://www.educative.io/courses/rest-api-python-microsoft-azure/N8GQyo2Q9A2) | :us: |
 
-
+[⬆ Back to the top](#-table-of-contents)
 
 ### DevOps
 
@@ -400,11 +439,6 @@
 | ----- | :-----: |
 | [DevOps Essentials](https://4linux.com.br/cursos/treinamento/devops-essentials/) | :brazil: |
 | [DevOps Foundation](https://academy.estabil.is/courses/devops-foundation) | :brazil: |
-
-### DevOps
-
-| Link | Language |
-| ----- | :-----: |
 | [GitOps at Scale](https://learning.codefresh.io/course/gitops-at-scale) | :us: |
 
 ### Docker
@@ -449,11 +483,15 @@
 | [Flutter - by Devaria](https://www.devaria.com.br/treinamentos/7) | :brazil: |
 | [Flutter - Rodrigo Rahman (YouTube)](https://www.youtube.com/watch?v=qt20g3zuVbA&list=PLEXr-WZRgPjwk2v5wYi70WN--pCGvN-9u) | :brazil: |
 
+[⬆ Back to the top](#-table-of-contents)
+
 ### Ionic
 
 | Link | Language |
 | ----- | :-----: |
 | [Ionic 3 para iniciantes (Udemy)](https://www.udemy.com/course/ionic-3-para-iniciantes/) | :brazil: |
+
+[⬆ Back to the top](#-table-of-contents)
 
 ### React Native
 
