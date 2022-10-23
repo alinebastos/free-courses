@@ -165,7 +165,8 @@
 | Link | Language |
 | ----- | :-----: |
 | [Python Fundamentos para Análise de Dados](https://www.datascienceacademy.com.br/course/python-fundamentos) | :brazil: |
-| [Python for Data Science and Analytics Tutorial Series by Tomi Mester](https://www.youtube.com/playlist?list=PLHS1p0ot3SVj5KMsvPBihB7JdEOox4Z-d) | :us: |
+| [Python for Data Science and Analytics Tutorial Series by Tomi Mester](https://www.youtube.com/playlist?list=PLHS1p0ot3SVj5KMsvPBihB7JdEOox4Z-d) | :us: | 
+| [Introduction to Data Science using Python](https://www.udemy.com/course/introduction-to-data-science-using-python/) | :us: |
 | [Fundamentos de pesquisa em Ciência da Computação 2](https://youtube.com/playlist?list=PLvvIUEwTZK9wvSEiASWyLXYb2a2KAON-v) | :brazil: |
 | [Understanding Data Science](https://www.datacamp.com/courses/understanding-data-science) | :us: |
 | [Data Visualization](https://www.kaggle.com/learn/data-visualization) | :us: |
