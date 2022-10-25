@@ -312,6 +312,7 @@
 | [JavaScript: Algoritmos + Estrutura de dados - Kura Web (YouTube)](https://www.youtube.com/playlist?list=PLpfKv2Mn_c-HTFozSx8iplzzBlQJnPs2j) | :brazil: |
 | [JavaScript Avançado: Jogos & Visualizações - Khan Academy](https://pt.khanacademy.org/computing/computer-programming/programming-games-visualizations) | :brazil: |
 | [JavaScript Básico - Code Cademy](https://www.codecademy.com/pt-BR/tracks/javascript) | :brazil: |
+| [JavaScript: Curso Introdutório](https://go.betrybe.com/freecourse?utm_medium=referral&utm_source=feministech&utm_campaign=3-maratona-live-coder-girls) | :brazil: |
 | [JavaScript Funcional (YouTube)](https://www.youtube.com/playlist?list=PL77JVjKTJT2iAlBJX3buyljqzfoR9nV_R) | :brazil: |
 | [JS avançado: Simulações Naturais - Khan Academy](https://pt.khanacademy.org/computing/computer-programming/programming-natural-simulations) | :brazil: |
 | [JavaScript e ECMAScript para Iniciantes - Gustavo Guanabara (YouTube)](https://www.youtube.com/playlist?list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1) | :brazil: |
