@@ -54,6 +54,7 @@
 | [Estrutura de Dados e Algoritmos com Java](https://loiane.training/curso/estrutura-de-dados) | :brazil: |
 | [Java Developer (Bootcamp)](https://digitalinnovation.one/bootcamps/java-developer?ref=novotec) | :brazil: |
 | [TDD – Desenvolvimento de software guiado por testes](https://pt.coursera.org/learn/tdd-desenvolvimento-de-software-guiado-por-testes) | :brazil: |
+| [Bootcamp Fullstack ONE](https://www.oracle.com/br/education/oracle-next-education/) | :brazil: |
 
 [⬆ Back to the top](#-table-of-contents)
 
