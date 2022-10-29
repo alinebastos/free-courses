@@ -402,7 +402,7 @@
 | [The Odin Project](https://www.theodinproject.com/) | :us: |
 | [Via rapida - Trilhas sp tech](https://www.cursosviarapida.sp.gov.br/trilhas/3/desenvolvedor-web-full-stack) | :brazil: |
 | [Rocketseat - Trilha Discover](https://www.rocketseat.com.br/discover) | :brazil: |
-
+| [Universidade de Helsiki - FullStack Open](https://fullstackopen.com/en/about/) | :us: |
 [⬆ Back to the top](#-table-of-contents)
 
 ---
@@ -507,7 +507,6 @@
 | Link | Language |
 | ----- | :-----: |
 | [React Native - By Geek Dev (YouTube)](https://youtube.com/playlist?list=PL8fIRnD1uUSnRqz3E2caAWDqbtIFXmNtW) | :brazil: |
-| [React Native Mobile Developer (Digital Innovation One)](https://digitalinnovation.one/bootcamps/react-native-mobile-developer?ref=novotec) | :brazil: |
 
 [⬆ Back to the top](#-table-of-contents)
 
