@@ -41,6 +41,7 @@
 | [Asp.Net Core 5 & 3 & 2.2 REST API Tutorial](https://www.youtube.com/watch?v=sdlt3-ptt9g&list=PLUOequmGnXxOgmSDWU7Tl6iQTsOtyjtwU) | :us: |
 | [Cracking the .NET interview](https://www.youtube.com/watch?v=U3QvTaw224o&list=PLUOequmGnXxOOg9Cx0Vj6JOFQZTCOyP5X) | :us: |
 | [C# backend - by Devaria](https://www.devaria.com.br/treinamentos/1) | :brazil: |
+| [Fundamentos do C#](https://balta.io/cursos/fundamentos-csharp) | :brazil: |
 
 [⬆ Back to the top](#-table-of-contents)
 
