@@ -6,6 +6,7 @@
 
 * [Agile Courses](#-agile-courses)
 * [Backend Courses](#-backend-courses)
+* [Cyber Security Courses](#-cyber-security-courses)
 * [Data Science Courses](#-data-science-courses)
 * [Ebooks](#-ebooks)
 * [Frontend Courses](#-frontend-courses)
@@ -14,9 +15,8 @@
 * [Infrastructure Courses](#-infrastructure-courses)
 * [Logic Courses](#-logic-courses)
 * [Mobile Courses](#-mobile-courses)
-* [Cyber Security Courses](#-cyber-security-courses)
-* [Test Automation Courses](#-test-automation-courses)
 * [Network](#-network)
+* [Test Automation Courses](#-test-automation-courses)
 ---
 
 ## 💻 Agile Courses
@@ -160,6 +160,20 @@
 
 ---
 
+## 💻 Cyber Security Courses
+
+| Link | Language |
+| ----- | :-----: |
+| [Web Security & Bug Bounty Basics/Segurança web e princípios básicos (Udemy)](https://www.udemy.com/course/web-security-bug-bounty-basics/) | :us: |
+| [Segurança Web - Código Seguro II A6 a A10 (Udemy)](https://www.udemy.com/course/wp-codigo-seguro-2/) | :brazil: |
+| [CS406: Information Security](https://learn.saylor.org/course/CS40)| :us: |
+| [Segurança Cibernética](https://skillsforall.com/career-path/cybersecurity?userLang=pt-BR) | :brazil: |
+| [Web Security Fundamentals](https://www.edx.org/course/web-security-fundamentals) | :us: |
+
+[⬆ Back to the top](#-table-of-contents)
+
+---
+
 ## 💻 Data Science Courses
 
 ### Data Analysis
@@ -167,7 +181,7 @@
 | Link | Language |
 | ----- | :-----: |
 | [Python Fundamentos para Análise de Dados](https://www.datascienceacademy.com.br/course/python-fundamentos) | :brazil: |
-| [Python for Data Science and Analytics Tutorial Series by Tomi Mester](https://www.youtube.com/playlist?list=PLHS1p0ot3SVj5KMsvPBihB7JdEOox4Z-d) | :us: | 
+| [Python for Data Science and Analytics Tutorial Series by Tomi Mester](https://www.youtube.com/playlist?list=PLHS1p0ot3SVj5KMsvPBihB7JdEOox4Z-d) | :us: |
 | [Introduction to Data Science using Python](https://www.udemy.com/course/introduction-to-data-science-using-python/) | :us: |
 | [Fundamentos de pesquisa em Ciência da Computação 2](https://youtube.com/playlist?list=PLvvIUEwTZK9wvSEiASWyLXYb2a2KAON-v) | :brazil: |
 | [Understanding Data Science](https://www.datacamp.com/courses/understanding-data-science) | :us: |
@@ -513,15 +527,12 @@
 
 ---
 
-## 💻 Cyber Security Courses
+## 💻 Network
 
 | Link | Language |
 | ----- | :-----: |
-| [Web Security & Bug Bounty Basics/Segurança web e princípios básicos (Udemy)](https://www.udemy.com/course/web-security-bug-bounty-basics/) | :us: |
-| [Segurança Web - Código Seguro II A6 a A10 (Udemy)](https://www.udemy.com/course/wp-codigo-seguro-2/) | :brazil: |
-| [CS406: Information Security](https://learn.saylor.org/course/CS40)| :us: |
-| [Segurança Cibernética](https://skillsforall.com/career-path/cybersecurity?userLang=pt-BR) | :brazil: |
-| [Web Security Fundamentals](https://www.edx.org/course/web-security-fundamentals) | :us: |
+| [Curso de Introdução a Rede de Computadores](https://www.youtube.com/playlist?list=PLAp37wMSBouCSV9H9Vbh8VlbQ0w8WU3ED) | :brazil: |
+| [Curso Prático - Rede de Computadores](https://www.youtube.com/playlist?list=PLAp37wMSBouBnNup2tD-mC36JT96vHBZy) | :brazil: |
 
 [⬆ Back to the top](#-table-of-contents)
 
@@ -533,17 +544,6 @@
 | ----- | :-----: |
 | [Test Automation University](https://testautomationu.applitools.com/) | :us: |
 | [Introdução ao Teste de Software](https://www.coursera.org/learn/intro-teste-de-software) | :brazil: |
-
-[⬆ Back to the top](#-table-of-contents)
-
----
-
-## 💻 Network
-
-| Link | Language |
-| ----- | :-----: |
-| [Curso de Introdução a Rede de Computadores](https://www.youtube.com/playlist?list=PLAp37wMSBouCSV9H9Vbh8VlbQ0w8WU3ED) | :brazil: |
-| [Curso Prático - Rede de Computadores](https://www.youtube.com/playlist?list=PLAp37wMSBouBnNup2tD-mC36JT96vHBZy) | :brazil: |
 
 [⬆ Back to the top](#-table-of-contents)
 
