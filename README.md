@@ -140,6 +140,7 @@
 | [Python](https://www.kaggle.com/learn/python/) | :us: |
 | [Python Curso em Vídeo](https://www.youtube.com/watch?v=S9uPNppGsGo&list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0) | :brazil: |
 | [Python for Everybody](https://py4e.com) | :us: |
+| [Python Tutorial](https://www.scaler.com/topics/python/)| :us: |
 | [Python para Zumbis](https://www.pycursos.com/python-para-zumbis/) | :brazil: |
 | [Python - Ignorância Zero](https://www.youtube.com/playlist?list=PLfCKf0-awunOu2WyLe2pSD2fXUo795xRe) | :brazil: |
 
