@@ -361,6 +361,7 @@
 | [Build a movie search app in React](https://scrimba.com/learn/reactmovie) | :us: |
 | [Curso de NextJS](https://youtube.com/playlist?list=PLkFMdTTdI9c2js2bPRUhChVA0jdI-358s) | :brazil: |
 | [Curso de React](https://youtube.com/playlist?list=PLt28SuGsHXH3EehPDQEd59SHMtfSYJUgR) | :brazil: |
+| [Full Modern React Tutorial](https://youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d) | :us: |
 | [Gatsby Build a Blog](https://www.youtube.com/playlist?list=PLW0RabRDhwwzVNhlOgQQgw6HJzXdM1MnT) | :us: |
 | [ReactJS - by Devaria](https://www.devaria.com.br/treinamentos/3) | :brazil: |
 | [ReactJS - By Rocketseat](https://app.rocketseat.com.br/node/curso-react-js) | :brazil: |
