@@ -185,6 +185,8 @@
 | [Curso de Inteligência Artificial para todos](https://www.youtube.com/playlist?list=PLtQM10PgmGogjn0cikgWi8wpQUnV6ERkY) | :brazil: |
 | [Eletrônicos CODEiot](https://codeiot.org.br/courses?search_query=IOT103%20IOT103EN%20IOT103ES) | :us: |
 | [Introdução à tecnologia de IA para líderes de negócios](http://www.brasilmaisdigital.org.br/index.php/pt-br/cursos-online/2017-05-23-17-40-54/94-introduc-o-a-tecnologia-de-ia-para-lideres-de-negocios/preview) | :brazil: |
+| [Artificial Intelligence Tools ](https://www.youtube.com/watch?v=v6OB80Vt1Dk) | :us: |
+
 
 [⬆ Back to the top](#-table-of-contents)
 
